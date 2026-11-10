@@ -1,0 +1,1234 @@
+{
+  "batchcomplete": "",
+  "continue": {
+    "gsroffset": 10,
+    "continue": "gsroffset||"
+  },
+  "query": {
+    "pages": {
+      "157976119": {
+        "pageid": 157976119,
+        "ns": 6,
+        "title": "File:Bundesglasfaser 0021.jpg",
+        "index": 6,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2589827,
+            "width": 3000,
+            "height": 4000,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Bundesglasfaser_0021.jpg/1280px-Bundesglasfaser_0021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1024,
+            "thumbheight": 1365,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Bundesglasfaser_0021.jpg/1920px-Bundesglasfaser_0021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Bundesglasfaser_0021.jpg/1280px-Bundesglasfaser_0021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1024,
+              "height": 1365,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Bundesglasfaser_0021.jpg/1920px-Bundesglasfaser_0021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Bundesglasfaser_0021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Bundesglasfaser_0021.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=157976119",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2025-01-15 09:11:50",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Bundesglasfaser 0021",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Files by C.Suthorn|Retouched pictures|Platz der Republik (Berlin-Tiergarten)|Personality rights warning|Optical fiber cables in Germany|Information field template with formatting|FoP-Germany|Files with coordinates missing SDC location of creation|Berlin photographs taken on 2024-12-08|File contains alternative text in EXIF data description field|Files (PR) by C.Suthorn",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "52.519288",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "13.371064",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "On the occasion of the 75th anniversary of the Basic Law, the Federal Republic of Germany organised a ‘Constitution Festival’. This took place mainly on Willy-Brand-Platz between the Chancellery and the Pual-Löbe-Haus, where the offices of the members of the Bundestag and the meeting rooms of the Bundestag committees are located, and on Platz der Republik between the Reichstag building on one side and the ‘Tipi’ and the ‘Haus der Kulturen der Welt’ on the other. In addition to the entertainment programme on stages on Willy-Brandt-Platz and Platz der Republik, information stands of various institutions were an important part of the event. NGOs were located on the meadow next to the Swiss Embassy. Federal ministries and federal authorities (such as the Federal Statistical Office and the Federal Office against Discrimination) had information stands along Paul-Löbe-Allee, which runs between the Reichstag, Paul-Löbe-Haus and the Chancellery from the Spree to the House of World Cultures. These stands of all federal ministries were supplied with internet via fibre optics. A fibre optic distribution box had previously been erected on the edge of Platz der Republik for this purpose. Since the end of the Constitution Festival, it has no longer been used and has been forgotten.  The optical fibres emanating from the box are exposed to the weather without protection. Their position is constantly changing due to external influences. There are unobstructed lines of sight between the distribution box and the Paul Löbe House, the Reichstag and the Chancellery. As the distribution box is located diagonally opposite one of the two entrances to the Chancellery and on the road used by city tours in double-decker buses, diplomats, media representatives, members of the legislative and executive branches of government, the Bundeswehr buses used by the state band to perform in the Chancellery during state visits by heads of government from other countries, it is seen every day by a large number of high-ranking politicians, civil servants, diplomats, press representatives and tourists from Berlin, the rest of Germany and the rest of the world. The photos with the name prefix ‘Bundesglasfaser’ document the changes over time to the distribution box and the fibre ends connected to it, starting with its construction in 2024 until the time when the box will either be dismantled again or the fibre ends will no longer be exposed to the weather in an untidy state. In view of its position in the middle of Germany's federal politics, this distribution box is ideally suited to illustrate and symbolise the devastating situation of digital policy in Germany. Bianca Kastl has coined the term ‘degitalisation’ to describe this regrettable digital policy.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2024-12-08",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span> (<a href=\"https://en.wikipedia.org/wiki/International_Press_Telecommunications_Council\" class=\"extiw\" title=\"w:International Press Telecommunications Council\">IPTC</a> Unique Object Name: CS-sdszvxxsdsz)",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<table style=\"margin: 1.5em auto; width:100%; color:var(--color-base,#202122); background-color:var(--background-color-neutral-subtle,#f8f9fa); border:2px solid #cccccc; padding:1px;\" cellspacing=\"10\">\n\n\n<tbody><tr>\n<td align=\"center\"><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Bundesglasfaser_0021.jpg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Bundesglasfaser_0021.jpg/250px-Bundesglasfaser_0021.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"160\" height=\"213\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Bundesglasfaser_0021.jpg/330px-Bundesglasfaser_0021.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"3000\" data-file-height=\"4000\"></a></span>\n</td>\n<td align=\"center\"><a href=\"https://upload.wikimedia.org/wikipedia/commons/7/7f/Bundesglasfaser_0021.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=api&amp;utm_content=original\" class=\"internal\" title=\"Bundesglasfaser 0021.jpg\"><b> This image</b></a> is a work by Wikipedia and Wikimedia Commons user C.Suthorn. When reusing, <a rel=\"nofollow\" class=\"external text\" href=\"https://p7press.eu/easy-attribution?file=Bundesglasfaser_0021.jpg&amp;ref=sdszvxxsdsz&amp;author=C.Suthorn&amp;lic=cc-by-sa-4.0&amp;type=print,social\"><i>credit</i></a> me as described in the Licensing information below. <span typeof=\"mw:File\"><span><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/UserIconMail.svg/40px-UserIconMail.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/UserIconMail.svg/60px-UserIconMail.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"700\" data-file-height=\"700\"></span></span> I would appreciate being notified (<a href=\"//commons.wikimedia.org/wiki/Special:EmailUser/C.Suthorn\" title=\"Special:EmailUser/C.Suthorn\">wikimail</a>, <a href=\"//commons.wikimedia.org/wiki/User_talk:C.Suthorn\" title=\"User talk:C.Suthorn\">talk page</a>, <a href=\"//commons.wikimedia.org/wiki/User:C.Suthorn\" title=\"User:C.Suthorn\">email</a>, <a rel=\"nofollow\" class=\"external text\" href=\"https://no-pony.farm/@Life_is\">Social Media</a>) if you use my work outside Wikimedia.\n<p>Do not copy this image illegally by ignoring the terms of the license below, as it is not in the public domain. If you would like special permission to use, license, or purchase the image please contact me to negotiate terms.\n</p><p><br>\n</p><p>More of my work can be found in my <a href=\"//commons.wikimedia.org/wiki/Category:Files_by_C.Suthorn\" title=\"Category:Files by C.Suthorn\">personal gallery</a> or at my <a rel=\"nofollow\" class=\"external text\" href=\"http://p7.ee/PRT/CHANNEL\">Peertube channel</a>.\n</p>\n</td></tr></tbody></table>\n<table style=\"margin: 1.5em auto; width:100%; color:var(--color-base,#202122); background-color:var(--background-color-success-subtle,#dff2eb); border:2px solid var(--border-color-success,#099979); padding:1px;\" cellspacing=\"10\">\n<tbody><tr>\n<td>A prepared attribution especially for use in Social Media and Print (newspapers, flyers, books, murals, mousepads, mugs, posters, t-shirts) can be copied <a rel=\"nofollow\" class=\"external text\" href=\"https://p7press.eu/easy-attribution?file=Bundesglasfaser_0021.jpg&amp;ref=sdszvxxsdsz&amp;author=C.Suthorn&amp;lic=cc-by-sa-4.0&amp;type=print,social\"><i>here</i></a>\n</td></tr></tbody></table>\n<p><br>\n</p>",
+                "source": "commons-desc-page"
+              },
+              "Attribution": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/Creator:C.Suthorn\" title=\"Creator:C.Suthorn\">C.Suthorn</a> /  <span class=\"plainlinks\"><a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/legalcode\">cc-by-sa-4.0</a></span> / <a href=\"https://upload.wikimedia.org/wikipedia/commons/7/7f/Bundesglasfaser_0021.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=api&amp;utm_content=original\" class=\"internal\" title=\"Bundesglasfaser 0021.jpg\">commons.wikimedia.org</a><small><br>\n(Note the three necessary links to author, licence and image file in the attribution.)</small>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "personality",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "157976375": {
+        "pageid": 157976375,
+        "ns": 6,
+        "title": "File:Bundesglasfaser 0027.jpg",
+        "index": 4,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1985814,
+            "width": 3000,
+            "height": 4000,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Bundesglasfaser_0027.jpg/1280px-Bundesglasfaser_0027.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1024,
+            "thumbheight": 1365,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Bundesglasfaser_0027.jpg/1920px-Bundesglasfaser_0027.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Bundesglasfaser_0027.jpg/1280px-Bundesglasfaser_0027.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1024,
+              "height": 1365,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Bundesglasfaser_0027.jpg/1920px-Bundesglasfaser_0027.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Bundesglasfaser_0027.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Bundesglasfaser_0027.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=157976375",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2025-01-15 09:20:17",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Bundesglasfaser 0027",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Files by C.Suthorn|Retouched pictures|Platz der Republik (Berlin-Tiergarten)|Personality rights warning|Optical fiber cables in Germany|Information field template with formatting|FoP-Germany|Files with coordinates missing SDC location of creation|Berlin photographs taken on 2024-12-08|File contains alternative text in EXIF data description field|Files (PR) by C.Suthorn",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "52.519288",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "13.371064",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "On the occasion of the 75th anniversary of the Basic Law, the Federal Republic of Germany organised a ‘Constitution Festival’. This took place mainly on Willy-Brand-Platz between the Chancellery and the Pual-Löbe-Haus, where the offices of the members of the Bundestag and the meeting rooms of the Bundestag committees are located, and on Platz der Republik between the Reichstag building on one side and the ‘Tipi’ and the ‘Haus der Kulturen der Welt’ on the other. In addition to the entertainment programme on stages on Willy-Brandt-Platz and Platz der Republik, information stands of various institutions were an important part of the event. NGOs were located on the meadow next to the Swiss Embassy. Federal ministries and federal authorities (such as the Federal Statistical Office and the Federal Office against Discrimination) had information stands along Paul-Löbe-Allee, which runs between the Reichstag, Paul-Löbe-Haus and the Chancellery from the Spree to the House of World Cultures. These stands of all federal ministries were supplied with internet via fibre optics. A fibre optic distribution box had previously been erected on the edge of Platz der Republik for this purpose. Since the end of the Constitution Festival, it has no longer been used and has been forgotten.  The optical fibres emanating from the box are exposed to the weather without protection. Their position is constantly changing due to external influences. There are unobstructed lines of sight between the distribution box and the Paul Löbe House, the Reichstag and the Chancellery. As the distribution box is located diagonally opposite one of the two entrances to the Chancellery and on the road used by city tours in double-decker buses, diplomats, media representatives, members of the legislative and executive branches of government, the Bundeswehr buses used by the state band to perform in the Chancellery during state visits by heads of government from other countries, it is seen every day by a large number of high-ranking politicians, civil servants, diplomats, press representatives and tourists from Berlin, the rest of Germany and the rest of the world. The photos with the name prefix ‘Bundesglasfaser’ document the changes over time to the distribution box and the fibre ends connected to it, starting with its construction in 2024 until the time when the box will either be dismantled again or the fibre ends will no longer be exposed to the weather in an untidy state. In view of its position in the middle of Germany's federal politics, this distribution box is ideally suited to illustrate and symbolise the devastating situation of digital policy in Germany. Bianca Kastl has coined the term ‘degitalisation’ to describe this regrettable digital policy.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2024-12-08",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span> (<a href=\"https://en.wikipedia.org/wiki/International_Press_Telecommunications_Council\" class=\"extiw\" title=\"w:International Press Telecommunications Council\">IPTC</a> Unique Object Name: CS-sncgtfusncg)",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<table style=\"margin: 1.5em auto; width:100%; color:var(--color-base,#202122); background-color:var(--background-color-neutral-subtle,#f8f9fa); border:2px solid #cccccc; padding:1px;\" cellspacing=\"10\">\n\n\n<tbody><tr>\n<td align=\"center\"><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Bundesglasfaser_0027.jpg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Bundesglasfaser_0027.jpg/250px-Bundesglasfaser_0027.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"160\" height=\"213\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Bundesglasfaser_0027.jpg/330px-Bundesglasfaser_0027.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"3000\" data-file-height=\"4000\"></a></span>\n</td>\n<td align=\"center\"><a href=\"https://upload.wikimedia.org/wikipedia/commons/9/97/Bundesglasfaser_0027.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=api&amp;utm_content=original\" class=\"internal\" title=\"Bundesglasfaser 0027.jpg\"><b> This image</b></a> is a work by Wikipedia and Wikimedia Commons user C.Suthorn. When reusing, <a rel=\"nofollow\" class=\"external text\" href=\"https://p7press.eu/easy-attribution?file=Bundesglasfaser_0027.jpg&amp;ref=sncgtfusncg&amp;author=C.Suthorn&amp;lic=cc-by-sa-4.0&amp;type=print,social\"><i>credit</i></a> me as described in the Licensing information below. <span typeof=\"mw:File\"><span><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/UserIconMail.svg/40px-UserIconMail.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/UserIconMail.svg/60px-UserIconMail.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"700\" data-file-height=\"700\"></span></span> I would appreciate being notified (<a href=\"//commons.wikimedia.org/wiki/Special:EmailUser/C.Suthorn\" title=\"Special:EmailUser/C.Suthorn\">wikimail</a>, <a href=\"//commons.wikimedia.org/wiki/User_talk:C.Suthorn\" title=\"User talk:C.Suthorn\">talk page</a>, <a href=\"//commons.wikimedia.org/wiki/User:C.Suthorn\" title=\"User:C.Suthorn\">email</a>, <a rel=\"nofollow\" class=\"external text\" href=\"https://no-pony.farm/@Life_is\">Social Media</a>) if you use my work outside Wikimedia.\n<p>Do not copy this image illegally by ignoring the terms of the license below, as it is not in the public domain. If you would like special permission to use, license, or purchase the image please contact me to negotiate terms.\n</p><p><br>\n</p><p>More of my work can be found in my <a href=\"//commons.wikimedia.org/wiki/Category:Files_by_C.Suthorn\" title=\"Category:Files by C.Suthorn\">personal gallery</a> or at my <a rel=\"nofollow\" class=\"external text\" href=\"http://p7.ee/PRT/CHANNEL\">Peertube channel</a>.\n</p>\n</td></tr></tbody></table>\n<table style=\"margin: 1.5em auto; width:100%; color:var(--color-base,#202122); background-color:var(--background-color-success-subtle,#dff2eb); border:2px solid var(--border-color-success,#099979); padding:1px;\" cellspacing=\"10\">\n<tbody><tr>\n<td>A prepared attribution especially for use in Social Media and Print (newspapers, flyers, books, murals, mousepads, mugs, posters, t-shirts) can be copied <a rel=\"nofollow\" class=\"external text\" href=\"https://p7press.eu/easy-attribution?file=Bundesglasfaser_0027.jpg&amp;ref=sncgtfusncg&amp;author=C.Suthorn&amp;lic=cc-by-sa-4.0&amp;type=print,social\"><i>here</i></a>\n</td></tr></tbody></table>\n<p><br>\n</p>",
+                "source": "commons-desc-page"
+              },
+              "Attribution": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/Creator:C.Suthorn\" title=\"Creator:C.Suthorn\">C.Suthorn</a> /  <span class=\"plainlinks\"><a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/legalcode\">cc-by-sa-4.0</a></span> / <a href=\"https://upload.wikimedia.org/wikipedia/commons/9/97/Bundesglasfaser_0027.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=api&amp;utm_content=original\" class=\"internal\" title=\"Bundesglasfaser 0027.jpg\">commons.wikimedia.org</a><small><br>\n(Note the three necessary links to author, licence and image file in the attribution.)</small>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "personality",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "157976972": {
+        "pageid": 157976972,
+        "ns": 6,
+        "title": "File:Bundesglasfaser 0034.jpg",
+        "index": 9,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3528899,
+            "width": 3000,
+            "height": 4000,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Bundesglasfaser_0034.jpg/1280px-Bundesglasfaser_0034.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1024,
+            "thumbheight": 1365,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Bundesglasfaser_0034.jpg/1920px-Bundesglasfaser_0034.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Bundesglasfaser_0034.jpg/1280px-Bundesglasfaser_0034.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1024,
+              "height": 1365,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Bundesglasfaser_0034.jpg/1920px-Bundesglasfaser_0034.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Bundesglasfaser_0034.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Bundesglasfaser_0034.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=157976972",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2025-01-15 09:44:04",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Bundesglasfaser 0034",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Files by C.Suthorn|Retouched pictures|Platz der Republik (Berlin-Tiergarten)|Personality rights warning|Optical fiber cables in Germany|Information field template with formatting|FoP-Germany|Files with coordinates missing SDC location of creation|2024-12-15|File contains alternative text in EXIF data description field|Files (PR) by C.Suthorn",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "52.519288",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "13.371064",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "On the occasion of the 75th anniversary of the Basic Law, the Federal Republic of Germany organised a ‘Constitution Festival’. This took place mainly on Willy-Brand-Platz between the Chancellery and the Pual-Löbe-Haus, where the offices of the members of the Bundestag and the meeting rooms of the Bundestag committees are located, and on Platz der Republik between the Reichstag building on one side and the ‘Tipi’ and the ‘Haus der Kulturen der Welt’ on the other. In addition to the entertainment programme on stages on Willy-Brandt-Platz and Platz der Republik, information stands of various institutions were an important part of the event. NGOs were located on the meadow next to the Swiss Embassy. Federal ministries and federal authorities (such as the Federal Statistical Office and the Federal Office against Discrimination) had information stands along Paul-Löbe-Allee, which runs between the Reichstag, Paul-Löbe-Haus and the Chancellery from the Spree to the House of World Cultures. These stands of all federal ministries were supplied with internet via fibre optics. A fibre optic distribution box had previously been erected on the edge of Platz der Republik for this purpose. Since the end of the Constitution Festival, it has no longer been used and has been forgotten.  The optical fibres emanating from the box are exposed to the weather without protection. Their position is constantly changing due to external influences. There are unobstructed lines of sight between the distribution box and the Paul Löbe House, the Reichstag and the Chancellery. As the distribution box is located diagonally opposite one of the two entrances to the Chancellery and on the road used by city tours in double-decker buses, diplomats, media representatives, members of the legislative and executive branches of government, the Bundeswehr buses used by the state band to perform in the Chancellery during state visits by heads of government from other countries, it is seen every day by a large number of high-ranking politicians, civil servants, diplomats, press representatives and tourists from Berlin, the rest of Germany and the rest of the world. The photos with the name prefix ‘Bundesglasfaser’ document the changes over time to the distribution box and the fibre ends connected to it, starting with its construction in 2024 until the time when the box will either be dismantled again or the fibre ends will no longer be exposed to the weather in an untidy state. In view of its position in the middle of Germany's federal politics, this distribution box is ideally suited to illustrate and symbolise the devastating situation of digital policy in Germany. Bianca Kastl has coined the term ‘degitalisation’ to describe this regrettable digital policy.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2024-12-15",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span> (<a href=\"https://en.wikipedia.org/wiki/International_Press_Telecommunications_Council\" class=\"extiw\" title=\"w:International Press Telecommunications Council\">IPTC</a> Unique Object Name: CS-cskwdrjcskw)",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<table style=\"margin: 1.5em auto; width:100%; color:var(--color-base,#202122); background-color:var(--background-color-neutral-subtle,#f8f9fa); border:2px solid #cccccc; padding:1px;\" cellspacing=\"10\">\n\n\n<tbody><tr>\n<td align=\"center\"><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Bundesglasfaser_0034.jpg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Bundesglasfaser_0034.jpg/250px-Bundesglasfaser_0034.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"160\" height=\"213\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Bundesglasfaser_0034.jpg/330px-Bundesglasfaser_0034.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"3000\" data-file-height=\"4000\"></a></span>\n</td>\n<td align=\"center\"><a href=\"https://upload.wikimedia.org/wikipedia/commons/8/82/Bundesglasfaser_0034.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=api&amp;utm_content=original\" class=\"internal\" title=\"Bundesglasfaser 0034.jpg\"><b> This image</b></a> is a work by Wikipedia and Wikimedia Commons user C.Suthorn. When reusing, <a rel=\"nofollow\" class=\"external text\" href=\"https://p7press.eu/easy-attribution?file=Bundesglasfaser_0034.jpg&amp;ref=cskwdrjcskw&amp;author=C.Suthorn&amp;lic=cc-by-sa-4.0&amp;type=print,social\"><i>credit</i></a> me as described in the Licensing information below. <span typeof=\"mw:File\"><span><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/UserIconMail.svg/40px-UserIconMail.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/UserIconMail.svg/60px-UserIconMail.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"700\" data-file-height=\"700\"></span></span> I would appreciate being notified (<a href=\"//commons.wikimedia.org/wiki/Special:EmailUser/C.Suthorn\" title=\"Special:EmailUser/C.Suthorn\">wikimail</a>, <a href=\"//commons.wikimedia.org/wiki/User_talk:C.Suthorn\" title=\"User talk:C.Suthorn\">talk page</a>, <a href=\"//commons.wikimedia.org/wiki/User:C.Suthorn\" title=\"User:C.Suthorn\">email</a>, <a rel=\"nofollow\" class=\"external text\" href=\"https://no-pony.farm/@Life_is\">Social Media</a>) if you use my work outside Wikimedia.\n<p>Do not copy this image illegally by ignoring the terms of the license below, as it is not in the public domain. If you would like special permission to use, license, or purchase the image please contact me to negotiate terms.\n</p><p><br>\n</p><p>More of my work can be found in my <a href=\"//commons.wikimedia.org/wiki/Category:Files_by_C.Suthorn\" title=\"Category:Files by C.Suthorn\">personal gallery</a> or at my <a rel=\"nofollow\" class=\"external text\" href=\"http://p7.ee/PRT/CHANNEL\">Peertube channel</a>.\n</p>\n</td></tr></tbody></table>\n<table style=\"margin: 1.5em auto; width:100%; color:var(--color-base,#202122); background-color:var(--background-color-success-subtle,#dff2eb); border:2px solid var(--border-color-success,#099979); padding:1px;\" cellspacing=\"10\">\n<tbody><tr>\n<td>A prepared attribution especially for use in Social Media and Print (newspapers, flyers, books, murals, mousepads, mugs, posters, t-shirts) can be copied <a rel=\"nofollow\" class=\"external text\" href=\"https://p7press.eu/easy-attribution?file=Bundesglasfaser_0034.jpg&amp;ref=cskwdrjcskw&amp;author=C.Suthorn&amp;lic=cc-by-sa-4.0&amp;type=print,social\"><i>here</i></a>\n</td></tr></tbody></table>\n<p><br>\n</p>",
+                "source": "commons-desc-page"
+              },
+              "Attribution": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/Creator:C.Suthorn\" title=\"Creator:C.Suthorn\">C.Suthorn</a> /  <span class=\"plainlinks\"><a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/legalcode\">cc-by-sa-4.0</a></span> / <a href=\"https://upload.wikimedia.org/wikipedia/commons/8/82/Bundesglasfaser_0034.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=api&amp;utm_content=original\" class=\"internal\" title=\"Bundesglasfaser 0034.jpg\">commons.wikimedia.org</a><small><br>\n(Note the three necessary links to author, licence and image file in the attribution.)</small>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "personality",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "157977972": {
+        "pageid": 157977972,
+        "ns": 6,
+        "title": "File:Bundesglasfaser 0035 (cropped).jpg",
+        "index": 10,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 119904,
+            "width": 480,
+            "height": 240,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Bundesglasfaser_0035_%28cropped%29.jpg/330px-Bundesglasfaser_0035_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1024,
+            "thumbheight": 512,
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Bundesglasfaser_0035_%28cropped%29.jpg/330px-Bundesglasfaser_0035_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1024,
+              "height": 512
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Bundesglasfaser_0035_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Bundesglasfaser_0035_(cropped).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=157977972",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2025-01-15 14:49:11",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Bundesglasfaser 0035 (cropped)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Files by C.Suthorn|Retouched pictures|Platz der Republik (Berlin-Tiergarten)|Personality rights warning|Optical fiber cables in Germany|Extracted images|Information field template with formatting|FoP-Germany|Files with coordinates missing SDC location of creation|2024-12-15|File contains alternative text in EXIF data description field|Files (cropped) by C.Suthorn|Files (PR) by C.Suthorn",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "52.519288",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "13.371064",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "On the occasion of the 75th anniversary of the Basic Law, the Federal Republic of Germany organised a ‘Constitution Festival’. This took place mainly on Willy-Brand-Platz between the Chancellery and the Pual-Löbe-Haus, where the offices of the members of the Bundestag and the meeting rooms of the Bundestag committees are located, and on Platz der Republik between the Reichstag building on one side and the ‘Tipi’ and the ‘Haus der Kulturen der Welt’ on the other. In addition to the entertainment programme on stages on Willy-Brandt-Platz and Platz der Republik, information stands of various institutions were an important part of the event. NGOs were located on the meadow next to the Swiss Embassy. Federal ministries and federal authorities (such as the Federal Statistical Office and the Federal Office against Discrimination) had information stands along Paul-Löbe-Allee, which runs between the Reichstag, Paul-Löbe-Haus and the Chancellery from the Spree to the House of World Cultures. These stands of all federal ministries were supplied with internet via fibre optics. A fibre optic distribution box had previously been erected on the edge of Platz der Republik for this purpose. Since the end of the Constitution Festival, it has no longer been used and has been forgotten.  The optical fibres emanating from the box are exposed to the weather without protection. Their position is constantly changing due to external influences. There are unobstructed lines of sight between the distribution box and the Paul Löbe House, the Reichstag and the Chancellery. As the distribution box is located diagonally opposite one of the two entrances to the Chancellery and on the road used by city tours in double-decker buses, diplomats, media representatives, members of the legislative and executive branches of government, the Bundeswehr buses used by the state band to perform in the Chancellery during state visits by heads of government from other countries, it is seen every day by a large number of high-ranking politicians, civil servants, diplomats, press representatives and tourists from Berlin, the rest of Germany and the rest of the world. The photos with the name prefix ‘Bundesglasfaser’ document the changes over time to the distribution box and the fibre ends connected to it, starting with its construction in 2024 until the time when the box will either be dismantled again or the fibre ends will no longer be exposed to the weather in an untidy state. In view of its position in the middle of Germany's federal politics, this distribution box is ideally suited to illustrate and symbolise the devastating situation of digital policy in Germany. Bianca Kastl has coined the term ‘degitalisation’ to describe this regrettable digital policy.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2024-12-15",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span> (<a href=\"https://en.wikipedia.org/wiki/International_Press_Telecommunications_Council\" class=\"extiw\" title=\"w:International Press Telecommunications Council\">IPTC</a> Unique Object Name: CS-lytibxmlyti)",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<table style=\"margin: 1.5em auto; width:100%; color:var(--color-base,#202122); background-color:var(--background-color-neutral-subtle,#f8f9fa); border:2px solid #cccccc; padding:1px;\" cellspacing=\"10\">\n\n\n<tbody><tr>\n<td align=\"center\"><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Bundesglasfaser_0035_(cropped).jpg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Bundesglasfaser_0035_%28cropped%29.jpg/250px-Bundesglasfaser_0035_%28cropped%29.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"160\" height=\"80\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Bundesglasfaser_0035_%28cropped%29.jpg/330px-Bundesglasfaser_0035_%28cropped%29.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"480\" data-file-height=\"240\"></a></span>\n</td>\n<td align=\"center\"><a href=\"https://upload.wikimedia.org/wikipedia/commons/4/4f/Bundesglasfaser_0035_%28cropped%29.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=api&amp;utm_content=original\" class=\"internal\" title=\"Bundesglasfaser 0035 (cropped).jpg\"><b> This image</b></a> is a work by Wikipedia and Wikimedia Commons user C.Suthorn. When reusing, <a rel=\"nofollow\" class=\"external text\" href=\"https://p7press.eu/easy-attribution?file=Bundesglasfaser_0035_(cropped).jpg&amp;ref=lytibxmlyti&amp;author=C.Suthorn&amp;lic=cc-by-sa-4.0&amp;type=print,social\"><i>credit</i></a> me as described in the Licensing information below. <span typeof=\"mw:File\"><span><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/UserIconMail.svg/40px-UserIconMail.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/UserIconMail.svg/60px-UserIconMail.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"700\" data-file-height=\"700\"></span></span> I would appreciate being notified (<a href=\"//commons.wikimedia.org/wiki/Special:EmailUser/C.Suthorn\" title=\"Special:EmailUser/C.Suthorn\">wikimail</a>, <a href=\"//commons.wikimedia.org/wiki/User_talk:C.Suthorn\" title=\"User talk:C.Suthorn\">talk page</a>, <a href=\"//commons.wikimedia.org/wiki/User:C.Suthorn\" title=\"User:C.Suthorn\">email</a>, <a rel=\"nofollow\" class=\"external text\" href=\"https://no-pony.farm/@Life_is\">Social Media</a>) if you use my work outside Wikimedia.\n<p>Do not copy this image illegally by ignoring the terms of the license below, as it is not in the public domain. If you would like special permission to use, license, or purchase the image please contact me to negotiate terms.\n</p><p><br>\n</p><p>More of my work can be found in my <a href=\"//commons.wikimedia.org/wiki/Category:Files_by_C.Suthorn\" title=\"Category:Files by C.Suthorn\">personal gallery</a> or at my <a rel=\"nofollow\" class=\"external text\" href=\"http://p7.ee/PRT/CHANNEL\">Peertube channel</a>.\n</p>\n</td></tr></tbody></table>\n<table style=\"margin: 1.5em auto; width:100%; color:var(--color-base,#202122); background-color:var(--background-color-success-subtle,#dff2eb); border:2px solid var(--border-color-success,#099979); padding:1px;\" cellspacing=\"10\">\n<tbody><tr>\n<td>A prepared attribution especially for use in Social Media and Print (newspapers, flyers, books, murals, mousepads, mugs, posters, t-shirts) can be copied <a rel=\"nofollow\" class=\"external text\" href=\"https://p7press.eu/easy-attribution?file=Bundesglasfaser_0035_(cropped).jpg&amp;ref=lytibxmlyti&amp;author=C.Suthorn&amp;lic=cc-by-sa-4.0&amp;type=print,social\"><i>here</i></a>\n</td></tr></tbody></table>\n<p><br>\n</p>",
+                "source": "commons-desc-page"
+              },
+              "Attribution": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/Creator:C.Suthorn\" title=\"Creator:C.Suthorn\">C.Suthorn</a> /  <span class=\"plainlinks\"><a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/legalcode\">cc-by-sa-4.0</a></span> / <a href=\"https://upload.wikimedia.org/wikipedia/commons/4/4f/Bundesglasfaser_0035_%28cropped%29.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=api&amp;utm_content=original\" class=\"internal\" title=\"Bundesglasfaser 0035 (cropped).jpg\">commons.wikimedia.org</a><small><br>\n(Note the three necessary links to author, licence and image file in the attribution.)</small>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "personality",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "157977902": {
+        "pageid": 157977902,
+        "ns": 6,
+        "title": "File:Bundesglasfaser 0037.jpg",
+        "index": 3,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2747797,
+            "width": 3024,
+            "height": 4032,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Bundesglasfaser_0037.jpg/1280px-Bundesglasfaser_0037.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1024,
+            "thumbheight": 1365,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Bundesglasfaser_0037.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Bundesglasfaser_0037.jpg/1280px-Bundesglasfaser_0037.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1024,
+              "height": 1365,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Bundesglasfaser_0037.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Bundesglasfaser_0037.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Bundesglasfaser_0037.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=157977902",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2025-01-15 10:07:05",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Bundesglasfaser 0037",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Files by C.Suthorn|Retouched pictures|Platz der Republik (Berlin-Tiergarten)|Personality rights warning|Optical fiber cables in Germany|Images with extracted images|Information field template with formatting|FoP-Germany|Files with coordinates missing SDC location of creation|Berlin photographs taken on 2024-12-08|File contains alternative text in EXIF data description field|Files (PR) by C.Suthorn",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "52.519288",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "13.371064",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "On the occasion of the 75th anniversary of the Basic Law, the Federal Republic of Germany organised a ‘Constitution Festival’. This took place mainly on Willy-Brand-Platz between the Chancellery and the Pual-Löbe-Haus, where the offices of the members of the Bundestag and the meeting rooms of the Bundestag committees are located, and on Platz der Republik between the Reichstag building on one side and the ‘Tipi’ and the ‘Haus der Kulturen der Welt’ on the other. In addition to the entertainment programme on stages on Willy-Brandt-Platz and Platz der Republik, information stands of various institutions were an important part of the event. NGOs were located on the meadow next to the Swiss Embassy. Federal ministries and federal authorities (such as the Federal Statistical Office and the Federal Office against Discrimination) had information stands along Paul-Löbe-Allee, which runs between the Reichstag, Paul-Löbe-Haus and the Chancellery from the Spree to the House of World Cultures. These stands of all federal ministries were supplied with internet via fibre optics. A fibre optic distribution box had previously been erected on the edge of Platz der Republik for this purpose. Since the end of the Constitution Festival, it has no longer been used and has been forgotten.  The optical fibres emanating from the box are exposed to the weather without protection. Their position is constantly changing due to external influences. There are unobstructed lines of sight between the distribution box and the Paul Löbe House, the Reichstag and the Chancellery. As the distribution box is located diagonally opposite one of the two entrances to the Chancellery and on the road used by city tours in double-decker buses, diplomats, media representatives, members of the legislative and executive branches of government, the Bundeswehr buses used by the state band to perform in the Chancellery during state visits by heads of government from other countries, it is seen every day by a large number of high-ranking politicians, civil servants, diplomats, press representatives and tourists from Berlin, the rest of Germany and the rest of the world. The photos with the name prefix ‘Bundesglasfaser’ document the changes over time to the distribution box and the fibre ends connected to it, starting with its construction in 2024 until the time when the box will either be dismantled again or the fibre ends will no longer be exposed to the weather in an untidy state. In view of its position in the middle of Germany's federal politics, this distribution box is ideally suited to illustrate and symbolise the devastating situation of digital policy in Germany. Bianca Kastl has coined the term ‘degitalisation’ to describe this regrettable digital policy.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2024-12-08",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span> (<a href=\"https://en.wikipedia.org/wiki/International_Press_Telecommunications_Council\" class=\"extiw\" title=\"w:International Press Telecommunications Council\">IPTC</a> Unique Object Name: CS-rsqyvnmrsqy)",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<table style=\"margin: 1.5em auto; width:100%; color:var(--color-base,#202122); background-color:var(--background-color-neutral-subtle,#f8f9fa); border:2px solid #cccccc; padding:1px;\" cellspacing=\"10\">\n\n\n<tbody><tr>\n<td align=\"center\"><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Bundesglasfaser_0037.jpg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Bundesglasfaser_0037.jpg/250px-Bundesglasfaser_0037.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"160\" height=\"213\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Bundesglasfaser_0037.jpg/330px-Bundesglasfaser_0037.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"3024\" data-file-height=\"4032\"></a></span>\n</td>\n<td align=\"center\"><a href=\"https://upload.wikimedia.org/wikipedia/commons/1/1a/Bundesglasfaser_0037.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=api&amp;utm_content=original\" class=\"internal\" title=\"Bundesglasfaser 0037.jpg\"><b> This image</b></a> is a work by Wikipedia and Wikimedia Commons user C.Suthorn. When reusing, <a rel=\"nofollow\" class=\"external text\" href=\"https://p7press.eu/easy-attribution?file=Bundesglasfaser_0037.jpg&amp;ref=rsqyvnmrsqy&amp;author=C.Suthorn&amp;lic=cc-by-sa-4.0&amp;type=print,social\"><i>credit</i></a> me as described in the Licensing information below. <span typeof=\"mw:File\"><span><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/UserIconMail.svg/40px-UserIconMail.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/UserIconMail.svg/60px-UserIconMail.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"700\" data-file-height=\"700\"></span></span> I would appreciate being notified (<a href=\"//commons.wikimedia.org/wiki/Special:EmailUser/C.Suthorn\" title=\"Special:EmailUser/C.Suthorn\">wikimail</a>, <a href=\"//commons.wikimedia.org/wiki/User_talk:C.Suthorn\" title=\"User talk:C.Suthorn\">talk page</a>, <a href=\"//commons.wikimedia.org/wiki/User:C.Suthorn\" title=\"User:C.Suthorn\">email</a>, <a rel=\"nofollow\" class=\"external text\" href=\"https://no-pony.farm/@Life_is\">Social Media</a>) if you use my work outside Wikimedia.\n<p>Do not copy this image illegally by ignoring the terms of the license below, as it is not in the public domain. If you would like special permission to use, license, or purchase the image please contact me to negotiate terms.\n</p><p><br>\n</p><p>More of my work can be found in my <a href=\"//commons.wikimedia.org/wiki/Category:Files_by_C.Suthorn\" title=\"Category:Files by C.Suthorn\">personal gallery</a> or at my <a rel=\"nofollow\" class=\"external text\" href=\"http://p7.ee/PRT/CHANNEL\">Peertube channel</a>.\n</p>\n</td></tr></tbody></table>\n<table style=\"margin: 1.5em auto; width:100%; color:var(--color-base,#202122); background-color:var(--background-color-success-subtle,#dff2eb); border:2px solid var(--border-color-success,#099979); padding:1px;\" cellspacing=\"10\">\n<tbody><tr>\n<td>A prepared attribution especially for use in Social Media and Print (newspapers, flyers, books, murals, mousepads, mugs, posters, t-shirts) can be copied <a rel=\"nofollow\" class=\"external text\" href=\"https://p7press.eu/easy-attribution?file=Bundesglasfaser_0037.jpg&amp;ref=rsqyvnmrsqy&amp;author=C.Suthorn&amp;lic=cc-by-sa-4.0&amp;type=print,social\"><i>here</i></a>\n</td></tr></tbody></table>\n<p><br>\n</p>",
+                "source": "commons-desc-page"
+              },
+              "Attribution": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/Creator:C.Suthorn\" title=\"Creator:C.Suthorn\">C.Suthorn</a> /  <span class=\"plainlinks\"><a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/legalcode\">cc-by-sa-4.0</a></span> / <a href=\"https://upload.wikimedia.org/wikipedia/commons/1/1a/Bundesglasfaser_0037.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=api&amp;utm_content=original\" class=\"internal\" title=\"Bundesglasfaser 0037.jpg\">commons.wikimedia.org</a><small><br>\n(Note the three necessary links to author, licence and image file in the attribution.)</small>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "personality",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "158123925": {
+        "pageid": 158123925,
+        "ns": 6,
+        "title": "File:Bundesglasfaser 0037 (cropped).jpg",
+        "index": 5,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 636697,
+            "width": 1920,
+            "height": 1080,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Bundesglasfaser_0037_%28cropped%29.jpg/1280px-Bundesglasfaser_0037_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1024,
+            "thumbheight": 576,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Bundesglasfaser_0037_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Bundesglasfaser_0037_%28cropped%29.jpg/1280px-Bundesglasfaser_0037_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1024,
+              "height": 576,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Bundesglasfaser_0037_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Bundesglasfaser_0037_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Bundesglasfaser_0037_(cropped).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=158123925",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2025-01-18 04:56:47",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Bundesglasfaser 0037 (cropped)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Files by C.Suthorn|Retouched pictures|Platz der Republik (Berlin-Tiergarten)|Personality rights warning|Optical fiber cables in Germany|Images with extracted images|Extracted images|Information field template with formatting|FoP-Germany|Files with coordinates missing SDC location of creation|Berlin photographs taken on 2024-12-08|File contains alternative text in EXIF data description field|Files (cropped) by C.Suthorn|Files (PR) by C.Suthorn",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "52.519288",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "13.371064",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "On the occasion of the 75th anniversary of the Basic Law, the Federal Republic of Germany organised a ‘Constitution Festival’. This took place mainly on Willy-Brand-Platz between the Chancellery and the Pual-Löbe-Haus, where the offices of the members of the Bundestag and the meeting rooms of the Bundestag committees are located, and on Platz der Republik between the Reichstag building on one side and the ‘Tipi’ and the ‘Haus der Kulturen der Welt’ on the other. In addition to the entertainment programme on stages on Willy-Brandt-Platz and Platz der Republik, information stands of various institutions were an important part of the event. NGOs were located on the meadow next to the Swiss Embassy. Federal ministries and federal authorities (such as the Federal Statistical Office and the Federal Office against Discrimination) had information stands along Paul-Löbe-Allee, which runs between the Reichstag, Paul-Löbe-Haus and the Chancellery from the Spree to the House of World Cultures. These stands of all federal ministries were supplied with internet via fibre optics. A fibre optic distribution box had previously been erected on the edge of Platz der Republik for this purpose. Since the end of the Constitution Festival, it has no longer been used and has been forgotten.  The optical fibres emanating from the box are exposed to the weather without protection. Their position is constantly changing due to external influences. There are unobstructed lines of sight between the distribution box and the Paul Löbe House, the Reichstag and the Chancellery. As the distribution box is located diagonally opposite one of the two entrances to the Chancellery and on the road used by city tours in double-decker buses, diplomats, media representatives, members of the legislative and executive branches of government, the Bundeswehr buses used by the state band to perform in the Chancellery during state visits by heads of government from other countries, it is seen every day by a large number of high-ranking politicians, civil servants, diplomats, press representatives and tourists from Berlin, the rest of Germany and the rest of the world. The photos with the name prefix ‘Bundesglasfaser’ document the changes over time to the distribution box and the fibre ends connected to it, starting with its construction in 2024 until the time when the box will either be dismantled again or the fibre ends will no longer be exposed to the weather in an untidy state. In view of its position in the middle of Germany's federal politics, this distribution box is ideally suited to illustrate and symbolise the devastating situation of digital policy in Germany. Bianca Kastl has coined the term ‘degitalisation’ to describe this regrettable digital policy.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2024-12-08",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span> (<a href=\"https://en.wikipedia.org/wiki/International_Press_Telecommunications_Council\" class=\"extiw\" title=\"w:International Press Telecommunications Council\">IPTC</a> Unique Object Name: CS-rsqyvnmrsqy)",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<table style=\"margin: 1.5em auto; width:100%; color:var(--color-base,#202122); background-color:var(--background-color-neutral-subtle,#f8f9fa); border:2px solid #cccccc; padding:1px;\" cellspacing=\"10\">\n\n\n<tbody><tr>\n<td align=\"center\"><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Bundesglasfaser_0037_(cropped).jpg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Bundesglasfaser_0037_%28cropped%29.jpg/250px-Bundesglasfaser_0037_%28cropped%29.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"160\" height=\"90\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Bundesglasfaser_0037_%28cropped%29.jpg/330px-Bundesglasfaser_0037_%28cropped%29.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"1920\" data-file-height=\"1080\"></a></span>\n</td>\n<td align=\"center\"><a href=\"https://upload.wikimedia.org/wikipedia/commons/9/9d/Bundesglasfaser_0037_%28cropped%29.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=api&amp;utm_content=original\" class=\"internal\" title=\"Bundesglasfaser 0037 (cropped).jpg\"><b> This image</b></a> is a work by Wikipedia and Wikimedia Commons user C.Suthorn. When reusing, <a rel=\"nofollow\" class=\"external text\" href=\"https://p7press.eu/easy-attribution?file=Bundesglasfaser_0037_(cropped).jpg&amp;ref=rsqyvnmrsqy&amp;author=C.Suthorn&amp;lic=cc-by-sa-4.0&amp;type=print,social\"><i>credit</i></a> me as described in the Licensing information below. <span typeof=\"mw:File\"><span><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/UserIconMail.svg/40px-UserIconMail.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/UserIconMail.svg/60px-UserIconMail.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"700\" data-file-height=\"700\"></span></span> I would appreciate being notified (<a href=\"//commons.wikimedia.org/wiki/Special:EmailUser/C.Suthorn\" title=\"Special:EmailUser/C.Suthorn\">wikimail</a>, <a href=\"//commons.wikimedia.org/wiki/User_talk:C.Suthorn\" title=\"User talk:C.Suthorn\">talk page</a>, <a href=\"//commons.wikimedia.org/wiki/User:C.Suthorn\" title=\"User:C.Suthorn\">email</a>, <a rel=\"nofollow\" class=\"external text\" href=\"https://no-pony.farm/@Life_is\">Social Media</a>) if you use my work outside Wikimedia.\n<p>Do not copy this image illegally by ignoring the terms of the license below, as it is not in the public domain. If you would like special permission to use, license, or purchase the image please contact me to negotiate terms.\n</p><p><br>\n</p><p>More of my work can be found in my <a href=\"//commons.wikimedia.org/wiki/Category:Files_by_C.Suthorn\" title=\"Category:Files by C.Suthorn\">personal gallery</a> or at my <a rel=\"nofollow\" class=\"external text\" href=\"http://p7.ee/PRT/CHANNEL\">Peertube channel</a>.\n</p>\n</td></tr></tbody></table>\n<table style=\"margin: 1.5em auto; width:100%; color:var(--color-base,#202122); background-color:var(--background-color-success-subtle,#dff2eb); border:2px solid var(--border-color-success,#099979); padding:1px;\" cellspacing=\"10\">\n<tbody><tr>\n<td>A prepared attribution especially for use in Social Media and Print (newspapers, flyers, books, murals, mousepads, mugs, posters, t-shirts) can be copied <a rel=\"nofollow\" class=\"external text\" href=\"https://p7press.eu/easy-attribution?file=Bundesglasfaser_0037_(cropped).jpg&amp;ref=rsqyvnmrsqy&amp;author=C.Suthorn&amp;lic=cc-by-sa-4.0&amp;type=print,social\"><i>here</i></a>\n</td></tr></tbody></table>\n<p><br>\n</p>",
+                "source": "commons-desc-page"
+              },
+              "Attribution": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/Creator:C.Suthorn\" title=\"Creator:C.Suthorn\">C.Suthorn</a> /  <span class=\"plainlinks\"><a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/legalcode\">cc-by-sa-4.0</a></span> / <a href=\"https://upload.wikimedia.org/wikipedia/commons/9/9d/Bundesglasfaser_0037_%28cropped%29.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=api&amp;utm_content=original\" class=\"internal\" title=\"Bundesglasfaser 0037 (cropped).jpg\">commons.wikimedia.org</a><small><br>\n(Note the three necessary links to author, licence and image file in the attribution.)</small>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "personality",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "158044388": {
+        "pageid": 158044388,
+        "ns": 6,
+        "title": "File:Bundesglasfaser 0041.jpg",
+        "index": 8,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4797554,
+            "width": 3024,
+            "height": 4032,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Bundesglasfaser_0041.jpg/1280px-Bundesglasfaser_0041.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1024,
+            "thumbheight": 1365,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Bundesglasfaser_0041.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Bundesglasfaser_0041.jpg/1280px-Bundesglasfaser_0041.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1024,
+              "height": 1365,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Bundesglasfaser_0041.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Bundesglasfaser_0041.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Bundesglasfaser_0041.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=158044388",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2025-01-16 10:22:46",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Bundesglasfaser 0041",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Files by C.Suthorn|Retouched pictures|Platz der Republik (Berlin-Tiergarten)|Optical fiber cables in Germany|Information field template with formatting|FoP-Germany|Files with coordinates missing SDC location of creation|2024-09-13|File contains alternative text in EXIF data description field",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "52.519288",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "13.371064",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "On the occasion of the 75th anniversary of the Basic Law, the Federal Republic of Germany organised a ‘Constitution Festival’. This took place mainly on Willy-Brand-Platz between the Chancellery and the Pual-Löbe-Haus, where the offices of the members of the Bundestag and the meeting rooms of the Bundestag committees are located, and on Platz der Republik between the Reichstag building on one side and the ‘Tipi’ and the ‘Haus der Kulturen der Welt’ on the other. In addition to the entertainment programme on stages on Willy-Brandt-Platz and Platz der Republik, information stands of various institutions were an important part of the event. NGOs were located on the meadow next to the Swiss Embassy. Federal ministries and federal authorities (such as the Federal Statistical Office and the Federal Office against Discrimination) had information stands along Paul-Löbe-Allee, which runs between the Reichstag, Paul-Löbe-Haus and the Chancellery from the Spree to the House of World Cultures. These stands of all federal ministries were supplied with internet via fibre optics. A fibre optic distribution box had previously been erected on the edge of Platz der Republik for this purpose. Since the end of the Constitution Festival, it has no longer been used and has been forgotten.  The optical fibres emanating from the box are exposed to the weather without protection. Their position is constantly changing due to external influences. There are unobstructed lines of sight between the distribution box and the Paul Löbe House, the Reichstag and the Chancellery. As the distribution box is located diagonally opposite one of the two entrances to the Chancellery and on the road used by city tours in double-decker buses, diplomats, media representatives, members of the legislative and executive branches of government, the Bundeswehr buses used by the state band to perform in the Chancellery during state visits by heads of government from other countries, it is seen every day by a large number of high-ranking politicians, civil servants, diplomats, press representatives and tourists from Berlin, the rest of Germany and the rest of the world. The photos with the name prefix ‘Bundesglasfaser’ document the changes over time to the distribution box and the fibre ends connected to it, starting with its construction in 2024 until the time when the box will either be dismantled again or the fibre ends will no longer be exposed to the weather in an untidy state. In view of its position in the middle of Germany's federal politics, this distribution box is ideally suited to illustrate and symbolise the devastating situation of digital policy in Germany. Bianca Kastl has coined the term ‘degitalisation’ to describe this regrettable digital policy.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2024-09-13",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span> (<a href=\"https://en.wikipedia.org/wiki/International_Press_Telecommunications_Council\" class=\"extiw\" title=\"w:International Press Telecommunications Council\">IPTC</a> Unique Object Name: CS-wyivmxpwyiv)",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<table style=\"margin: 1.5em auto; width:100%; color:var(--color-base,#202122); background-color:var(--background-color-neutral-subtle,#f8f9fa); border:2px solid #cccccc; padding:1px;\" cellspacing=\"10\">\n\n\n<tbody><tr>\n<td align=\"center\"><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Bundesglasfaser_0041.jpg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Bundesglasfaser_0041.jpg/250px-Bundesglasfaser_0041.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"160\" height=\"213\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Bundesglasfaser_0041.jpg/330px-Bundesglasfaser_0041.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"3024\" data-file-height=\"4032\"></a></span>\n</td>\n<td align=\"center\"><a href=\"https://upload.wikimedia.org/wikipedia/commons/f/f7/Bundesglasfaser_0041.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=api&amp;utm_content=original\" class=\"internal\" title=\"Bundesglasfaser 0041.jpg\"><b> This image</b></a> is a work by Wikipedia and Wikimedia Commons user C.Suthorn. When reusing, <a rel=\"nofollow\" class=\"external text\" href=\"https://p7press.eu/easy-attribution?file=Bundesglasfaser_0041.jpg&amp;ref=wyivmxpwyiv&amp;author=C.Suthorn&amp;lic=cc-by-sa-4.0&amp;type=print,social\"><i>credit</i></a> me as described in the Licensing information below. <span typeof=\"mw:File\"><span><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/UserIconMail.svg/40px-UserIconMail.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/UserIconMail.svg/60px-UserIconMail.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"700\" data-file-height=\"700\"></span></span> I would appreciate being notified (<a href=\"//commons.wikimedia.org/wiki/Special:EmailUser/C.Suthorn\" title=\"Special:EmailUser/C.Suthorn\">wikimail</a>, <a href=\"//commons.wikimedia.org/wiki/User_talk:C.Suthorn\" title=\"User talk:C.Suthorn\">talk page</a>, <a href=\"//commons.wikimedia.org/wiki/User:C.Suthorn\" title=\"User:C.Suthorn\">email</a>, <a rel=\"nofollow\" class=\"external text\" href=\"https://no-pony.farm/@Life_is\">Social Media</a>) if you use my work outside Wikimedia.\n<p>Do not copy this image illegally by ignoring the terms of the license below, as it is not in the public domain. If you would like special permission to use, license, or purchase the image please contact me to negotiate terms.\n</p><p><br>\n</p><p>More of my work can be found in my <a href=\"//commons.wikimedia.org/wiki/Category:Files_by_C.Suthorn\" title=\"Category:Files by C.Suthorn\">personal gallery</a> or at my <a rel=\"nofollow\" class=\"external text\" href=\"http://p7.ee/PRT/CHANNEL\">Peertube channel</a>.\n</p>\n</td></tr></tbody></table>\n<table style=\"margin: 1.5em auto; width:100%; color:var(--color-base,#202122); background-color:var(--background-color-success-subtle,#dff2eb); border:2px solid var(--border-color-success,#099979); padding:1px;\" cellspacing=\"10\">\n<tbody><tr>\n<td>A prepared attribution especially for use in Social Media and Print (newspapers, flyers, books, murals, mousepads, mugs, posters, t-shirts) can be copied <a rel=\"nofollow\" class=\"external text\" href=\"https://p7press.eu/easy-attribution?file=Bundesglasfaser_0041.jpg&amp;ref=wyivmxpwyiv&amp;author=C.Suthorn&amp;lic=cc-by-sa-4.0&amp;type=print,social\"><i>here</i></a>\n</td></tr></tbody></table>\n<p><br>\n</p>",
+                "source": "commons-desc-page"
+              },
+              "Attribution": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/Creator:C.Suthorn\" title=\"Creator:C.Suthorn\">C.Suthorn</a> /  <span class=\"plainlinks\"><a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/legalcode\">cc-by-sa-4.0</a></span> / <a href=\"https://upload.wikimedia.org/wikipedia/commons/f/f7/Bundesglasfaser_0041.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=api&amp;utm_content=original\" class=\"internal\" title=\"Bundesglasfaser 0041.jpg\">commons.wikimedia.org</a><small><br>\n(Note the three necessary links to author, licence and image file in the attribution.)</small>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "158044998": {
+        "pageid": 158044998,
+        "ns": 6,
+        "title": "File:Bundesglasfaser 0044.jpg",
+        "index": 7,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 7404001,
+            "width": 9248,
+            "height": 6936,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Bundesglasfaser_0044.jpg/1280px-Bundesglasfaser_0044.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1024,
+            "thumbheight": 768,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Bundesglasfaser_0044.jpg/3840px-Bundesglasfaser_0044.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Bundesglasfaser_0044.jpg/1280px-Bundesglasfaser_0044.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1024,
+              "height": 768,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Bundesglasfaser_0044.jpg/3840px-Bundesglasfaser_0044.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Bundesglasfaser_0044.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Bundesglasfaser_0044.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=158044998",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2025-01-16 10:38:52",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Bundesglasfaser 0044",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Files by C.Suthorn|Retouched pictures|Platz der Republik (Berlin-Tiergarten)|Optical fiber cables in Germany|Images with extracted images|Information field template with formatting|FoP-Germany|Files with coordinates missing SDC location of creation|2024-09-27|File contains alternative text in EXIF data description field",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "52.519288",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "13.371064",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "On the occasion of the 75th anniversary of the Basic Law, the Federal Republic of Germany organised a ‘Constitution Festival’. This took place mainly on Willy-Brand-Platz between the Chancellery and the Pual-Löbe-Haus, where the offices of the members of the Bundestag and the meeting rooms of the Bundestag committees are located, and on Platz der Republik between the Reichstag building on one side and the ‘Tipi’ and the ‘Haus der Kulturen der Welt’ on the other. In addition to the entertainment programme on stages on Willy-Brandt-Platz and Platz der Republik, information stands of various institutions were an important part of the event. NGOs were located on the meadow next to the Swiss Embassy. Federal ministries and federal authorities (such as the Federal Statistical Office and the Federal Office against Discrimination) had information stands along Paul-Löbe-Allee, which runs between the Reichstag, Paul-Löbe-Haus and the Chancellery from the Spree to the House of World Cultures. These stands of all federal ministries were supplied with internet via fibre optics. A fibre optic distribution box had previously been erected on the edge of Platz der Republik for this purpose. Since the end of the Constitution Festival, it has no longer been used and has been forgotten.  The optical fibres emanating from the box are exposed to the weather without protection. Their position is constantly changing due to external influences. There are unobstructed lines of sight between the distribution box and the Paul Löbe House, the Reichstag and the Chancellery. As the distribution box is located diagonally opposite one of the two entrances to the Chancellery and on the road used by city tours in double-decker buses, diplomats, media representatives, members of the legislative and executive branches of government, the Bundeswehr buses used by the state band to perform in the Chancellery during state visits by heads of government from other countries, it is seen every day by a large number of high-ranking politicians, civil servants, diplomats, press representatives and tourists from Berlin, the rest of Germany and the rest of the world. The photos with the name prefix ‘Bundesglasfaser’ document the changes over time to the distribution box and the fibre ends connected to it, starting with its construction in 2024 until the time when the box will either be dismantled again or the fibre ends will no longer be exposed to the weather in an untidy state. In view of its position in the middle of Germany's federal politics, this distribution box is ideally suited to illustrate and symbolise the devastating situation of digital policy in Germany. Bianca Kastl has coined the term ‘degitalisation’ to describe this regrettable digital policy.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2024-09-27",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span> (<a href=\"https://en.wikipedia.org/wiki/International_Press_Telecommunications_Council\" class=\"extiw\" title=\"w:International Press Telecommunications Council\">IPTC</a> Unique Object Name: CS-invofjdinvo)",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<table style=\"margin: 1.5em auto; width:100%; color:var(--color-base,#202122); background-color:var(--background-color-neutral-subtle,#f8f9fa); border:2px solid #cccccc; padding:1px;\" cellspacing=\"10\">\n\n\n<tbody><tr>\n<td align=\"center\"><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Bundesglasfaser_0044.jpg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Bundesglasfaser_0044.jpg/250px-Bundesglasfaser_0044.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"160\" height=\"120\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Bundesglasfaser_0044.jpg/330px-Bundesglasfaser_0044.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"9248\" data-file-height=\"6936\"></a></span>\n</td>\n<td align=\"center\"><a href=\"https://upload.wikimedia.org/wikipedia/commons/8/80/Bundesglasfaser_0044.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=api&amp;utm_content=original\" class=\"internal\" title=\"Bundesglasfaser 0044.jpg\"><b> This image</b></a> is a work by Wikipedia and Wikimedia Commons user C.Suthorn. When reusing, <a rel=\"nofollow\" class=\"external text\" href=\"https://p7press.eu/easy-attribution?file=Bundesglasfaser_0044.jpg&amp;ref=invofjdinvo&amp;author=C.Suthorn&amp;lic=cc-by-sa-4.0&amp;type=print,social\"><i>credit</i></a> me as described in the Licensing information below. <span typeof=\"mw:File\"><span><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/UserIconMail.svg/40px-UserIconMail.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/UserIconMail.svg/60px-UserIconMail.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"700\" data-file-height=\"700\"></span></span> I would appreciate being notified (<a href=\"//commons.wikimedia.org/wiki/Special:EmailUser/C.Suthorn\" title=\"Special:EmailUser/C.Suthorn\">wikimail</a>, <a href=\"//commons.wikimedia.org/wiki/User_talk:C.Suthorn\" title=\"User talk:C.Suthorn\">talk page</a>, <a href=\"//commons.wikimedia.org/wiki/User:C.Suthorn\" title=\"User:C.Suthorn\">email</a>, <a rel=\"nofollow\" class=\"external text\" href=\"https://no-pony.farm/@Life_is\">Social Media</a>) if you use my work outside Wikimedia.\n<p>Do not copy this image illegally by ignoring the terms of the license below, as it is not in the public domain. If you would like special permission to use, license, or purchase the image please contact me to negotiate terms.\n</p><p><br>\n</p><p>More of my work can be found in my <a href=\"//commons.wikimedia.org/wiki/Category:Files_by_C.Suthorn\" title=\"Category:Files by C.Suthorn\">personal gallery</a> or at my <a rel=\"nofollow\" class=\"external text\" href=\"http://p7.ee/PRT/CHANNEL\">Peertube channel</a>.\n</p>\n</td></tr></tbody></table>\n<table style=\"margin: 1.5em auto; width:100%; color:var(--color-base,#202122); background-color:var(--background-color-success-subtle,#dff2eb); border:2px solid var(--border-color-success,#099979); padding:1px;\" cellspacing=\"10\">\n<tbody><tr>\n<td>A prepared attribution especially for use in Social Media and Print (newspapers, flyers, books, murals, mousepads, mugs, posters, t-shirts) can be copied <a rel=\"nofollow\" class=\"external text\" href=\"https://p7press.eu/easy-attribution?file=Bundesglasfaser_0044.jpg&amp;ref=invofjdinvo&amp;author=C.Suthorn&amp;lic=cc-by-sa-4.0&amp;type=print,social\"><i>here</i></a>\n</td></tr></tbody></table>\n<p><br>\n</p>",
+                "source": "commons-desc-page"
+              },
+              "Attribution": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/Creator:C.Suthorn\" title=\"Creator:C.Suthorn\">C.Suthorn</a> /  <span class=\"plainlinks\"><a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/legalcode\">cc-by-sa-4.0</a></span> / <a href=\"https://upload.wikimedia.org/wikipedia/commons/8/80/Bundesglasfaser_0044.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=api&amp;utm_content=original\" class=\"internal\" title=\"Bundesglasfaser 0044.jpg\">commons.wikimedia.org</a><small><br>\n(Note the three necessary links to author, licence and image file in the attribution.)</small>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "56737946": {
+        "pageid": 56737946,
+        "ns": 6,
+        "title": "File:Martyr Saints of China.jpg",
+        "index": 2,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3800032,
+            "width": 4032,
+            "height": 3024,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Martyr_Saints_of_China.jpg/1280px-Martyr_Saints_of_China.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1024,
+            "thumbheight": 768,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Martyr_Saints_of_China.jpg/3840px-Martyr_Saints_of_China.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Martyr_Saints_of_China.jpg/1280px-Martyr_Saints_of_China.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1024,
+              "height": 768,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Martyr_Saints_of_China.jpg/3840px-Martyr_Saints_of_China.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Martyr_Saints_of_China.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Martyr_Saints_of_China.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=56737946",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2018-02-24 14:44:25",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Martyr Saints of China",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Christianity in China|Christian martyrs|Saint Francis Xavier Church (Ho Chi Minh City)|Beatifications by Pius XII|Roman Catholic child saints|Self-published work|FoP-Vietnam|Files with coordinates missing SDC location of creation|Reliefs in Ho Chi Minh City",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "10.751964",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "106.654036",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Memorial plaque for the 120 Martyr Saints of China at Saint Francis Xavier Church (Ho Chi Minh City)",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2017-02-09 11:35:23",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Fayhoo\" title=\"User:Fayhoo\">Fayhoo</a>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "<b>Until 31 December 2022</b>, Article 25.1(h) of <i>Law No. 50/2005/QH11 of November 29, 2005 amended by Law No. 36/2009/QH12 of June 19, 2009</i> provided a freedom of panorama provision for Vietnam, allowing photographs and television broadcasts of <a href=\"https://en.wikipedia.org/wiki/en:Plastic_arts\" class=\"extiw\" title=\"w:en:Plastic arts\"><span title=\"form of art form based on the creation and modification of physical objects\">plastic arts</span></a>, architecture, photographic works, and <a href=\"https://en.wikipedia.org/wiki/en:Applied_arts\" class=\"extiw\" title=\"w:en:Applied arts\"><span title=\"arts that apply design and decoration to everyday objects\">applied arts</span></a> displayed in public spaces to be distributed to present images of these works.\n<p>This legal right did not cover other works like murals and literary texts on plaques or tables, as well as other types of representation of the covered works (like videos or films).\n</p>\n<ul><li><a rel=\"nofollow\" class=\"external text\" href=\"https://thuvienphapluat.vn/van-ban/so-huu-tri-tue/Luat-So-huu-tri-tue-2005-50-2005-QH11-7022.aspx\">Intellectual Property Law of Vietnam of November 2005</a> (click \"Tiếng Anh\" for English); entry in force July 1, 2006.</li>\n<li><a rel=\"nofollow\" class=\"external text\" href=\"https://thuvienphapluat.vn/van-ban/quyen-dan-su/Bo-luat-Dan-su-2005-33-2005-QH11-2463.aspx\">Civil Code of Vietnam of September 2005</a> (click \"Tiếng Anh\" for English); contains in part 6 (articles 736 to 757) some additional copyright provisions (not relevant for freedom of panorama). In case of discrepancies between the Civil Code and the IP law, the IP law prevails (article 5 of the IP law).</li>\n<li><a rel=\"nofollow\" class=\"external text\" href=\"https://wipolex.wipo.int/en/text/182541\">WIPO Law No. 36/2009/QH12 of June 19, 2009</a> (English), amending and supplementing a Number of Articles of the Law on Intellectual Property</li></ul>\n<p>See <a href=\"//commons.wikimedia.org/wiki/Commons:CRT/Vietnam#Freedom_of_panorama\" class=\"mw-redirect\" title=\"Commons:CRT/Vietnam\">COM:CRT/Vietnam#Freedom of panorama</a> for more information.\n</p>\n<div style=\"font-size:85%;\"><style data-mw-deduplicate=\"TemplateStyles:r1254222110\">.mw-parser-output .messagebox{margin:4px 0;width:auto;border-collapse:collapse;border:2px solid var(--border-color-progressive,#6485d1);background-color:var(--background-color-neutral-subtle,#fbfcff);color:var(--color-base,#202122);box-sizing:border-box;border-inline-start-width:8px}.mw-parser-output .messagebox.mbox-small{font-size:88%;line-height:1.25em}.mw-parser-output .mbox-warning,.mw-parser-output .mbox-speedy{border:2px solid var(--border-color-error,#b22222);background:var(--background-color-error-subtle,#ffdbdb);border-inline-start-width:8px}.mw-parser-output .mbox-serious,.mw-parser-output .mbox-delete,.mw-parser-output .mbox-stop{border:2px solid var(--border-color-error,#b22222);border-inline-start-width:8px}.mw-parser-output .mbox-issue,.mw-parser-output .mbox-content{border:2px solid #f28500;background:var(--background-color-warning-subtle,#ffe);border-inline-start-width:8px}.mw-parser-output .mbox-query,.mw-parser-output .mbox-style{border:2px solid #f4c430;background:var(--background-color-warning-subtle,#ffe);border-inline-start-width:8px}.mw-parser-output .mbox-shit{border:2px solid #960;border-inline-start-width:8px}.mw-parser-output .mbox-license{border:2px solid #88a;border-inline-start-width:initial}.mw-parser-output .mbox-legal{border:2px solid var(--border-color-notice,#666);background:var(--background-color-base,#fff);border-inline-start-width:8px}.mw-parser-output .mbox-honor{border:2px solid #ca3;background:var(--background-color-warning-subtle,#fcf4db);border-inline-start-width:8px}.mw-parser-output .mbox-growth{border:2px solid #8d4;background:var(--background-color-success-subtle,#d5fdf4);border-inline-start-width:8px}.mw-parser-output .mbox-move{border:2px solid #93c;border-inline-start-width:8px}.mw-parser-output .mbox-protection,.mw-parser-output .mbox-message{border:2px solid var(--border-color-base,#aaa);border-inline-start-width:8px}.mw-parser-output .messagebox .mbox-text{border:none;padding:0.25em 0.9em;width:100%}.mw-parser-output .messagebox .mbox-image{border:none;padding-top:2px;padding-bottom:2px;padding-inline-start:0.9em;padding-inline-end:0;text-align:center}.mw-parser-output .messagebox .mbox-imageright{border:none;padding-top:2px;padding-bottom:2px;padding-inline-start:0;padding-inline-end:0.9em;text-align:center}.mw-parser-output .messagebox .mbox-empty-cell{border:none;padding:0;width:1px}.mw-parser-output .messagebox .mbox-invalid-type{text-align:center}@media(min-width:720px){.mw-parser-output .messagebox{margin:4px 10%}.mw-parser-output .messagebox.mbox-small{clear:right;float:right;margin:4px 0 4px 1em;width:238px}}body.skin--responsive .mw-parser-output table.messagebox img{max-width:none!important}</style><table class=\"plainlinks messagebox mbox-speedy\" role=\"presentation\"><tbody><tr><td class=\"mbox-image\"><div aria-hidden=\"true\" style=\"margin: 0.2em;\"><span typeof=\"mw:File\"><span><img alt=\"\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Dialog-stop-hand.svg/60px-Dialog-stop-hand.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"48\" height=\"48\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Dialog-stop-hand.svg/120px-Dialog-stop-hand.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"48\" data-file-height=\"48\"></span></span></div></td><td class=\"mbox-text\"><b>Please do not use this template to any new uploads after 1 January 2023.</b> The Vietnamese Copyright Act as amended in 2022 prohibits the photography of architecture and artistic works in public spaces for commercial purposes after 1 January 2023, so <b>any new uploads as well as re-uploaded images (like cropped or edited ones) are not allowed on Wikimedia Commons: <a href=\"//commons.wikimedia.org/wiki/Commons:Deletion_requests\" title=\"Commons:Deletion requests\">these will be deleted</a></b>.</td></tr></tbody></table></div>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "17891874": {
+        "pageid": 17891874,
+        "ns": 6,
+        "title": "File:Phù điêu các thánh tử đạo.jpg",
+        "index": 1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2371073,
+            "width": 3445,
+            "height": 2704,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Ph%C3%B9_%C4%91i%C3%AAu_c%C3%A1c_th%C3%A1nh_t%E1%BB%AD_%C4%91%E1%BA%A1o.jpg/1280px-Ph%C3%B9_%C4%91i%C3%AAu_c%C3%A1c_th%C3%A1nh_t%E1%BB%AD_%C4%91%E1%BA%A1o.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1024,
+            "thumbheight": 804,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/0/05/Ph%C3%B9_%C4%91i%C3%AAu_c%C3%A1c_th%C3%A1nh_t%E1%BB%AD_%C4%91%E1%BA%A1o.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Ph%C3%B9_%C4%91i%C3%AAu_c%C3%A1c_th%C3%A1nh_t%E1%BB%AD_%C4%91%E1%BA%A1o.jpg/1280px-Ph%C3%B9_%C4%91i%C3%AAu_c%C3%A1c_th%C3%A1nh_t%E1%BB%AD_%C4%91%E1%BA%A1o.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1024,
+              "height": 804,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/0/05/Ph%C3%B9_%C4%91i%C3%AAu_c%C3%A1c_th%C3%A1nh_t%E1%BB%AD_%C4%91%E1%BA%A1o.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Ph%C3%B9_%C4%91i%C3%AAu_c%C3%A1c_th%C3%A1nh_t%E1%BB%AD_%C4%91%E1%BA%A1o.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ph%C3%B9_%C4%91i%C3%AAu_c%C3%A1c_th%C3%A1nh_t%E1%BB%AD_%C4%91%E1%BA%A1o.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=17891874",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2012-01-03 08:35:03",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Phù điêu các thánh tử đạo",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Canon PowerShot A490|Saint Francis Xavier Church (Ho Chi Minh City)|Self-published work|Reliefs of Christian saints in Vietnam|Christian sculptures in Vietnam|FoP-Vietnam|Reliefs in Ho Chi Minh City|Pictures by Bùi Thụy Đào Nguyên 2",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Phù điêu các thánh tử đạo Việt Nam tại nhà thờ Cha Tam (Thành phố Hồ Chí Minh, Việt Nam)",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2011-12-31",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Thuydaonguyen\" title=\"User:Thuydaonguyen\">Bùi Thụy Đào Nguyên</a>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "<b>Until 31 December 2022</b>, Article 25.1(h) of <i>Law No. 50/2005/QH11 of November 29, 2005 amended by Law No. 36/2009/QH12 of June 19, 2009</i> provided a freedom of panorama provision for Vietnam, allowing photographs and television broadcasts of <a href=\"https://en.wikipedia.org/wiki/en:Plastic_arts\" class=\"extiw\" title=\"w:en:Plastic arts\"><span title=\"form of art form based on the creation and modification of physical objects\">plastic arts</span></a>, architecture, photographic works, and <a href=\"https://en.wikipedia.org/wiki/en:Applied_arts\" class=\"extiw\" title=\"w:en:Applied arts\"><span title=\"arts that apply design and decoration to everyday objects\">applied arts</span></a> displayed in public spaces to be distributed to present images of these works.\n<p>This legal right did not cover other works like murals and literary texts on plaques or tables, as well as other types of representation of the covered works (like videos or films).\n</p>\n<ul><li><a rel=\"nofollow\" class=\"external text\" href=\"https://thuvienphapluat.vn/van-ban/so-huu-tri-tue/Luat-So-huu-tri-tue-2005-50-2005-QH11-7022.aspx\">Intellectual Property Law of Vietnam of November 2005</a> (click \"Tiếng Anh\" for English); entry in force July 1, 2006.</li>\n<li><a rel=\"nofollow\" class=\"external text\" href=\"https://thuvienphapluat.vn/van-ban/quyen-dan-su/Bo-luat-Dan-su-2005-33-2005-QH11-2463.aspx\">Civil Code of Vietnam of September 2005</a> (click \"Tiếng Anh\" for English); contains in part 6 (articles 736 to 757) some additional copyright provisions (not relevant for freedom of panorama). In case of discrepancies between the Civil Code and the IP law, the IP law prevails (article 5 of the IP law).</li>\n<li><a rel=\"nofollow\" class=\"external text\" href=\"https://wipolex.wipo.int/en/text/182541\">WIPO Law No. 36/2009/QH12 of June 19, 2009</a> (English), amending and supplementing a Number of Articles of the Law on Intellectual Property</li></ul>\n<p>See <a href=\"//commons.wikimedia.org/wiki/Commons:CRT/Vietnam#Freedom_of_panorama\" class=\"mw-redirect\" title=\"Commons:CRT/Vietnam\">COM:CRT/Vietnam#Freedom of panorama</a> for more information.\n</p>\n<div style=\"font-size:85%;\"><style data-mw-deduplicate=\"TemplateStyles:r1254222110\">.mw-parser-output .messagebox{margin:4px 0;width:auto;border-collapse:collapse;border:2px solid var(--border-color-progressive,#6485d1);background-color:var(--background-color-neutral-subtle,#fbfcff);color:var(--color-base,#202122);box-sizing:border-box;border-inline-start-width:8px}.mw-parser-output .messagebox.mbox-small{font-size:88%;line-height:1.25em}.mw-parser-output .mbox-warning,.mw-parser-output .mbox-speedy{border:2px solid var(--border-color-error,#b22222);background:var(--background-color-error-subtle,#ffdbdb);border-inline-start-width:8px}.mw-parser-output .mbox-serious,.mw-parser-output .mbox-delete,.mw-parser-output .mbox-stop{border:2px solid var(--border-color-error,#b22222);border-inline-start-width:8px}.mw-parser-output .mbox-issue,.mw-parser-output .mbox-content{border:2px solid #f28500;background:var(--background-color-warning-subtle,#ffe);border-inline-start-width:8px}.mw-parser-output .mbox-query,.mw-parser-output .mbox-style{border:2px solid #f4c430;background:var(--background-color-warning-subtle,#ffe);border-inline-start-width:8px}.mw-parser-output .mbox-shit{border:2px solid #960;border-inline-start-width:8px}.mw-parser-output .mbox-license{border:2px solid #88a;border-inline-start-width:initial}.mw-parser-output .mbox-legal{border:2px solid var(--border-color-notice,#666);background:var(--background-color-base,#fff);border-inline-start-width:8px}.mw-parser-output .mbox-honor{border:2px solid #ca3;background:var(--background-color-warning-subtle,#fcf4db);border-inline-start-width:8px}.mw-parser-output .mbox-growth{border:2px solid #8d4;background:var(--background-color-success-subtle,#d5fdf4);border-inline-start-width:8px}.mw-parser-output .mbox-move{border:2px solid #93c;border-inline-start-width:8px}.mw-parser-output .mbox-protection,.mw-parser-output .mbox-message{border:2px solid var(--border-color-base,#aaa);border-inline-start-width:8px}.mw-parser-output .messagebox .mbox-text{border:none;padding:0.25em 0.9em;width:100%}.mw-parser-output .messagebox .mbox-image{border:none;padding-top:2px;padding-bottom:2px;padding-inline-start:0.9em;padding-inline-end:0;text-align:center}.mw-parser-output .messagebox .mbox-imageright{border:none;padding-top:2px;padding-bottom:2px;padding-inline-start:0;padding-inline-end:0.9em;text-align:center}.mw-parser-output .messagebox .mbox-empty-cell{border:none;padding:0;width:1px}.mw-parser-output .messagebox .mbox-invalid-type{text-align:center}@media(min-width:720px){.mw-parser-output .messagebox{margin:4px 10%}.mw-parser-output .messagebox.mbox-small{clear:right;float:right;margin:4px 0 4px 1em;width:238px}}body.skin--responsive .mw-parser-output table.messagebox img{max-width:none!important}</style><table class=\"plainlinks messagebox mbox-speedy\" role=\"presentation\"><tbody><tr><td class=\"mbox-image\"><div aria-hidden=\"true\" style=\"margin: 0.2em;\"><span typeof=\"mw:File\"><span><img alt=\"\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Dialog-stop-hand.svg/60px-Dialog-stop-hand.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"48\" height=\"48\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Dialog-stop-hand.svg/120px-Dialog-stop-hand.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"48\" data-file-height=\"48\"></span></span></div></td><td class=\"mbox-text\"><b>Please do not use this template to any new uploads after 1 January 2023.</b> The Vietnamese Copyright Act as amended in 2022 prohibits the photography of architecture and artistic works in public spaces for commercial purposes after 1 January 2023, so <b>any new uploads as well as re-uploaded images (like cropped or edited ones) are not allowed on Wikimedia Commons: <a href=\"//commons.wikimedia.org/wiki/Commons:Deletion_requests\" title=\"Commons:Deletion requests\">these will be deleted</a></b>.</td></tr></tbody></table></div>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

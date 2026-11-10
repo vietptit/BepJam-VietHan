@@ -1,0 +1,1084 @@
+{
+  "batchcomplete": "",
+  "continue": {
+    "gsroffset": 10,
+    "continue": "gsroffset||"
+  },
+  "query": {
+    "pages": {
+      "108080676": {
+        "pageid": 108080676,
+        "ns": 6,
+        "title": "File:Công viên Bến Ninh Kiều, Cần Thơ, ngày 23 tháng 5 năm 2014 (4).jpg",
+        "index": 4,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1323093,
+            "width": 2048,
+            "height": 1536,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/C%C3%B4ng_vi%C3%AAn_B%E1%BA%BFn_Ninh_Ki%E1%BB%81u%2C_C%E1%BA%A7n_Th%C6%A1%2C_ng%C3%A0y_23_th%C3%A1ng_5_n%C4%83m_2014_%284%29.jpg/1280px-C%C3%B4ng_vi%C3%AAn_B%E1%BA%BFn_Ninh_Ki%E1%BB%81u%2C_C%E1%BA%A7n_Th%C6%A1%2C_ng%C3%A0y_23_th%C3%A1ng_5_n%C4%83m_2014_%284%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1024,
+            "thumbheight": 768,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/0/0b/C%C3%B4ng_vi%C3%AAn_B%E1%BA%BFn_Ninh_Ki%E1%BB%81u%2C_C%E1%BA%A7n_Th%C6%A1%2C_ng%C3%A0y_23_th%C3%A1ng_5_n%C4%83m_2014_%284%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/C%C3%B4ng_vi%C3%AAn_B%E1%BA%BFn_Ninh_Ki%E1%BB%81u%2C_C%E1%BA%A7n_Th%C6%A1%2C_ng%C3%A0y_23_th%C3%A1ng_5_n%C4%83m_2014_%284%29.jpg/1280px-C%C3%B4ng_vi%C3%AAn_B%E1%BA%BFn_Ninh_Ki%E1%BB%81u%2C_C%E1%BA%A7n_Th%C6%A1%2C_ng%C3%A0y_23_th%C3%A1ng_5_n%C4%83m_2014_%284%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1024,
+              "height": 768,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/0/0b/C%C3%B4ng_vi%C3%AAn_B%E1%BA%BFn_Ninh_Ki%E1%BB%81u%2C_C%E1%BA%A7n_Th%C6%A1%2C_ng%C3%A0y_23_th%C3%A1ng_5_n%C4%83m_2014_%284%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/C%C3%B4ng_vi%C3%AAn_B%E1%BA%BFn_Ninh_Ki%E1%BB%81u%2C_C%E1%BA%A7n_Th%C6%A1%2C_ng%C3%A0y_23_th%C3%A1ng_5_n%C4%83m_2014_%284%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:C%C3%B4ng_vi%C3%AAn_B%E1%BA%BFn_Ninh_Ki%E1%BB%81u,_C%E1%BA%A7n_Th%C6%A1,_ng%C3%A0y_23_th%C3%A1ng_5_n%C4%83m_2014_(4).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=108080676",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-08-02 08:34:40",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Công viên Bến Ninh Kiều, Cần Thơ, ngày 23 tháng 5 năm 2014 (4)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Ninh Kieu Quay|Self-published work",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Ninh Kieu Wharf",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2014-05-23 06:10:42",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Ph%C6%B0%C6%A1ng_Huy\" title=\"User:Phương Huy\">Phương Huy</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "108080677": {
+        "pageid": 108080677,
+        "ns": 6,
+        "title": "File:Công viên Bến Ninh Kiều, Cần Thơ, ngày 23 tháng 5 năm 2014 (5).jpg",
+        "index": 8,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1545414,
+            "width": 2048,
+            "height": 1536,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/C%C3%B4ng_vi%C3%AAn_B%E1%BA%BFn_Ninh_Ki%E1%BB%81u%2C_C%E1%BA%A7n_Th%C6%A1%2C_ng%C3%A0y_23_th%C3%A1ng_5_n%C4%83m_2014_%285%29.jpg/1280px-C%C3%B4ng_vi%C3%AAn_B%E1%BA%BFn_Ninh_Ki%E1%BB%81u%2C_C%E1%BA%A7n_Th%C6%A1%2C_ng%C3%A0y_23_th%C3%A1ng_5_n%C4%83m_2014_%285%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1024,
+            "thumbheight": 768,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/e/e6/C%C3%B4ng_vi%C3%AAn_B%E1%BA%BFn_Ninh_Ki%E1%BB%81u%2C_C%E1%BA%A7n_Th%C6%A1%2C_ng%C3%A0y_23_th%C3%A1ng_5_n%C4%83m_2014_%285%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/C%C3%B4ng_vi%C3%AAn_B%E1%BA%BFn_Ninh_Ki%E1%BB%81u%2C_C%E1%BA%A7n_Th%C6%A1%2C_ng%C3%A0y_23_th%C3%A1ng_5_n%C4%83m_2014_%285%29.jpg/1280px-C%C3%B4ng_vi%C3%AAn_B%E1%BA%BFn_Ninh_Ki%E1%BB%81u%2C_C%E1%BA%A7n_Th%C6%A1%2C_ng%C3%A0y_23_th%C3%A1ng_5_n%C4%83m_2014_%285%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1024,
+              "height": 768,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/e/e6/C%C3%B4ng_vi%C3%AAn_B%E1%BA%BFn_Ninh_Ki%E1%BB%81u%2C_C%E1%BA%A7n_Th%C6%A1%2C_ng%C3%A0y_23_th%C3%A1ng_5_n%C4%83m_2014_%285%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/C%C3%B4ng_vi%C3%AAn_B%E1%BA%BFn_Ninh_Ki%E1%BB%81u%2C_C%E1%BA%A7n_Th%C6%A1%2C_ng%C3%A0y_23_th%C3%A1ng_5_n%C4%83m_2014_%285%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:C%C3%B4ng_vi%C3%AAn_B%E1%BA%BFn_Ninh_Ki%E1%BB%81u,_C%E1%BA%A7n_Th%C6%A1,_ng%C3%A0y_23_th%C3%A1ng_5_n%C4%83m_2014_(5).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=108080677",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-08-02 08:34:40",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Công viên Bến Ninh Kiều, Cần Thơ, ngày 23 tháng 5 năm 2014 (5)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Ninh Kieu Quay|Self-published work",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Ninh Kieu Wharf",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2014-05-23 06:12:44",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Ph%C6%B0%C6%A1ng_Huy\" title=\"User:Phương Huy\">Phương Huy</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "108080678": {
+        "pageid": 108080678,
+        "ns": 6,
+        "title": "File:Công viên Bến Ninh Kiều, Cần Thơ, ngày 23 tháng 5 năm 2014 (6).jpg",
+        "index": 5,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1516587,
+            "width": 2048,
+            "height": 1536,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/C%C3%B4ng_vi%C3%AAn_B%E1%BA%BFn_Ninh_Ki%E1%BB%81u%2C_C%E1%BA%A7n_Th%C6%A1%2C_ng%C3%A0y_23_th%C3%A1ng_5_n%C4%83m_2014_%286%29.jpg/1280px-C%C3%B4ng_vi%C3%AAn_B%E1%BA%BFn_Ninh_Ki%E1%BB%81u%2C_C%E1%BA%A7n_Th%C6%A1%2C_ng%C3%A0y_23_th%C3%A1ng_5_n%C4%83m_2014_%286%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1024,
+            "thumbheight": 768,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/c/c7/C%C3%B4ng_vi%C3%AAn_B%E1%BA%BFn_Ninh_Ki%E1%BB%81u%2C_C%E1%BA%A7n_Th%C6%A1%2C_ng%C3%A0y_23_th%C3%A1ng_5_n%C4%83m_2014_%286%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/C%C3%B4ng_vi%C3%AAn_B%E1%BA%BFn_Ninh_Ki%E1%BB%81u%2C_C%E1%BA%A7n_Th%C6%A1%2C_ng%C3%A0y_23_th%C3%A1ng_5_n%C4%83m_2014_%286%29.jpg/1280px-C%C3%B4ng_vi%C3%AAn_B%E1%BA%BFn_Ninh_Ki%E1%BB%81u%2C_C%E1%BA%A7n_Th%C6%A1%2C_ng%C3%A0y_23_th%C3%A1ng_5_n%C4%83m_2014_%286%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1024,
+              "height": 768,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/c/c7/C%C3%B4ng_vi%C3%AAn_B%E1%BA%BFn_Ninh_Ki%E1%BB%81u%2C_C%E1%BA%A7n_Th%C6%A1%2C_ng%C3%A0y_23_th%C3%A1ng_5_n%C4%83m_2014_%286%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/C%C3%B4ng_vi%C3%AAn_B%E1%BA%BFn_Ninh_Ki%E1%BB%81u%2C_C%E1%BA%A7n_Th%C6%A1%2C_ng%C3%A0y_23_th%C3%A1ng_5_n%C4%83m_2014_%286%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:C%C3%B4ng_vi%C3%AAn_B%E1%BA%BFn_Ninh_Ki%E1%BB%81u,_C%E1%BA%A7n_Th%C6%A1,_ng%C3%A0y_23_th%C3%A1ng_5_n%C4%83m_2014_(6).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=108080678",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-08-02 08:34:40",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Công viên Bến Ninh Kiều, Cần Thơ, ngày 23 tháng 5 năm 2014 (6)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Ninh Kieu Quay|Self-published work",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Ninh Kieu Wharf",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2014-05-23 06:12:50",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Ph%C6%B0%C6%A1ng_Huy\" title=\"User:Phương Huy\">Phương Huy</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "108080683": {
+        "pageid": 108080683,
+        "ns": 6,
+        "title": "File:Công viên Bến Ninh Kiều, Cần Thơ, ngày 23 tháng 5 năm 2014 (7).jpg",
+        "index": 6,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1492734,
+            "width": 2048,
+            "height": 1536,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/C%C3%B4ng_vi%C3%AAn_B%E1%BA%BFn_Ninh_Ki%E1%BB%81u%2C_C%E1%BA%A7n_Th%C6%A1%2C_ng%C3%A0y_23_th%C3%A1ng_5_n%C4%83m_2014_%287%29.jpg/1280px-C%C3%B4ng_vi%C3%AAn_B%E1%BA%BFn_Ninh_Ki%E1%BB%81u%2C_C%E1%BA%A7n_Th%C6%A1%2C_ng%C3%A0y_23_th%C3%A1ng_5_n%C4%83m_2014_%287%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1024,
+            "thumbheight": 768,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/0/08/C%C3%B4ng_vi%C3%AAn_B%E1%BA%BFn_Ninh_Ki%E1%BB%81u%2C_C%E1%BA%A7n_Th%C6%A1%2C_ng%C3%A0y_23_th%C3%A1ng_5_n%C4%83m_2014_%287%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/C%C3%B4ng_vi%C3%AAn_B%E1%BA%BFn_Ninh_Ki%E1%BB%81u%2C_C%E1%BA%A7n_Th%C6%A1%2C_ng%C3%A0y_23_th%C3%A1ng_5_n%C4%83m_2014_%287%29.jpg/1280px-C%C3%B4ng_vi%C3%AAn_B%E1%BA%BFn_Ninh_Ki%E1%BB%81u%2C_C%E1%BA%A7n_Th%C6%A1%2C_ng%C3%A0y_23_th%C3%A1ng_5_n%C4%83m_2014_%287%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1024,
+              "height": 768,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/0/08/C%C3%B4ng_vi%C3%AAn_B%E1%BA%BFn_Ninh_Ki%E1%BB%81u%2C_C%E1%BA%A7n_Th%C6%A1%2C_ng%C3%A0y_23_th%C3%A1ng_5_n%C4%83m_2014_%287%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/C%C3%B4ng_vi%C3%AAn_B%E1%BA%BFn_Ninh_Ki%E1%BB%81u%2C_C%E1%BA%A7n_Th%C6%A1%2C_ng%C3%A0y_23_th%C3%A1ng_5_n%C4%83m_2014_%287%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:C%C3%B4ng_vi%C3%AAn_B%E1%BA%BFn_Ninh_Ki%E1%BB%81u,_C%E1%BA%A7n_Th%C6%A1,_ng%C3%A0y_23_th%C3%A1ng_5_n%C4%83m_2014_(7).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=108080683",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-08-02 08:34:45",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Công viên Bến Ninh Kiều, Cần Thơ, ngày 23 tháng 5 năm 2014 (7)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Ninh Kieu Quay|Self-published work",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Ninh Kieu Wharf",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2014-05-23 06:13:01",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Ph%C6%B0%C6%A1ng_Huy\" title=\"User:Phương Huy\">Phương Huy</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "108080682": {
+        "pageid": 108080682,
+        "ns": 6,
+        "title": "File:Công viên Bến Ninh Kiều, Cần Thơ, ngày 23 tháng 5 năm 2014 (8).jpg",
+        "index": 3,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1475987,
+            "width": 2048,
+            "height": 1536,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/C%C3%B4ng_vi%C3%AAn_B%E1%BA%BFn_Ninh_Ki%E1%BB%81u%2C_C%E1%BA%A7n_Th%C6%A1%2C_ng%C3%A0y_23_th%C3%A1ng_5_n%C4%83m_2014_%288%29.jpg/1280px-C%C3%B4ng_vi%C3%AAn_B%E1%BA%BFn_Ninh_Ki%E1%BB%81u%2C_C%E1%BA%A7n_Th%C6%A1%2C_ng%C3%A0y_23_th%C3%A1ng_5_n%C4%83m_2014_%288%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1024,
+            "thumbheight": 768,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/6/6f/C%C3%B4ng_vi%C3%AAn_B%E1%BA%BFn_Ninh_Ki%E1%BB%81u%2C_C%E1%BA%A7n_Th%C6%A1%2C_ng%C3%A0y_23_th%C3%A1ng_5_n%C4%83m_2014_%288%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/C%C3%B4ng_vi%C3%AAn_B%E1%BA%BFn_Ninh_Ki%E1%BB%81u%2C_C%E1%BA%A7n_Th%C6%A1%2C_ng%C3%A0y_23_th%C3%A1ng_5_n%C4%83m_2014_%288%29.jpg/1280px-C%C3%B4ng_vi%C3%AAn_B%E1%BA%BFn_Ninh_Ki%E1%BB%81u%2C_C%E1%BA%A7n_Th%C6%A1%2C_ng%C3%A0y_23_th%C3%A1ng_5_n%C4%83m_2014_%288%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1024,
+              "height": 768,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/6/6f/C%C3%B4ng_vi%C3%AAn_B%E1%BA%BFn_Ninh_Ki%E1%BB%81u%2C_C%E1%BA%A7n_Th%C6%A1%2C_ng%C3%A0y_23_th%C3%A1ng_5_n%C4%83m_2014_%288%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/C%C3%B4ng_vi%C3%AAn_B%E1%BA%BFn_Ninh_Ki%E1%BB%81u%2C_C%E1%BA%A7n_Th%C6%A1%2C_ng%C3%A0y_23_th%C3%A1ng_5_n%C4%83m_2014_%288%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:C%C3%B4ng_vi%C3%AAn_B%E1%BA%BFn_Ninh_Ki%E1%BB%81u,_C%E1%BA%A7n_Th%C6%A1,_ng%C3%A0y_23_th%C3%A1ng_5_n%C4%83m_2014_(8).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=108080682",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-08-02 08:34:45",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Công viên Bến Ninh Kiều, Cần Thơ, ngày 23 tháng 5 năm 2014 (8)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Ninh Kieu Quay|Self-published work",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Ninh Kieu Wharf",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2014-05-23 06:13:07",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Ph%C6%B0%C6%A1ng_Huy\" title=\"User:Phương Huy\">Phương Huy</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "108080681": {
+        "pageid": 108080681,
+        "ns": 6,
+        "title": "File:Công viên Bến Ninh Kiều, Cần Thơ, ngày 23 tháng 5 năm 2014 (9).jpg",
+        "index": 7,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1540214,
+            "width": 2048,
+            "height": 1536,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/C%C3%B4ng_vi%C3%AAn_B%E1%BA%BFn_Ninh_Ki%E1%BB%81u%2C_C%E1%BA%A7n_Th%C6%A1%2C_ng%C3%A0y_23_th%C3%A1ng_5_n%C4%83m_2014_%289%29.jpg/1280px-C%C3%B4ng_vi%C3%AAn_B%E1%BA%BFn_Ninh_Ki%E1%BB%81u%2C_C%E1%BA%A7n_Th%C6%A1%2C_ng%C3%A0y_23_th%C3%A1ng_5_n%C4%83m_2014_%289%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1024,
+            "thumbheight": 768,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/1/16/C%C3%B4ng_vi%C3%AAn_B%E1%BA%BFn_Ninh_Ki%E1%BB%81u%2C_C%E1%BA%A7n_Th%C6%A1%2C_ng%C3%A0y_23_th%C3%A1ng_5_n%C4%83m_2014_%289%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/C%C3%B4ng_vi%C3%AAn_B%E1%BA%BFn_Ninh_Ki%E1%BB%81u%2C_C%E1%BA%A7n_Th%C6%A1%2C_ng%C3%A0y_23_th%C3%A1ng_5_n%C4%83m_2014_%289%29.jpg/1280px-C%C3%B4ng_vi%C3%AAn_B%E1%BA%BFn_Ninh_Ki%E1%BB%81u%2C_C%E1%BA%A7n_Th%C6%A1%2C_ng%C3%A0y_23_th%C3%A1ng_5_n%C4%83m_2014_%289%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1024,
+              "height": 768,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/1/16/C%C3%B4ng_vi%C3%AAn_B%E1%BA%BFn_Ninh_Ki%E1%BB%81u%2C_C%E1%BA%A7n_Th%C6%A1%2C_ng%C3%A0y_23_th%C3%A1ng_5_n%C4%83m_2014_%289%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/C%C3%B4ng_vi%C3%AAn_B%E1%BA%BFn_Ninh_Ki%E1%BB%81u%2C_C%E1%BA%A7n_Th%C6%A1%2C_ng%C3%A0y_23_th%C3%A1ng_5_n%C4%83m_2014_%289%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:C%C3%B4ng_vi%C3%AAn_B%E1%BA%BFn_Ninh_Ki%E1%BB%81u,_C%E1%BA%A7n_Th%C6%A1,_ng%C3%A0y_23_th%C3%A1ng_5_n%C4%83m_2014_(9).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=108080681",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-08-02 08:34:45",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Công viên Bến Ninh Kiều, Cần Thơ, ngày 23 tháng 5 năm 2014 (9)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Ninh Kieu Quay|Self-published work",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Ninh Kieu Wharf",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2014-05-23 06:13:23",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Ph%C6%B0%C6%A1ng_Huy\" title=\"User:Phương Huy\">Phương Huy</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "108080659": {
+        "pageid": 108080659,
+        "ns": 6,
+        "title": "File:Công viên Bến Ninh Kiều, Cần Thơ (hoa hòe), ngày 23 tháng 5 năm 2014 (33).jpg",
+        "index": 10,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1511137,
+            "width": 2048,
+            "height": 1536,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/C%C3%B4ng_vi%C3%AAn_B%E1%BA%BFn_Ninh_Ki%E1%BB%81u%2C_C%E1%BA%A7n_Th%C6%A1_%28hoa_h%C3%B2e%29%2C_ng%C3%A0y_23_th%C3%A1ng_5_n%C4%83m_2014_%2833%29.jpg/1280px-C%C3%B4ng_vi%C3%AAn_B%E1%BA%BFn_Ninh_Ki%E1%BB%81u%2C_C%E1%BA%A7n_Th%C6%A1_%28hoa_h%C3%B2e%29%2C_ng%C3%A0y_23_th%C3%A1ng_5_n%C4%83m_2014_%2833%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1024,
+            "thumbheight": 768,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/8/8a/C%C3%B4ng_vi%C3%AAn_B%E1%BA%BFn_Ninh_Ki%E1%BB%81u%2C_C%E1%BA%A7n_Th%C6%A1_%28hoa_h%C3%B2e%29%2C_ng%C3%A0y_23_th%C3%A1ng_5_n%C4%83m_2014_%2833%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/C%C3%B4ng_vi%C3%AAn_B%E1%BA%BFn_Ninh_Ki%E1%BB%81u%2C_C%E1%BA%A7n_Th%C6%A1_%28hoa_h%C3%B2e%29%2C_ng%C3%A0y_23_th%C3%A1ng_5_n%C4%83m_2014_%2833%29.jpg/1280px-C%C3%B4ng_vi%C3%AAn_B%E1%BA%BFn_Ninh_Ki%E1%BB%81u%2C_C%E1%BA%A7n_Th%C6%A1_%28hoa_h%C3%B2e%29%2C_ng%C3%A0y_23_th%C3%A1ng_5_n%C4%83m_2014_%2833%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1024,
+              "height": 768,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/8/8a/C%C3%B4ng_vi%C3%AAn_B%E1%BA%BFn_Ninh_Ki%E1%BB%81u%2C_C%E1%BA%A7n_Th%C6%A1_%28hoa_h%C3%B2e%29%2C_ng%C3%A0y_23_th%C3%A1ng_5_n%C4%83m_2014_%2833%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/C%C3%B4ng_vi%C3%AAn_B%E1%BA%BFn_Ninh_Ki%E1%BB%81u%2C_C%E1%BA%A7n_Th%C6%A1_%28hoa_h%C3%B2e%29%2C_ng%C3%A0y_23_th%C3%A1ng_5_n%C4%83m_2014_%2833%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:C%C3%B4ng_vi%C3%AAn_B%E1%BA%BFn_Ninh_Ki%E1%BB%81u,_C%E1%BA%A7n_Th%C6%A1_(hoa_h%C3%B2e),_ng%C3%A0y_23_th%C3%A1ng_5_n%C4%83m_2014_(33).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=108080659",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-08-02 08:34:21",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Công viên Bến Ninh Kiều, Cần Thơ (hoa hòe), ngày 23 tháng 5 năm 2014 (33)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Ninh Kieu Quay|Self-published work",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Ninh Kieu Wharf",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2014-05-23 06:29:47",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Ph%C6%B0%C6%A1ng_Huy\" title=\"User:Phương Huy\">Phương Huy</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "108080661": {
+        "pageid": 108080661,
+        "ns": 6,
+        "title": "File:Công viên Bến Ninh Kiều, Cần Thơ (hoa hòe), ngày 23 tháng 5 năm 2014 (37).jpg",
+        "index": 9,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1472996,
+            "width": 2048,
+            "height": 1536,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/C%C3%B4ng_vi%C3%AAn_B%E1%BA%BFn_Ninh_Ki%E1%BB%81u%2C_C%E1%BA%A7n_Th%C6%A1_%28hoa_h%C3%B2e%29%2C_ng%C3%A0y_23_th%C3%A1ng_5_n%C4%83m_2014_%2837%29.jpg/1280px-C%C3%B4ng_vi%C3%AAn_B%E1%BA%BFn_Ninh_Ki%E1%BB%81u%2C_C%E1%BA%A7n_Th%C6%A1_%28hoa_h%C3%B2e%29%2C_ng%C3%A0y_23_th%C3%A1ng_5_n%C4%83m_2014_%2837%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1024,
+            "thumbheight": 768,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/5/5d/C%C3%B4ng_vi%C3%AAn_B%E1%BA%BFn_Ninh_Ki%E1%BB%81u%2C_C%E1%BA%A7n_Th%C6%A1_%28hoa_h%C3%B2e%29%2C_ng%C3%A0y_23_th%C3%A1ng_5_n%C4%83m_2014_%2837%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/C%C3%B4ng_vi%C3%AAn_B%E1%BA%BFn_Ninh_Ki%E1%BB%81u%2C_C%E1%BA%A7n_Th%C6%A1_%28hoa_h%C3%B2e%29%2C_ng%C3%A0y_23_th%C3%A1ng_5_n%C4%83m_2014_%2837%29.jpg/1280px-C%C3%B4ng_vi%C3%AAn_B%E1%BA%BFn_Ninh_Ki%E1%BB%81u%2C_C%E1%BA%A7n_Th%C6%A1_%28hoa_h%C3%B2e%29%2C_ng%C3%A0y_23_th%C3%A1ng_5_n%C4%83m_2014_%2837%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1024,
+              "height": 768,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/5/5d/C%C3%B4ng_vi%C3%AAn_B%E1%BA%BFn_Ninh_Ki%E1%BB%81u%2C_C%E1%BA%A7n_Th%C6%A1_%28hoa_h%C3%B2e%29%2C_ng%C3%A0y_23_th%C3%A1ng_5_n%C4%83m_2014_%2837%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/C%C3%B4ng_vi%C3%AAn_B%E1%BA%BFn_Ninh_Ki%E1%BB%81u%2C_C%E1%BA%A7n_Th%C6%A1_%28hoa_h%C3%B2e%29%2C_ng%C3%A0y_23_th%C3%A1ng_5_n%C4%83m_2014_%2837%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:C%C3%B4ng_vi%C3%AAn_B%E1%BA%BFn_Ninh_Ki%E1%BB%81u,_C%E1%BA%A7n_Th%C6%A1_(hoa_h%C3%B2e),_ng%C3%A0y_23_th%C3%A1ng_5_n%C4%83m_2014_(37).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=108080661",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-08-02 08:34:23",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Công viên Bến Ninh Kiều, Cần Thơ (hoa hòe), ngày 23 tháng 5 năm 2014 (37)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Ninh Kieu Quay|Self-published work",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Ninh Kieu Wharf",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2014-05-23 06:29:18",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Ph%C6%B0%C6%A1ng_Huy\" title=\"User:Phương Huy\">Phương Huy</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "86714201": {
+        "pageid": 86714201,
+        "ns": 6,
+        "title": "File:Ninh Kieu Quay.jpg",
+        "index": 1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2116878,
+            "width": 4032,
+            "height": 3024,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Ninh_Kieu_Quay.jpg/1280px-Ninh_Kieu_Quay.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1024,
+            "thumbheight": 768,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Ninh_Kieu_Quay.jpg/3840px-Ninh_Kieu_Quay.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Ninh_Kieu_Quay.jpg/1280px-Ninh_Kieu_Quay.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1024,
+              "height": 768,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Ninh_Kieu_Quay.jpg/3840px-Ninh_Kieu_Quay.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Ninh_Kieu_Quay.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ninh_Kieu_Quay.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=86714201",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2020-02-06 20:21:27",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Ninh Kieu Quay",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Ninh Kieu Quay|Self-published work|Files with coordinates missing SDC location of creation|Images by Christophe95/Vietnam",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "10.036269",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "105.790406",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Ninh Kieu Wharf next to the Can Tho River in Can Tho.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2018-07-13 15:29:59",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Christophe95\" title=\"User:Christophe95\">Christophe95</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "86772397": {
+        "pageid": 86772397,
+        "ns": 6,
+        "title": "File:Ninh Kieu Quay at night.jpg",
+        "index": 2,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 784279,
+            "width": 4032,
+            "height": 3024,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Ninh_Kieu_Quay_at_night.jpg/1280px-Ninh_Kieu_Quay_at_night.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1024,
+            "thumbheight": 768,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Ninh_Kieu_Quay_at_night.jpg/3840px-Ninh_Kieu_Quay_at_night.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Ninh_Kieu_Quay_at_night.jpg/1280px-Ninh_Kieu_Quay_at_night.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1024,
+              "height": 768,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Ninh_Kieu_Quay_at_night.jpg/3840px-Ninh_Kieu_Quay_at_night.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Ninh_Kieu_Quay_at_night.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ninh_Kieu_Quay_at_night.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=86772397",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2020-02-08 13:05:10",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Ninh Kieu Quay at night",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Ninh Kieu Quay|Self-published work|Night in Vietnam|Images by Christophe95/Vietnam",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Ninh Kieu Wharf in Can Tho.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2018-07-13 19:06:36",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Christophe95\" title=\"User:Christophe95\">Christophe95</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

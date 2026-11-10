@@ -1,0 +1,1291 @@
+{
+  "batchcomplete": "",
+  "continue": {
+    "gsroffset": 10,
+    "continue": "gsroffset||"
+  },
+  "query": {
+    "pages": {
+      "84755204": {
+        "pageid": 84755204,
+        "ns": 6,
+        "title": "File:Melbourne (AU), Flinders Street Railway Station -- 2019 -- 1583.jpg",
+        "index": 10,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 17226223,
+            "width": 6720,
+            "height": 4200,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Melbourne_%28AU%29%2C_Flinders_Street_Railway_Station_--_2019_--_1583.jpg/1280px-Melbourne_%28AU%29%2C_Flinders_Street_Railway_Station_--_2019_--_1583.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1024,
+            "thumbheight": 640,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Melbourne_%28AU%29%2C_Flinders_Street_Railway_Station_--_2019_--_1583.jpg/3840px-Melbourne_%28AU%29%2C_Flinders_Street_Railway_Station_--_2019_--_1583.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Melbourne_%28AU%29%2C_Flinders_Street_Railway_Station_--_2019_--_1583.jpg/1280px-Melbourne_%28AU%29%2C_Flinders_Street_Railway_Station_--_2019_--_1583.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1024,
+              "height": 640,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Melbourne_%28AU%29%2C_Flinders_Street_Railway_Station_--_2019_--_1583.jpg/3840px-Melbourne_%28AU%29%2C_Flinders_Street_Railway_Station_--_2019_--_1583.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Melbourne_%28AU%29%2C_Flinders_Street_Railway_Station_--_2019_--_1583.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Melbourne_(AU),_Flinders_Street_Railway_Station_--_2019_--_1583.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=84755204",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2019-12-09 12:01:21",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Melbourne (AU), Flinders Street Railway Station -- 2019 -- 1583",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Photographs by Dietmar Rabich/Quality images of Australia|ISO speed rating 100|Photographs with aspect ratio of 8:5|Self-published work|Exposure time 1/250 sec|Photographs by Dietmar Rabich/Australia|Photographs by Dietmar Rabich/Quality images|Skylines of Melbourne|Information field template with formatting|F-number f/8|FoP-Australia|Buildings with addresses|Lens focal length 35 mm|Cultural heritage monuments in Australia with known IDs|Changes of XRay's photographs of the recent weeks|Images by XRay (flat list)|Photographs by Dietmar Rabich/Quality images of rail vehicles|Photographs by Dietmar Rabich/Quality images of railway stations|Uploaded with LrMediaWiki|1 train|October 2019 in Melbourne|Buildings in Australia photographed in 2019|Australia photographs taken on 2019-10-15|Railway photographs taken on 2019-10-15|Rail vehicles in Australia photographed in 2019|October 2019 in rail transport in Australia|Train stations in Australia photographed in 2019|Blue sky in Victoria, Australia|2019 photographs of Victoria, Australia|Photographs by Dietmar Rabich/Railway photography|X'Trapolis 100 in Melbourne|Taken with Canon EOS 5D Mark IV and Canon EF 24-105mm F4L IS II USM|Photographs by Dietmar Rabich/Year/2019|Siemens Nexas|Photographs by Dietmar Rabich/Architectural photography/Cityscapes",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "quality",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "-37.818271",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "144.967062",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<a href=\"https://en.wikipedia.org/wiki/Flinders_Street_railway_station\" class=\"extiw\" title=\"en:Flinders Street railway station\">Flinders Street Station</a> (Tracks in east), <a href=\"https://en.wikipedia.org/wiki/Melbourne\" class=\"extiw\" title=\"en:Melbourne\">Melbourne</a>, <a href=\"https://en.wikipedia.org/wiki/Victoria_(Australia)\" class=\"extiw\" title=\"en:Victoria (Australia)\">Victoria</a>, Australia",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "Taken on 15 October 2019, 12:27",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<bdi><a href=\"https://www.wikidata.org/wiki/Q34788025\" class=\"extiw\" title=\"d:Q34788025\"><span title=\"German photographer and mathematician\">Dietmar Rabich</span></a></bdi>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "<table class=\"layouttemplate navigation-not-searchable\" style=\"margin:.25em;padding:.25em .5em;background-color:var(--background-color-base,#ffffff);color:inherit;border:1px solid var(--background-color-disabled,#eeeeee)\" data-nosnippet=\"\">\n<tbody><tr>\n<td><span typeof=\"mw:File\"><span><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/40px-Flag_of_Germany.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"14\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/60px-Flag_of_Germany.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"1000\" data-file-height=\"600\"></span></span>\n</td>\n<td>Dieser Text und viele andere auch sind ebenso in deutscher Sprache verfügbar. Um diese sehen zu können, wähle bitte auf dieser Webseite die Spracheinstellung „Deutsch“.\n</td></tr></tbody></table><div style=\"clear:both;border:1px solid var(--background-color-disabled,#eeeeee);margin:.25em;padding:.25em .5em;background-color:var(--background-color-base,#ffffff);color:inherit;font-size:90%;\" class=\"searchaux\" data-nosnippet=\"\">\n<figure class=\"mw-halign-right\" typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:HSSection_sign.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/HSSection_sign.svg/120px-HSSection_sign.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/HSSection_sign.svg/250px-HSSection_sign.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"156\" data-file-height=\"156\"></a><figcaption></figcaption></figure><figure class=\"mw-halign-right\" typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Cc_by-sa_(1).svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Cc_by-sa_%281%29.svg/120px-Cc_by-sa_%281%29.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"100\" height=\"35\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Cc_by-sa_%281%29.svg/250px-Cc_by-sa_%281%29.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"120\" data-file-height=\"42\"></a><figcaption></figcaption></figure><div><b>I. Licence</b></div>\n<div style=\"margin-top:0.5em;\">This photograph is protected by copyright law. However, it may be used for free by anyone, provided it is used in accordance with the license <b>Creative Commons License <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/deed\">“Attribution-ShareAlike 4.0 International”</a></b> (CC BY-SA 4.0). These include, among other things, the naming of the author and the license, as well as the setting of a link to the license text or its complete imprint. The attribution should be done as follows:</div>\n<div style=\"margin-top:0.5em; text-align:center;\"><i><a href=\"//commons.wikimedia.org/wiki/User:XRay\" title=\"User:XRay\">Dietmar Rabich</a> / <a href=\"//commons.wikimedia.org/wiki/Main_Page\" title=\"Main Page\">Wikimedia Commons</a> / <span class=\"plainlinks noprint\"><a class=\"external text\" data-mw-original-href=\"//commons.wikimedia.org/wiki/File:Melbourne_(AU),_Flinders_Street_Railway_Station_--_2019_--_1583.jpg\" href=\"https://commons.wikimedia.org/wiki/File:Melbourne_(AU),_Flinders_Street_Railway_Station_--_2019_--_1583.jpg\">“Melbourne (AU), Flinders Street Railway Station -- 2019 -- 1583”</a></span> / <span class=\"plainlinks noprint\"><a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a></span></i></div>\n<div style=\"margin-top:0.5em;\">Please read the text of the license carefully before using the photograph. If you do not agree with the conditions of the license or if you do not understand these conditions, please refrain from using the photo. If you have any questions regarding the license or the reuse of the image, please contact me before using it. If you do not comply with the terms of the license, you do not acquire any right to use the image. If you need another license to use, please contact the author <b>before</b> using.</div>\n<div style=\"margin-top:0.5em;\">For informations about the licence see section <a class=\"mw-selflink-fragment\" href=\"#ImgLic\">Licensing</a> or as <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">human-readable summary</a> or as <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/legalcode\">full licence text</a> at Creative Commons. In addition to the above, a link to the source - so this page with the descriptions and license terms - is appreciated. More information or examples of use can be found at <a href=\"//commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia\" title=\"Commons:Reusing content outside Wikimedia\">re-use (with example file)</a>. The <a rel=\"nofollow\" class=\"external text\" href=\"https://lizenzhinweisgenerator.de/?lang=en&amp;url=https://commons.wikimedia.org/wiki/File:Melbourne_(AU),_Flinders_Street_Railway_Station_--_2019_--_1583.jpg\">Attribution Generator</a> is helpful in licensing matters.</div>\n<div style=\"margin:0.5em auto 1em;text-align:center;\" class=\"plainlinks\"><span class=\"plainlinks\"><a rel=\"nofollow\" class=\"external text\" href=\"https://lizenzhinweisgenerator.de/?lang=en&amp;url=https://commons.wikimedia.org/wiki/File:Melbourne_(AU),_Flinders_Street_Railway_Station_--_2019_--_1583.jpg\"><span class=\"submit ui-button ui-widget ui-state-default ui-corner-all ui-button-text-icon-secondary ui-button-blue\" role=\"button\"><span class=\"ui-button-text\">Generate License <b>Attribution</b></span><span class=\"ui-button-icon-secondary ui-icon ui-icon-extlink\"> </span></span></a></span></div>\n<div style=\"margin-top:0.5em;\">As an alternative to the Creative Commons License <i>CC BY-SA 4.0</i>, the <i><a href=\"https://en.wikipedia.org/wiki/Free_Art_License\" class=\"extiw\" title=\"en:Free Art License\">Free Art License</a></i> (<a rel=\"nofollow\" class=\"external text\" href=\"http://artlibre.org/licence/lal/en/\">from version 1.3</a>) may also be used.</div>\n<div style=\"margin-top:0.75em;\"><b>II. Fairness</b></div>\n<div style=\"margin-top:0.5em;\">From printed materials and other tangible products that use that work, the user is asked to send a copy to the author as thank you. However, this is not a condition for the use of the photo, but a voluntary service. The mailing address can be requested via the contact options.</div>\n<div style=\"margin-top:0.5em;\">Please note that the author had quite considerable effort to draw up this file. Thus, it is only fair to comply with the conditions of <a href=\"https://en.wikipedia.org/wiki/Free_license\" class=\"extiw\" title=\"en:Free license\">free licenses</a> listed here. In the case of violation of the license conditions, the rights granted hereunder will expire automatically.</div>\n<div style=\"margin-top:0.75em; clear: both;\"><b>III. Disclaimer</b></div>\n<div style=\"margin-top:0.5em;\">Please note that the rights granted under the license apply exclusively to the photograph itself, but not to the rights of third parties — such as copyrights or property rights in the object depicted or the personal rights of any individuals who may be depicted. (See <a href=\"//commons.wikimedia.org/wiki/Commons:L\" class=\"mw-redirect\" title=\"Commons:L\">licences</a> and <a href=\"//commons.wikimedia.org/wiki/Commons:SOSUMI\" class=\"mw-redirect\" title=\"Commons:SOSUMI\">non-copyright restrictions</a>.) I do not grant any warranty that the subsequent use of the photograph is legally possible concerning the object or person shown in the photograph. You are responsible to check and respect these rights in the publication in the respective medium or country.</div>\n<div style=\"margin-top:0.5em;\">The author is not responsible for the accuracy of the information contained herein (description, title, etc.). Likewise, the author assumes no liability for further use. Please note the <a href=\"//commons.wikimedia.org/wiki/Commons:General_disclaimer\" title=\"Commons:General disclaimer\">general disclaimer</a> and please read <a href=\"//commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia\" title=\"Commons:Reusing content outside Wikimedia\">reusing content outside Wikimedia</a> too.</div>\n<div style=\"margin-top:0.75em;\"><b>IV. Contact</b></div>\n<div style=\"margin-top:0.5em;\"><b><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:UserIconMail.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/UserIconMail.svg/40px-UserIconMail.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/UserIconMail.svg/60px-UserIconMail.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"700\" data-file-height=\"700\"></a></span> <a href=\"//commons.wikimedia.org/wiki/Special:EmailUser/XRay\" title=\"Special:EmailUser/XRay\">E-mail to the author</a></b> or the <a href=\"//commons.wikimedia.org/wiki/User_talk:XRay\" title=\"User talk:XRay\">author's talk page</a> <small>or the <a rel=\"nofollow\" class=\"external text\" href=\"http://www.rabich.de/\">author's website</a></small></div></div>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "<b><a href=\"//commons.wikimedia.org/wiki/User:XRay\" title=\"User:XRay\">Dietmar Rabich</a></b>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "84755201": {
+        "pageid": 84755201,
+        "ns": 6,
+        "title": "File:Melbourne (AU), Hotel Windsor -- 2019 -- 1578.jpg",
+        "index": 3,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 14190951,
+            "width": 4480,
+            "height": 6720,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Melbourne_%28AU%29%2C_Hotel_Windsor_--_2019_--_1578.jpg/1280px-Melbourne_%28AU%29%2C_Hotel_Windsor_--_2019_--_1578.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1024,
+            "thumbheight": 1536,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Melbourne_%28AU%29%2C_Hotel_Windsor_--_2019_--_1578.jpg/3840px-Melbourne_%28AU%29%2C_Hotel_Windsor_--_2019_--_1578.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Melbourne_%28AU%29%2C_Hotel_Windsor_--_2019_--_1578.jpg/1280px-Melbourne_%28AU%29%2C_Hotel_Windsor_--_2019_--_1578.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1024,
+              "height": 1536,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Melbourne_%28AU%29%2C_Hotel_Windsor_--_2019_--_1578.jpg/3840px-Melbourne_%28AU%29%2C_Hotel_Windsor_--_2019_--_1578.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Melbourne_%28AU%29%2C_Hotel_Windsor_--_2019_--_1578.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Melbourne_(AU),_Hotel_Windsor_--_2019_--_1578.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=84755201",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2019-12-09 12:01:00",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Melbourne (AU), Hotel Windsor -- 2019 -- 1578",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Photographs by Dietmar Rabich/Quality images of Australia|Hotel Windsor, Melbourne|ISO speed rating 100|Photographs with aspect ratio of 2:3|Self-published work|Photographs by Dietmar Rabich/Symmetry impressions|Exposure time 1/200 sec|Photographs by Dietmar Rabich/Australia|Photographs by Dietmar Rabich/Quality images|Information field template with formatting|F-number f/8|Lens focal length 24 mm|Photographs by Dietmar Rabich/Quality images of retail buildings|Images by XRay (flat list)|Uploaded with LrMediaWiki|Symmetry impressions of buildings|Hotels in Australia photographed in 2019|October 2019 in Melbourne|Australia photographs taken on 2019-10-15|Clouds in the Southern Hemisphere in October 2019|Vertical symmetry impressions|Clouds and blue sky in Victoria, Australia|2019 photographs of Victoria, Australia|Photographs by Dietmar Rabich/Quality images of facades|Taken with Canon EOS 5D Mark IV and Canon EF 24-105mm F4L IS II USM|Photographs by Dietmar Rabich/Year/2019|1 building in Australia|Worm's-eye view of buildings in Australia|Facades in Victoria, Australia|Hotels with clouds and blue sky background|Photographs by Dietmar Rabich/Architectural photography/Commerce buildings",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "quality",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "-37.811900",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "144.973000",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<a href=\"https://en.wikipedia.org/wiki/Hotel_Windsor_(Melbourne)\" class=\"extiw\" title=\"en:Hotel Windsor (Melbourne)\">Hotel Windsor</a>, <a href=\"https://en.wikipedia.org/wiki/Melbourne\" class=\"extiw\" title=\"en:Melbourne\">Melbourne</a>, <a href=\"https://en.wikipedia.org/wiki/Victoria_(Australia)\" class=\"extiw\" title=\"en:Victoria (Australia)\">Victoria</a>, Australia",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "Taken on 15 October 2019, 11:58",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<bdi><a href=\"https://www.wikidata.org/wiki/Q34788025\" class=\"extiw\" title=\"d:Q34788025\"><span title=\"German photographer and mathematician\">Dietmar Rabich</span></a></bdi>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "<table class=\"layouttemplate navigation-not-searchable\" style=\"margin:.25em;padding:.25em .5em;background-color:var(--background-color-base,#ffffff);color:inherit;border:1px solid var(--background-color-disabled,#eeeeee)\" data-nosnippet=\"\">\n<tbody><tr>\n<td><span typeof=\"mw:File\"><span><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/40px-Flag_of_Germany.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"14\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/60px-Flag_of_Germany.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"1000\" data-file-height=\"600\"></span></span>\n</td>\n<td>Dieser Text und viele andere auch sind ebenso in deutscher Sprache verfügbar. Um diese sehen zu können, wähle bitte auf dieser Webseite die Spracheinstellung „Deutsch“.\n</td></tr></tbody></table><div style=\"clear:both;border:1px solid var(--background-color-disabled,#eeeeee);margin:.25em;padding:.25em .5em;background-color:var(--background-color-base,#ffffff);color:inherit;font-size:90%;\" class=\"searchaux\" data-nosnippet=\"\">\n<figure class=\"mw-halign-right\" typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:HSSection_sign.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/HSSection_sign.svg/120px-HSSection_sign.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/HSSection_sign.svg/250px-HSSection_sign.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"156\" data-file-height=\"156\"></a><figcaption></figcaption></figure><figure class=\"mw-halign-right\" typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Cc_by-sa_(1).svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Cc_by-sa_%281%29.svg/120px-Cc_by-sa_%281%29.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"100\" height=\"35\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Cc_by-sa_%281%29.svg/250px-Cc_by-sa_%281%29.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"120\" data-file-height=\"42\"></a><figcaption></figcaption></figure><div><b>I. Licence</b></div>\n<div style=\"margin-top:0.5em;\">This photograph is protected by copyright law. However, it may be used for free by anyone, provided it is used in accordance with the license <b>Creative Commons License <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/deed\">“Attribution-ShareAlike 4.0 International”</a></b> (CC BY-SA 4.0). These include, among other things, the naming of the author and the license, as well as the setting of a link to the license text or its complete imprint. The attribution should be done as follows:</div>\n<div style=\"margin-top:0.5em; text-align:center;\"><i><a href=\"//commons.wikimedia.org/wiki/User:XRay\" title=\"User:XRay\">Dietmar Rabich</a> / <a href=\"//commons.wikimedia.org/wiki/Main_Page\" title=\"Main Page\">Wikimedia Commons</a> / <span class=\"plainlinks noprint\"><a class=\"external text\" data-mw-original-href=\"//commons.wikimedia.org/wiki/File:Melbourne_(AU),_Hotel_Windsor_--_2019_--_1578.jpg\" href=\"https://commons.wikimedia.org/wiki/File:Melbourne_(AU),_Hotel_Windsor_--_2019_--_1578.jpg\">“Melbourne (AU), Hotel Windsor -- 2019 -- 1578”</a></span> / <span class=\"plainlinks noprint\"><a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a></span></i></div>\n<div style=\"margin-top:0.5em;\">Please read the text of the license carefully before using the photograph. If you do not agree with the conditions of the license or if you do not understand these conditions, please refrain from using the photo. If you have any questions regarding the license or the reuse of the image, please contact me before using it. If you do not comply with the terms of the license, you do not acquire any right to use the image. If you need another license to use, please contact the author <b>before</b> using.</div>\n<div style=\"margin-top:0.5em;\">For informations about the licence see section <a class=\"mw-selflink-fragment\" href=\"#ImgLic\">Licensing</a> or as <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">human-readable summary</a> or as <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/legalcode\">full licence text</a> at Creative Commons. In addition to the above, a link to the source - so this page with the descriptions and license terms - is appreciated. More information or examples of use can be found at <a href=\"//commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia\" title=\"Commons:Reusing content outside Wikimedia\">re-use (with example file)</a>. The <a rel=\"nofollow\" class=\"external text\" href=\"https://lizenzhinweisgenerator.de/?lang=en&amp;url=https://commons.wikimedia.org/wiki/File:Melbourne_(AU),_Hotel_Windsor_--_2019_--_1578.jpg\">Attribution Generator</a> is helpful in licensing matters.</div>\n<div style=\"margin:0.5em auto 1em;text-align:center;\" class=\"plainlinks\"><span class=\"plainlinks\"><a rel=\"nofollow\" class=\"external text\" href=\"https://lizenzhinweisgenerator.de/?lang=en&amp;url=https://commons.wikimedia.org/wiki/File:Melbourne_(AU),_Hotel_Windsor_--_2019_--_1578.jpg\"><span class=\"submit ui-button ui-widget ui-state-default ui-corner-all ui-button-text-icon-secondary ui-button-blue\" role=\"button\"><span class=\"ui-button-text\">Generate License <b>Attribution</b></span><span class=\"ui-button-icon-secondary ui-icon ui-icon-extlink\"> </span></span></a></span></div>\n<div style=\"margin-top:0.5em;\">As an alternative to the Creative Commons License <i>CC BY-SA 4.0</i>, the <i><a href=\"https://en.wikipedia.org/wiki/Free_Art_License\" class=\"extiw\" title=\"en:Free Art License\">Free Art License</a></i> (<a rel=\"nofollow\" class=\"external text\" href=\"http://artlibre.org/licence/lal/en/\">from version 1.3</a>) may also be used.</div>\n<div style=\"margin-top:0.75em;\"><b>II. Fairness</b></div>\n<div style=\"margin-top:0.5em;\">From printed materials and other tangible products that use that work, the user is asked to send a copy to the author as thank you. However, this is not a condition for the use of the photo, but a voluntary service. The mailing address can be requested via the contact options.</div>\n<div style=\"margin-top:0.5em;\">Please note that the author had quite considerable effort to draw up this file. Thus, it is only fair to comply with the conditions of <a href=\"https://en.wikipedia.org/wiki/Free_license\" class=\"extiw\" title=\"en:Free license\">free licenses</a> listed here. In the case of violation of the license conditions, the rights granted hereunder will expire automatically.</div>\n<div style=\"margin-top:0.75em; clear: both;\"><b>III. Disclaimer</b></div>\n<div style=\"margin-top:0.5em;\">Please note that the rights granted under the license apply exclusively to the photograph itself, but not to the rights of third parties — such as copyrights or property rights in the object depicted or the personal rights of any individuals who may be depicted. (See <a href=\"//commons.wikimedia.org/wiki/Commons:L\" class=\"mw-redirect\" title=\"Commons:L\">licences</a> and <a href=\"//commons.wikimedia.org/wiki/Commons:SOSUMI\" class=\"mw-redirect\" title=\"Commons:SOSUMI\">non-copyright restrictions</a>.) I do not grant any warranty that the subsequent use of the photograph is legally possible concerning the object or person shown in the photograph. You are responsible to check and respect these rights in the publication in the respective medium or country.</div>\n<div style=\"margin-top:0.5em;\">The author is not responsible for the accuracy of the information contained herein (description, title, etc.). Likewise, the author assumes no liability for further use. Please note the <a href=\"//commons.wikimedia.org/wiki/Commons:General_disclaimer\" title=\"Commons:General disclaimer\">general disclaimer</a> and please read <a href=\"//commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia\" title=\"Commons:Reusing content outside Wikimedia\">reusing content outside Wikimedia</a> too.</div>\n<div style=\"margin-top:0.75em;\"><b>IV. Contact</b></div>\n<div style=\"margin-top:0.5em;\"><b><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:UserIconMail.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/UserIconMail.svg/40px-UserIconMail.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/UserIconMail.svg/60px-UserIconMail.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"700\" data-file-height=\"700\"></a></span> <a href=\"//commons.wikimedia.org/wiki/Special:EmailUser/XRay\" title=\"Special:EmailUser/XRay\">E-mail to the author</a></b> or the <a href=\"//commons.wikimedia.org/wiki/User_talk:XRay\" title=\"User talk:XRay\">author's talk page</a> <small>or the <a rel=\"nofollow\" class=\"external text\" href=\"http://www.rabich.de/\">author's website</a></small></div></div>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "<b><a href=\"//commons.wikimedia.org/wiki/User:XRay\" title=\"User:XRay\">Dietmar Rabich</a></b>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "84651682": {
+        "pageid": 84651682,
+        "ns": 6,
+        "title": "File:Melbourne (AU), Melbourne City Centre -- 2019 -- 1493-7.jpg",
+        "index": 2,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 15049272,
+            "width": 6697,
+            "height": 4465,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Melbourne_%28AU%29%2C_Melbourne_City_Centre_--_2019_--_1493-7.jpg/1280px-Melbourne_%28AU%29%2C_Melbourne_City_Centre_--_2019_--_1493-7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1024,
+            "thumbheight": 683,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Melbourne_%28AU%29%2C_Melbourne_City_Centre_--_2019_--_1493-7.jpg/3840px-Melbourne_%28AU%29%2C_Melbourne_City_Centre_--_2019_--_1493-7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Melbourne_%28AU%29%2C_Melbourne_City_Centre_--_2019_--_1493-7.jpg/1280px-Melbourne_%28AU%29%2C_Melbourne_City_Centre_--_2019_--_1493-7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1024,
+              "height": 683,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Melbourne_%28AU%29%2C_Melbourne_City_Centre_--_2019_--_1493-7.jpg/3840px-Melbourne_%28AU%29%2C_Melbourne_City_Centre_--_2019_--_1493-7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Melbourne_%28AU%29%2C_Melbourne_City_Centre_--_2019_--_1493-7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Melbourne_(AU),_Melbourne_City_Centre_--_2019_--_1493-7.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=84651682",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2019-12-06 07:48:16",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Melbourne (AU), Melbourne City Centre -- 2019 -- 1493-7",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Photographs by Dietmar Rabich/Quality images of Australia|Taken with Canon EOS 5D Mark IV|Taken with Sigma 20mm F1.4 DG HSM Art|Images with annotations|Photographs with aspect ratio of 3:2|ISO speed rating 200|Central Business District, Melbourne|Self-published work|Photographs by Dietmar Rabich/Reflections|Photographs by Dietmar Rabich/Tone-mapped HDR images|Photographs by Dietmar Rabich/Australia|Photographs by Dietmar Rabich/Quality images|Information field template with formatting|Tone-mapped HDR images of Australia|F-number f/8|Street lights in Australia|Buildings with addresses|Lens focal length 20 mm|Changes of XRay's photographs of the recent weeks|Images by XRay (flat list)|Night skylines in Melbourne|Uploaded with LrMediaWiki|October 2019 in Melbourne|Buildings in Australia photographed in 2019|Australia photographs taken on 2019-10-14|Photographs by Dietmar Rabich/Quality images of rivers|Long exposure photographs of Australia|Rivers in 2019|Quality night photography in Australia|Night cityscapes in Australia|Long exposure photography in architecture|Long exposures (water reflections)|Photographs by Dietmar Rabich/Motion blur|Night in Melbourne|Street furniture at night|Exposure time 3.2 sec|Long exposures (rivers)|2019 photographs of Victoria, Australia|Views across rivers|Photographs by Dietmar Rabich/Available light photography/Night|Reflections in rivers in Australia|Water reflections of lights in Australia|Tone-mapped HDR images of cityscapes|Yarra River at night|Yarra River in Melbourne at night|Dark skies in Australia|Photographs by Dietmar Rabich/Quality images of cityscapes|Photographs by Dietmar Rabich/Quality images of street furniture|Photographs by Dietmar Rabich/Quality images of natural phenomena|Photographs by Dietmar Rabich/Quality images of lighting devices|Water reflections of buildings in Australia at night|Photographs by Dietmar Rabich/Year/2019|Skyglow in Australia|Street lights photographed in 2019|Photographs by Dietmar Rabich/Architectural photography/Cityscapes",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "quality",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "-37.812365",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "144.962338",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<a href=\"https://en.wikipedia.org/wiki/Melbourne_city_centre\" class=\"extiw\" title=\"en:Melbourne city centre\">Melbourne City Centre</a>, <a href=\"https://en.wikipedia.org/wiki/Melbourne\" class=\"extiw\" title=\"en:Melbourne\">Melbourne</a>, <a href=\"https://en.wikipedia.org/wiki/Victoria_(Australia)\" class=\"extiw\" title=\"en:Victoria (Australia)\">Victoria</a>, Australia",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "Taken on 14 October 2019, 21:43",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<bdi><a href=\"https://www.wikidata.org/wiki/Q34788025\" class=\"extiw\" title=\"d:Q34788025\"><span title=\"German photographer and mathematician\">Dietmar Rabich</span></a></bdi>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "<table class=\"layouttemplate navigation-not-searchable\" style=\"margin:.25em;padding:.25em .5em;background-color:var(--background-color-base,#ffffff);color:inherit;border:1px solid var(--background-color-disabled,#eeeeee)\" data-nosnippet=\"\">\n<tbody><tr>\n<td><span typeof=\"mw:File\"><span><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/40px-Flag_of_Germany.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"14\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/60px-Flag_of_Germany.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"1000\" data-file-height=\"600\"></span></span>\n</td>\n<td>Dieser Text und viele andere auch sind ebenso in deutscher Sprache verfügbar. Um diese sehen zu können, wähle bitte auf dieser Webseite die Spracheinstellung „Deutsch“.\n</td></tr></tbody></table><div style=\"clear:both;border:1px solid var(--background-color-disabled,#eeeeee);margin:.25em;padding:.25em .5em;background-color:var(--background-color-base,#ffffff);color:inherit;font-size:90%;\" class=\"searchaux\" data-nosnippet=\"\">\n<figure class=\"mw-halign-right\" typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:HSSection_sign.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/HSSection_sign.svg/120px-HSSection_sign.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/HSSection_sign.svg/250px-HSSection_sign.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"156\" data-file-height=\"156\"></a><figcaption></figcaption></figure><figure class=\"mw-halign-right\" typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Cc_by-sa_(1).svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Cc_by-sa_%281%29.svg/120px-Cc_by-sa_%281%29.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"100\" height=\"35\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Cc_by-sa_%281%29.svg/250px-Cc_by-sa_%281%29.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"120\" data-file-height=\"42\"></a><figcaption></figcaption></figure><div><b>I. Licence</b></div>\n<div style=\"margin-top:0.5em;\">This photograph is protected by copyright law. However, it may be used for free by anyone, provided it is used in accordance with the license <b>Creative Commons License <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/deed\">“Attribution-ShareAlike 4.0 International”</a></b> (CC BY-SA 4.0). These include, among other things, the naming of the author and the license, as well as the setting of a link to the license text or its complete imprint. The attribution should be done as follows:</div>\n<div style=\"margin-top:0.5em; text-align:center;\"><i><a href=\"//commons.wikimedia.org/wiki/User:XRay\" title=\"User:XRay\">Dietmar Rabich</a> / <a href=\"//commons.wikimedia.org/wiki/Main_Page\" title=\"Main Page\">Wikimedia Commons</a> / <span class=\"plainlinks noprint\"><a class=\"external text\" data-mw-original-href=\"//commons.wikimedia.org/wiki/File:Melbourne_(AU),_Melbourne_City_Centre_--_2019_--_1493-7.jpg\" href=\"https://commons.wikimedia.org/wiki/File:Melbourne_(AU),_Melbourne_City_Centre_--_2019_--_1493-7.jpg\">“Melbourne (AU), Melbourne City Centre -- 2019 -- 1493-7”</a></span> / <span class=\"plainlinks noprint\"><a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a></span></i></div>\n<div style=\"margin-top:0.5em;\">Please read the text of the license carefully before using the photograph. If you do not agree with the conditions of the license or if you do not understand these conditions, please refrain from using the photo. If you have any questions regarding the license or the reuse of the image, please contact me before using it. If you do not comply with the terms of the license, you do not acquire any right to use the image. If you need another license to use, please contact the author <b>before</b> using.</div>\n<div style=\"margin-top:0.5em;\">For informations about the licence see section <a class=\"mw-selflink-fragment\" href=\"#ImgLic\">Licensing</a> or as <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">human-readable summary</a> or as <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/legalcode\">full licence text</a> at Creative Commons. In addition to the above, a link to the source - so this page with the descriptions and license terms - is appreciated. More information or examples of use can be found at <a href=\"//commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia\" title=\"Commons:Reusing content outside Wikimedia\">re-use (with example file)</a>. The <a rel=\"nofollow\" class=\"external text\" href=\"https://lizenzhinweisgenerator.de/?lang=en&amp;url=https://commons.wikimedia.org/wiki/File:Melbourne_(AU),_Melbourne_City_Centre_--_2019_--_1493-7.jpg\">Attribution Generator</a> is helpful in licensing matters.</div>\n<div style=\"margin:0.5em auto 1em;text-align:center;\" class=\"plainlinks\"><span class=\"plainlinks\"><a rel=\"nofollow\" class=\"external text\" href=\"https://lizenzhinweisgenerator.de/?lang=en&amp;url=https://commons.wikimedia.org/wiki/File:Melbourne_(AU),_Melbourne_City_Centre_--_2019_--_1493-7.jpg\"><span class=\"submit ui-button ui-widget ui-state-default ui-corner-all ui-button-text-icon-secondary ui-button-blue\" role=\"button\"><span class=\"ui-button-text\">Generate License <b>Attribution</b></span><span class=\"ui-button-icon-secondary ui-icon ui-icon-extlink\"> </span></span></a></span></div>\n<div style=\"margin-top:0.5em;\">As an alternative to the Creative Commons License <i>CC BY-SA 4.0</i>, the <i><a href=\"https://en.wikipedia.org/wiki/Free_Art_License\" class=\"extiw\" title=\"en:Free Art License\">Free Art License</a></i> (<a rel=\"nofollow\" class=\"external text\" href=\"http://artlibre.org/licence/lal/en/\">from version 1.3</a>) may also be used.</div>\n<div style=\"margin-top:0.75em;\"><b>II. Fairness</b></div>\n<div style=\"margin-top:0.5em;\">From printed materials and other tangible products that use that work, the user is asked to send a copy to the author as thank you. However, this is not a condition for the use of the photo, but a voluntary service. The mailing address can be requested via the contact options.</div>\n<div style=\"margin-top:0.5em;\">Please note that the author had quite considerable effort to draw up this file. Thus, it is only fair to comply with the conditions of <a href=\"https://en.wikipedia.org/wiki/Free_license\" class=\"extiw\" title=\"en:Free license\">free licenses</a> listed here. In the case of violation of the license conditions, the rights granted hereunder will expire automatically.</div>\n<div style=\"margin-top:0.75em; clear: both;\"><b>III. Disclaimer</b></div>\n<div style=\"margin-top:0.5em;\">Please note that the rights granted under the license apply exclusively to the photograph itself, but not to the rights of third parties — such as copyrights or property rights in the object depicted or the personal rights of any individuals who may be depicted. (See <a href=\"//commons.wikimedia.org/wiki/Commons:L\" class=\"mw-redirect\" title=\"Commons:L\">licences</a> and <a href=\"//commons.wikimedia.org/wiki/Commons:SOSUMI\" class=\"mw-redirect\" title=\"Commons:SOSUMI\">non-copyright restrictions</a>.) I do not grant any warranty that the subsequent use of the photograph is legally possible concerning the object or person shown in the photograph. You are responsible to check and respect these rights in the publication in the respective medium or country.</div>\n<div style=\"margin-top:0.5em;\">The author is not responsible for the accuracy of the information contained herein (description, title, etc.). Likewise, the author assumes no liability for further use. Please note the <a href=\"//commons.wikimedia.org/wiki/Commons:General_disclaimer\" title=\"Commons:General disclaimer\">general disclaimer</a> and please read <a href=\"//commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia\" title=\"Commons:Reusing content outside Wikimedia\">reusing content outside Wikimedia</a> too.</div>\n<div style=\"margin-top:0.75em;\"><b>IV. Contact</b></div>\n<div style=\"margin-top:0.5em;\"><b><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:UserIconMail.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/UserIconMail.svg/40px-UserIconMail.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/UserIconMail.svg/60px-UserIconMail.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"700\" data-file-height=\"700\"></a></span> <a href=\"//commons.wikimedia.org/wiki/Special:EmailUser/XRay\" title=\"Special:EmailUser/XRay\">E-mail to the author</a></b> or the <a href=\"//commons.wikimedia.org/wiki/User_talk:XRay\" title=\"User talk:XRay\">author's talk page</a> <small>or the <a rel=\"nofollow\" class=\"external text\" href=\"http://www.rabich.de/\">author's website</a></small></div></div>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "<b><a href=\"//commons.wikimedia.org/wiki/User:XRay\" title=\"User:XRay\">Dietmar Rabich</a></b>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "84651686": {
+        "pageid": 84651686,
+        "ns": 6,
+        "title": "File:Melbourne (AU), Melbourne City Centre -- 2019 -- 1530-4.jpg",
+        "index": 5,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 14492073,
+            "width": 6698,
+            "height": 4465,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Melbourne_%28AU%29%2C_Melbourne_City_Centre_--_2019_--_1530-4.jpg/1280px-Melbourne_%28AU%29%2C_Melbourne_City_Centre_--_2019_--_1530-4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1024,
+            "thumbheight": 683,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Melbourne_%28AU%29%2C_Melbourne_City_Centre_--_2019_--_1530-4.jpg/3840px-Melbourne_%28AU%29%2C_Melbourne_City_Centre_--_2019_--_1530-4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Melbourne_%28AU%29%2C_Melbourne_City_Centre_--_2019_--_1530-4.jpg/1280px-Melbourne_%28AU%29%2C_Melbourne_City_Centre_--_2019_--_1530-4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1024,
+              "height": 683,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Melbourne_%28AU%29%2C_Melbourne_City_Centre_--_2019_--_1530-4.jpg/3840px-Melbourne_%28AU%29%2C_Melbourne_City_Centre_--_2019_--_1530-4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Melbourne_%28AU%29%2C_Melbourne_City_Centre_--_2019_--_1530-4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Melbourne_(AU),_Melbourne_City_Centre_--_2019_--_1530-4.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=84651686",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2019-12-06 07:48:39",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Melbourne (AU), Melbourne City Centre -- 2019 -- 1530-4",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Photographs by Dietmar Rabich/Quality images of Australia|Taken with Canon EOS 5D Mark IV|Taken with Sigma 20mm F1.4 DG HSM Art|Images with annotations|Photographs with aspect ratio of 3:2|Restaurants in Melbourne|Central Business District, Melbourne|Bridges in Australia photographed in 2019|Self-published work|Photographs by Dietmar Rabich/Reflections|Photographs by Dietmar Rabich/Tone-mapped HDR images|Photographs by Dietmar Rabich/Australia|Photographs by Dietmar Rabich/Quality images|Evan Walker Bridge (Melbourne)|Information field template with formatting|Photographs by Dietmar Rabich/Quality images of watercraft|Tone-mapped HDR images of Australia|Exposure time 1/2 sec|F-number f/8|FoP-Australia|ISO speed rating 640|Ships in Victoria, Australia|Buildings with addresses|Lens focal length 20 mm|Photographs by Dietmar Rabich/Quality images of retail buildings|Changes of XRay's photographs of the recent weeks|Images by XRay (flat list)|Night skylines in Melbourne|Uploaded with LrMediaWiki|Watercraft in Australia photographed in 2019|Photographs by Dietmar Rabich/Medium exposure|October 2019 in Melbourne|Australia photographs taken on 2019-10-14|Photographs by Dietmar Rabich/Quality images of rivers|Restaurants in Australia at night|Bridges in Australia at night|Restaurants in Australia photographed in 2019|Rivers in 2019|Quality night photography in Australia|Night cityscapes in Australia|Night in Melbourne|2019 photographs of Victoria, Australia|Views across rivers|Photographs by Dietmar Rabich/Available light photography/Night|Cityscapes viewed from bridges|Reflections in rivers in Australia|Water reflections of lights in Australia|Tone-mapped HDR images of cityscapes|Yarra River at night|Yarra River in Melbourne at night|Restaurant ships in Australia|Watercraft moored to the shore|Dark skies in Australia|Photographs by Dietmar Rabich/Quality images of cityscapes|Photographs by Dietmar Rabich/Quality images of natural phenomena|Water reflections of buildings in Australia at night|Photographs by Dietmar Rabich/Year/2019|Skyglow in Australia|Ships in Australia at night|Photographs by Dietmar Rabich/Architectural photography/Cityscapes",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "quality",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "-37.812365",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "144.962338",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<a href=\"https://en.wikipedia.org/wiki/Melbourne_city_centre\" class=\"extiw\" title=\"en:Melbourne city centre\">Melbourne City Centre</a>, <a href=\"https://en.wikipedia.org/wiki/Melbourne\" class=\"extiw\" title=\"en:Melbourne\">Melbourne</a>, <a href=\"https://en.wikipedia.org/wiki/Victoria_(Australia)\" class=\"extiw\" title=\"en:Victoria (Australia)\">Victoria</a>, Australia",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "Taken on 14 October 2019, 22:04",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<bdi><a href=\"https://www.wikidata.org/wiki/Q34788025\" class=\"extiw\" title=\"d:Q34788025\"><span title=\"German photographer and mathematician\">Dietmar Rabich</span></a></bdi>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "<table class=\"layouttemplate navigation-not-searchable\" style=\"margin:.25em;padding:.25em .5em;background-color:var(--background-color-base,#ffffff);color:inherit;border:1px solid var(--background-color-disabled,#eeeeee)\" data-nosnippet=\"\">\n<tbody><tr>\n<td><span typeof=\"mw:File\"><span><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/40px-Flag_of_Germany.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"14\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/60px-Flag_of_Germany.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"1000\" data-file-height=\"600\"></span></span>\n</td>\n<td>Dieser Text und viele andere auch sind ebenso in deutscher Sprache verfügbar. Um diese sehen zu können, wähle bitte auf dieser Webseite die Spracheinstellung „Deutsch“.\n</td></tr></tbody></table><div style=\"clear:both;border:1px solid var(--background-color-disabled,#eeeeee);margin:.25em;padding:.25em .5em;background-color:var(--background-color-base,#ffffff);color:inherit;font-size:90%;\" class=\"searchaux\" data-nosnippet=\"\">\n<figure class=\"mw-halign-right\" typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:HSSection_sign.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/HSSection_sign.svg/120px-HSSection_sign.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/HSSection_sign.svg/250px-HSSection_sign.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"156\" data-file-height=\"156\"></a><figcaption></figcaption></figure><figure class=\"mw-halign-right\" typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Cc_by-sa_(1).svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Cc_by-sa_%281%29.svg/120px-Cc_by-sa_%281%29.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"100\" height=\"35\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Cc_by-sa_%281%29.svg/250px-Cc_by-sa_%281%29.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"120\" data-file-height=\"42\"></a><figcaption></figcaption></figure><div><b>I. Licence</b></div>\n<div style=\"margin-top:0.5em;\">This photograph is protected by copyright law. However, it may be used for free by anyone, provided it is used in accordance with the license <b>Creative Commons License <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/deed\">“Attribution-ShareAlike 4.0 International”</a></b> (CC BY-SA 4.0). These include, among other things, the naming of the author and the license, as well as the setting of a link to the license text or its complete imprint. The attribution should be done as follows:</div>\n<div style=\"margin-top:0.5em; text-align:center;\"><i><a href=\"//commons.wikimedia.org/wiki/User:XRay\" title=\"User:XRay\">Dietmar Rabich</a> / <a href=\"//commons.wikimedia.org/wiki/Main_Page\" title=\"Main Page\">Wikimedia Commons</a> / <span class=\"plainlinks noprint\"><a class=\"external text\" data-mw-original-href=\"//commons.wikimedia.org/wiki/File:Melbourne_(AU),_Melbourne_City_Centre_--_2019_--_1530-4.jpg\" href=\"https://commons.wikimedia.org/wiki/File:Melbourne_(AU),_Melbourne_City_Centre_--_2019_--_1530-4.jpg\">“Melbourne (AU), Melbourne City Centre -- 2019 -- 1530-4”</a></span> / <span class=\"plainlinks noprint\"><a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a></span></i></div>\n<div style=\"margin-top:0.5em;\">Please read the text of the license carefully before using the photograph. If you do not agree with the conditions of the license or if you do not understand these conditions, please refrain from using the photo. If you have any questions regarding the license or the reuse of the image, please contact me before using it. If you do not comply with the terms of the license, you do not acquire any right to use the image. If you need another license to use, please contact the author <b>before</b> using.</div>\n<div style=\"margin-top:0.5em;\">For informations about the licence see section <a class=\"mw-selflink-fragment\" href=\"#ImgLic\">Licensing</a> or as <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">human-readable summary</a> or as <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/legalcode\">full licence text</a> at Creative Commons. In addition to the above, a link to the source - so this page with the descriptions and license terms - is appreciated. More information or examples of use can be found at <a href=\"//commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia\" title=\"Commons:Reusing content outside Wikimedia\">re-use (with example file)</a>. The <a rel=\"nofollow\" class=\"external text\" href=\"https://lizenzhinweisgenerator.de/?lang=en&amp;url=https://commons.wikimedia.org/wiki/File:Melbourne_(AU),_Melbourne_City_Centre_--_2019_--_1530-4.jpg\">Attribution Generator</a> is helpful in licensing matters.</div>\n<div style=\"margin:0.5em auto 1em;text-align:center;\" class=\"plainlinks\"><span class=\"plainlinks\"><a rel=\"nofollow\" class=\"external text\" href=\"https://lizenzhinweisgenerator.de/?lang=en&amp;url=https://commons.wikimedia.org/wiki/File:Melbourne_(AU),_Melbourne_City_Centre_--_2019_--_1530-4.jpg\"><span class=\"submit ui-button ui-widget ui-state-default ui-corner-all ui-button-text-icon-secondary ui-button-blue\" role=\"button\"><span class=\"ui-button-text\">Generate License <b>Attribution</b></span><span class=\"ui-button-icon-secondary ui-icon ui-icon-extlink\"> </span></span></a></span></div>\n<div style=\"margin-top:0.5em;\">As an alternative to the Creative Commons License <i>CC BY-SA 4.0</i>, the <i><a href=\"https://en.wikipedia.org/wiki/Free_Art_License\" class=\"extiw\" title=\"en:Free Art License\">Free Art License</a></i> (<a rel=\"nofollow\" class=\"external text\" href=\"http://artlibre.org/licence/lal/en/\">from version 1.3</a>) may also be used.</div>\n<div style=\"margin-top:0.75em;\"><b>II. Fairness</b></div>\n<div style=\"margin-top:0.5em;\">From printed materials and other tangible products that use that work, the user is asked to send a copy to the author as thank you. However, this is not a condition for the use of the photo, but a voluntary service. The mailing address can be requested via the contact options.</div>\n<div style=\"margin-top:0.5em;\">Please note that the author had quite considerable effort to draw up this file. Thus, it is only fair to comply with the conditions of <a href=\"https://en.wikipedia.org/wiki/Free_license\" class=\"extiw\" title=\"en:Free license\">free licenses</a> listed here. In the case of violation of the license conditions, the rights granted hereunder will expire automatically.</div>\n<div style=\"margin-top:0.75em; clear: both;\"><b>III. Disclaimer</b></div>\n<div style=\"margin-top:0.5em;\">Please note that the rights granted under the license apply exclusively to the photograph itself, but not to the rights of third parties — such as copyrights or property rights in the object depicted or the personal rights of any individuals who may be depicted. (See <a href=\"//commons.wikimedia.org/wiki/Commons:L\" class=\"mw-redirect\" title=\"Commons:L\">licences</a> and <a href=\"//commons.wikimedia.org/wiki/Commons:SOSUMI\" class=\"mw-redirect\" title=\"Commons:SOSUMI\">non-copyright restrictions</a>.) I do not grant any warranty that the subsequent use of the photograph is legally possible concerning the object or person shown in the photograph. You are responsible to check and respect these rights in the publication in the respective medium or country.</div>\n<div style=\"margin-top:0.5em;\">The author is not responsible for the accuracy of the information contained herein (description, title, etc.). Likewise, the author assumes no liability for further use. Please note the <a href=\"//commons.wikimedia.org/wiki/Commons:General_disclaimer\" title=\"Commons:General disclaimer\">general disclaimer</a> and please read <a href=\"//commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia\" title=\"Commons:Reusing content outside Wikimedia\">reusing content outside Wikimedia</a> too.</div>\n<div style=\"margin-top:0.75em;\"><b>IV. Contact</b></div>\n<div style=\"margin-top:0.5em;\"><b><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:UserIconMail.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/UserIconMail.svg/40px-UserIconMail.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/UserIconMail.svg/60px-UserIconMail.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"700\" data-file-height=\"700\"></a></span> <a href=\"//commons.wikimedia.org/wiki/Special:EmailUser/XRay\" title=\"Special:EmailUser/XRay\">E-mail to the author</a></b> or the <a href=\"//commons.wikimedia.org/wiki/User_talk:XRay\" title=\"User talk:XRay\">author's talk page</a> <small>or the <a rel=\"nofollow\" class=\"external text\" href=\"http://www.rabich.de/\">author's website</a></small></div></div>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "<b><a href=\"//commons.wikimedia.org/wiki/User:XRay\" title=\"User:XRay\">Dietmar Rabich</a></b>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "84755183": {
+        "pageid": 84755183,
+        "ns": 6,
+        "title": "File:Melbourne (AU), Northbank -- 2019 -- 1509-13.jpg",
+        "index": 4,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 12847337,
+            "width": 6697,
+            "height": 4465,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Melbourne_%28AU%29%2C_Northbank_--_2019_--_1509-13.jpg/1280px-Melbourne_%28AU%29%2C_Northbank_--_2019_--_1509-13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1024,
+            "thumbheight": 683,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Melbourne_%28AU%29%2C_Northbank_--_2019_--_1509-13.jpg/3840px-Melbourne_%28AU%29%2C_Northbank_--_2019_--_1509-13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Melbourne_%28AU%29%2C_Northbank_--_2019_--_1509-13.jpg/1280px-Melbourne_%28AU%29%2C_Northbank_--_2019_--_1509-13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1024,
+              "height": 683,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Melbourne_%28AU%29%2C_Northbank_--_2019_--_1509-13.jpg/3840px-Melbourne_%28AU%29%2C_Northbank_--_2019_--_1509-13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Melbourne_%28AU%29%2C_Northbank_--_2019_--_1509-13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Melbourne_(AU),_Northbank_--_2019_--_1509-13.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=84755183",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2019-12-09 12:00:26",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Melbourne (AU), Northbank -- 2019 -- 1509-13",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Photographs by Dietmar Rabich/Quality images of Australia|Taken with Canon EOS 5D Mark IV|Taken with Sigma 20mm F1.4 DG HSM Art|North Melbourne, Victoria|Photographs with aspect ratio of 3:2|ISO speed rating 400|Cityscapes of Melbourne|Self-published work|Photographs by Dietmar Rabich/Reflections|Photographs by Dietmar Rabich/Tone-mapped HDR images|Photographs by Dietmar Rabich/Australia|Photographs by Dietmar Rabich/Quality images|Information field template with formatting|Photographs by Dietmar Rabich/Quality images of buildings|Tone-mapped HDR images of Australia|F-number f/8|Lens focal length 20 mm|Exposure time 1.3 sec|Changes of XRay's photographs of the recent weeks|Images by XRay (flat list)|Uploaded with LrMediaWiki|October 2019 in Melbourne|Buildings in Australia photographed in 2019|Australia photographs taken on 2019-10-14|Photographs by Dietmar Rabich/Quality images of rivers|Buildings in Australia at night|Long exposure photographs of Australia|Rivers in 2019|Quality night photography in Australia|Night cityscapes in Australia|Long exposure photography in architecture|Long exposures (water reflections)|Photographs by Dietmar Rabich/Motion blur|Night in Melbourne|Night sky in Australia|Long exposures (rivers)|2019 photographs of Victoria, Australia|Views across rivers|Photographs by Dietmar Rabich/Available light photography/Night|Reflections in rivers in Australia|Water reflections of lights in Australia|Tone-mapped HDR images of cityscapes|Yarra River at night|Yarra River in Melbourne at night|Dark skies in Australia|Photographs by Dietmar Rabich/Quality images of cityscapes|Photographs by Dietmar Rabich/Quality images of natural phenomena|Water reflections of buildings in Australia at night|Photographs by Dietmar Rabich/Year/2019|Skyglow in Australia|Photographs by Dietmar Rabich/Architectural photography/Cityscapes",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "quality",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "-37.799167",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "144.946667",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Northbank and <a href=\"https://en.wikipedia.org/wiki/Yarra_River\" class=\"extiw\" title=\"en:Yarra River\">Yarra River</a>, <a href=\"https://en.wikipedia.org/wiki/Melbourne\" class=\"extiw\" title=\"en:Melbourne\">Melbourne</a>, <a href=\"https://en.wikipedia.org/wiki/Victoria_(Australia)\" class=\"extiw\" title=\"en:Victoria (Australia)\">Victoria</a>, Australia",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "Taken on 14 October 2019, 21:52",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<bdi><a href=\"https://www.wikidata.org/wiki/Q34788025\" class=\"extiw\" title=\"d:Q34788025\"><span title=\"German photographer and mathematician\">Dietmar Rabich</span></a></bdi>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "<table class=\"layouttemplate navigation-not-searchable\" style=\"margin:.25em;padding:.25em .5em;background-color:var(--background-color-base,#ffffff);color:inherit;border:1px solid var(--background-color-disabled,#eeeeee)\" data-nosnippet=\"\">\n<tbody><tr>\n<td><span typeof=\"mw:File\"><span><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/40px-Flag_of_Germany.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"14\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/60px-Flag_of_Germany.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"1000\" data-file-height=\"600\"></span></span>\n</td>\n<td>Dieser Text und viele andere auch sind ebenso in deutscher Sprache verfügbar. Um diese sehen zu können, wähle bitte auf dieser Webseite die Spracheinstellung „Deutsch“.\n</td></tr></tbody></table><div style=\"clear:both;border:1px solid var(--background-color-disabled,#eeeeee);margin:.25em;padding:.25em .5em;background-color:var(--background-color-base,#ffffff);color:inherit;font-size:90%;\" class=\"searchaux\" data-nosnippet=\"\">\n<figure class=\"mw-halign-right\" typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:HSSection_sign.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/HSSection_sign.svg/120px-HSSection_sign.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/HSSection_sign.svg/250px-HSSection_sign.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"156\" data-file-height=\"156\"></a><figcaption></figcaption></figure><figure class=\"mw-halign-right\" typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Cc_by-sa_(1).svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Cc_by-sa_%281%29.svg/120px-Cc_by-sa_%281%29.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"100\" height=\"35\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Cc_by-sa_%281%29.svg/250px-Cc_by-sa_%281%29.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"120\" data-file-height=\"42\"></a><figcaption></figcaption></figure><div><b>I. Licence</b></div>\n<div style=\"margin-top:0.5em;\">This photograph is protected by copyright law. However, it may be used for free by anyone, provided it is used in accordance with the license <b>Creative Commons License <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/deed\">“Attribution-ShareAlike 4.0 International”</a></b> (CC BY-SA 4.0). These include, among other things, the naming of the author and the license, as well as the setting of a link to the license text or its complete imprint. The attribution should be done as follows:</div>\n<div style=\"margin-top:0.5em; text-align:center;\"><i><a href=\"//commons.wikimedia.org/wiki/User:XRay\" title=\"User:XRay\">Dietmar Rabich</a> / <a href=\"//commons.wikimedia.org/wiki/Main_Page\" title=\"Main Page\">Wikimedia Commons</a> / <span class=\"plainlinks noprint\"><a class=\"external text\" data-mw-original-href=\"//commons.wikimedia.org/wiki/File:Melbourne_(AU),_Northbank_--_2019_--_1509-13.jpg\" href=\"https://commons.wikimedia.org/wiki/File:Melbourne_(AU),_Northbank_--_2019_--_1509-13.jpg\">“Melbourne (AU), Northbank -- 2019 -- 1509-13”</a></span> / <span class=\"plainlinks noprint\"><a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a></span></i></div>\n<div style=\"margin-top:0.5em;\">Please read the text of the license carefully before using the photograph. If you do not agree with the conditions of the license or if you do not understand these conditions, please refrain from using the photo. If you have any questions regarding the license or the reuse of the image, please contact me before using it. If you do not comply with the terms of the license, you do not acquire any right to use the image. If you need another license to use, please contact the author <b>before</b> using.</div>\n<div style=\"margin-top:0.5em;\">For informations about the licence see section <a class=\"mw-selflink-fragment\" href=\"#ImgLic\">Licensing</a> or as <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">human-readable summary</a> or as <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/legalcode\">full licence text</a> at Creative Commons. In addition to the above, a link to the source - so this page with the descriptions and license terms - is appreciated. More information or examples of use can be found at <a href=\"//commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia\" title=\"Commons:Reusing content outside Wikimedia\">re-use (with example file)</a>. The <a rel=\"nofollow\" class=\"external text\" href=\"https://lizenzhinweisgenerator.de/?lang=en&amp;url=https://commons.wikimedia.org/wiki/File:Melbourne_(AU),_Northbank_--_2019_--_1509-13.jpg\">Attribution Generator</a> is helpful in licensing matters.</div>\n<div style=\"margin:0.5em auto 1em;text-align:center;\" class=\"plainlinks\"><span class=\"plainlinks\"><a rel=\"nofollow\" class=\"external text\" href=\"https://lizenzhinweisgenerator.de/?lang=en&amp;url=https://commons.wikimedia.org/wiki/File:Melbourne_(AU),_Northbank_--_2019_--_1509-13.jpg\"><span class=\"submit ui-button ui-widget ui-state-default ui-corner-all ui-button-text-icon-secondary ui-button-blue\" role=\"button\"><span class=\"ui-button-text\">Generate License <b>Attribution</b></span><span class=\"ui-button-icon-secondary ui-icon ui-icon-extlink\"> </span></span></a></span></div>\n<div style=\"margin-top:0.5em;\">As an alternative to the Creative Commons License <i>CC BY-SA 4.0</i>, the <i><a href=\"https://en.wikipedia.org/wiki/Free_Art_License\" class=\"extiw\" title=\"en:Free Art License\">Free Art License</a></i> (<a rel=\"nofollow\" class=\"external text\" href=\"http://artlibre.org/licence/lal/en/\">from version 1.3</a>) may also be used.</div>\n<div style=\"margin-top:0.75em;\"><b>II. Fairness</b></div>\n<div style=\"margin-top:0.5em;\">From printed materials and other tangible products that use that work, the user is asked to send a copy to the author as thank you. However, this is not a condition for the use of the photo, but a voluntary service. The mailing address can be requested via the contact options.</div>\n<div style=\"margin-top:0.5em;\">Please note that the author had quite considerable effort to draw up this file. Thus, it is only fair to comply with the conditions of <a href=\"https://en.wikipedia.org/wiki/Free_license\" class=\"extiw\" title=\"en:Free license\">free licenses</a> listed here. In the case of violation of the license conditions, the rights granted hereunder will expire automatically.</div>\n<div style=\"margin-top:0.75em; clear: both;\"><b>III. Disclaimer</b></div>\n<div style=\"margin-top:0.5em;\">Please note that the rights granted under the license apply exclusively to the photograph itself, but not to the rights of third parties — such as copyrights or property rights in the object depicted or the personal rights of any individuals who may be depicted. (See <a href=\"//commons.wikimedia.org/wiki/Commons:L\" class=\"mw-redirect\" title=\"Commons:L\">licences</a> and <a href=\"//commons.wikimedia.org/wiki/Commons:SOSUMI\" class=\"mw-redirect\" title=\"Commons:SOSUMI\">non-copyright restrictions</a>.) I do not grant any warranty that the subsequent use of the photograph is legally possible concerning the object or person shown in the photograph. You are responsible to check and respect these rights in the publication in the respective medium or country.</div>\n<div style=\"margin-top:0.5em;\">The author is not responsible for the accuracy of the information contained herein (description, title, etc.). Likewise, the author assumes no liability for further use. Please note the <a href=\"//commons.wikimedia.org/wiki/Commons:General_disclaimer\" title=\"Commons:General disclaimer\">general disclaimer</a> and please read <a href=\"//commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia\" title=\"Commons:Reusing content outside Wikimedia\">reusing content outside Wikimedia</a> too.</div>\n<div style=\"margin-top:0.75em;\"><b>IV. Contact</b></div>\n<div style=\"margin-top:0.5em;\"><b><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:UserIconMail.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/UserIconMail.svg/40px-UserIconMail.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/UserIconMail.svg/60px-UserIconMail.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"700\" data-file-height=\"700\"></a></span> <a href=\"//commons.wikimedia.org/wiki/Special:EmailUser/XRay\" title=\"Special:EmailUser/XRay\">E-mail to the author</a></b> or the <a href=\"//commons.wikimedia.org/wiki/User_talk:XRay\" title=\"User talk:XRay\">author's talk page</a> <small>or the <a rel=\"nofollow\" class=\"external text\" href=\"http://www.rabich.de/\">author's website</a></small></div></div>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "<b><a href=\"//commons.wikimedia.org/wiki/User:XRay\" title=\"User:XRay\">Dietmar Rabich</a></b>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "84755185": {
+        "pageid": 84755185,
+        "ns": 6,
+        "title": "File:Melbourne (AU), Northbank -- 2019 -- 1514-8.jpg",
+        "index": 9,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 12851400,
+            "width": 6698,
+            "height": 4465,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Melbourne_%28AU%29%2C_Northbank_--_2019_--_1514-8.jpg/1280px-Melbourne_%28AU%29%2C_Northbank_--_2019_--_1514-8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1024,
+            "thumbheight": 683,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Melbourne_%28AU%29%2C_Northbank_--_2019_--_1514-8.jpg/3840px-Melbourne_%28AU%29%2C_Northbank_--_2019_--_1514-8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Melbourne_%28AU%29%2C_Northbank_--_2019_--_1514-8.jpg/1280px-Melbourne_%28AU%29%2C_Northbank_--_2019_--_1514-8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1024,
+              "height": 683,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Melbourne_%28AU%29%2C_Northbank_--_2019_--_1514-8.jpg/3840px-Melbourne_%28AU%29%2C_Northbank_--_2019_--_1514-8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Melbourne_%28AU%29%2C_Northbank_--_2019_--_1514-8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Melbourne_(AU),_Northbank_--_2019_--_1514-8.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=84755185",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2019-12-09 12:00:33",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Melbourne (AU), Northbank -- 2019 -- 1514-8",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Photographs by Dietmar Rabich/Quality images of Australia|Taken with Canon EOS 5D Mark IV|Taken with Sigma 20mm F1.4 DG HSM Art|North Melbourne, Victoria|Photographs with aspect ratio of 3:2|ISO speed rating 400|Bridges in Australia photographed in 2019|Cityscapes of Melbourne|Self-published work|Photographs by Dietmar Rabich/Reflections|Photographs by Dietmar Rabich/Tone-mapped HDR images|Photographs by Dietmar Rabich/Australia|Photographs by Dietmar Rabich/Quality images|Evan Walker Bridge (Melbourne)|Information field template with formatting|Tone-mapped HDR images of Australia|F-number f/8|FoP-Australia|3 bridges|Lens focal length 20 mm|Exposure time 1 sec|Changes of XRay's photographs of the recent weeks|Images by XRay (flat list)|Photographs by Dietmar Rabich/Quality images of bridges|Uploaded with LrMediaWiki|October 2019 in Melbourne|Australia photographs taken on 2019-10-14|Photographs by Dietmar Rabich/Quality images of rivers|Bridges in Australia at night|Long exposure photographs of Australia|Rivers in 2019|Quality night photography in Australia|Night cityscapes in Australia|Long exposure photography in architecture|Long exposures (water reflections)|Photographs by Dietmar Rabich/Motion blur|Night in Melbourne|Night sky in Australia|Long exposures (rivers)|2019 photographs of Victoria, Australia|Photographs by Dietmar Rabich/Available light photography/Night|Remote views of bridges in Australia|Cityscapes viewed from bridges|Reflections in rivers in Australia|Water reflections of lights in Australia|Tone-mapped HDR images of cityscapes|Yarra River at night|Yarra River in Melbourne at night|Dark skies in Australia|Photographs by Dietmar Rabich/Quality images of cityscapes|Photographs by Dietmar Rabich/Quality images of natural phenomena|Water reflections of buildings in Australia at night|Photographs by Dietmar Rabich/Year/2019|Skyglow in Australia|Photographs by Dietmar Rabich/Architectural photography/Cityscapes",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "quality",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "-37.799167",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "144.946667",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Northbank and <a href=\"https://en.wikipedia.org/wiki/Yarra_River\" class=\"extiw\" title=\"en:Yarra River\">Yarra River</a>, <a href=\"https://en.wikipedia.org/wiki/Melbourne\" class=\"extiw\" title=\"en:Melbourne\">Melbourne</a>, <a href=\"https://en.wikipedia.org/wiki/Victoria_(Australia)\" class=\"extiw\" title=\"en:Victoria (Australia)\">Victoria</a>, Australia",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "Taken on 14 October 2019, 21:59",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<bdi><a href=\"https://www.wikidata.org/wiki/Q34788025\" class=\"extiw\" title=\"d:Q34788025\"><span title=\"German photographer and mathematician\">Dietmar Rabich</span></a></bdi>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "<table class=\"layouttemplate navigation-not-searchable\" style=\"margin:.25em;padding:.25em .5em;background-color:var(--background-color-base,#ffffff);color:inherit;border:1px solid var(--background-color-disabled,#eeeeee)\" data-nosnippet=\"\">\n<tbody><tr>\n<td><span typeof=\"mw:File\"><span><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/40px-Flag_of_Germany.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"14\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/60px-Flag_of_Germany.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"1000\" data-file-height=\"600\"></span></span>\n</td>\n<td>Dieser Text und viele andere auch sind ebenso in deutscher Sprache verfügbar. Um diese sehen zu können, wähle bitte auf dieser Webseite die Spracheinstellung „Deutsch“.\n</td></tr></tbody></table><div style=\"clear:both;border:1px solid var(--background-color-disabled,#eeeeee);margin:.25em;padding:.25em .5em;background-color:var(--background-color-base,#ffffff);color:inherit;font-size:90%;\" class=\"searchaux\" data-nosnippet=\"\">\n<figure class=\"mw-halign-right\" typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:HSSection_sign.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/HSSection_sign.svg/120px-HSSection_sign.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/HSSection_sign.svg/250px-HSSection_sign.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"156\" data-file-height=\"156\"></a><figcaption></figcaption></figure><figure class=\"mw-halign-right\" typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Cc_by-sa_(1).svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Cc_by-sa_%281%29.svg/120px-Cc_by-sa_%281%29.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"100\" height=\"35\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Cc_by-sa_%281%29.svg/250px-Cc_by-sa_%281%29.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"120\" data-file-height=\"42\"></a><figcaption></figcaption></figure><div><b>I. Licence</b></div>\n<div style=\"margin-top:0.5em;\">This photograph is protected by copyright law. However, it may be used for free by anyone, provided it is used in accordance with the license <b>Creative Commons License <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/deed\">“Attribution-ShareAlike 4.0 International”</a></b> (CC BY-SA 4.0). These include, among other things, the naming of the author and the license, as well as the setting of a link to the license text or its complete imprint. The attribution should be done as follows:</div>\n<div style=\"margin-top:0.5em; text-align:center;\"><i><a href=\"//commons.wikimedia.org/wiki/User:XRay\" title=\"User:XRay\">Dietmar Rabich</a> / <a href=\"//commons.wikimedia.org/wiki/Main_Page\" title=\"Main Page\">Wikimedia Commons</a> / <span class=\"plainlinks noprint\"><a class=\"external text\" data-mw-original-href=\"//commons.wikimedia.org/wiki/File:Melbourne_(AU),_Northbank_--_2019_--_1514-8.jpg\" href=\"https://commons.wikimedia.org/wiki/File:Melbourne_(AU),_Northbank_--_2019_--_1514-8.jpg\">“Melbourne (AU), Northbank -- 2019 -- 1514-8”</a></span> / <span class=\"plainlinks noprint\"><a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a></span></i></div>\n<div style=\"margin-top:0.5em;\">Please read the text of the license carefully before using the photograph. If you do not agree with the conditions of the license or if you do not understand these conditions, please refrain from using the photo. If you have any questions regarding the license or the reuse of the image, please contact me before using it. If you do not comply with the terms of the license, you do not acquire any right to use the image. If you need another license to use, please contact the author <b>before</b> using.</div>\n<div style=\"margin-top:0.5em;\">For informations about the licence see section <a class=\"mw-selflink-fragment\" href=\"#ImgLic\">Licensing</a> or as <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">human-readable summary</a> or as <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/legalcode\">full licence text</a> at Creative Commons. In addition to the above, a link to the source - so this page with the descriptions and license terms - is appreciated. More information or examples of use can be found at <a href=\"//commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia\" title=\"Commons:Reusing content outside Wikimedia\">re-use (with example file)</a>. The <a rel=\"nofollow\" class=\"external text\" href=\"https://lizenzhinweisgenerator.de/?lang=en&amp;url=https://commons.wikimedia.org/wiki/File:Melbourne_(AU),_Northbank_--_2019_--_1514-8.jpg\">Attribution Generator</a> is helpful in licensing matters.</div>\n<div style=\"margin:0.5em auto 1em;text-align:center;\" class=\"plainlinks\"><span class=\"plainlinks\"><a rel=\"nofollow\" class=\"external text\" href=\"https://lizenzhinweisgenerator.de/?lang=en&amp;url=https://commons.wikimedia.org/wiki/File:Melbourne_(AU),_Northbank_--_2019_--_1514-8.jpg\"><span class=\"submit ui-button ui-widget ui-state-default ui-corner-all ui-button-text-icon-secondary ui-button-blue\" role=\"button\"><span class=\"ui-button-text\">Generate License <b>Attribution</b></span><span class=\"ui-button-icon-secondary ui-icon ui-icon-extlink\"> </span></span></a></span></div>\n<div style=\"margin-top:0.5em;\">As an alternative to the Creative Commons License <i>CC BY-SA 4.0</i>, the <i><a href=\"https://en.wikipedia.org/wiki/Free_Art_License\" class=\"extiw\" title=\"en:Free Art License\">Free Art License</a></i> (<a rel=\"nofollow\" class=\"external text\" href=\"http://artlibre.org/licence/lal/en/\">from version 1.3</a>) may also be used.</div>\n<div style=\"margin-top:0.75em;\"><b>II. Fairness</b></div>\n<div style=\"margin-top:0.5em;\">From printed materials and other tangible products that use that work, the user is asked to send a copy to the author as thank you. However, this is not a condition for the use of the photo, but a voluntary service. The mailing address can be requested via the contact options.</div>\n<div style=\"margin-top:0.5em;\">Please note that the author had quite considerable effort to draw up this file. Thus, it is only fair to comply with the conditions of <a href=\"https://en.wikipedia.org/wiki/Free_license\" class=\"extiw\" title=\"en:Free license\">free licenses</a> listed here. In the case of violation of the license conditions, the rights granted hereunder will expire automatically.</div>\n<div style=\"margin-top:0.75em; clear: both;\"><b>III. Disclaimer</b></div>\n<div style=\"margin-top:0.5em;\">Please note that the rights granted under the license apply exclusively to the photograph itself, but not to the rights of third parties — such as copyrights or property rights in the object depicted or the personal rights of any individuals who may be depicted. (See <a href=\"//commons.wikimedia.org/wiki/Commons:L\" class=\"mw-redirect\" title=\"Commons:L\">licences</a> and <a href=\"//commons.wikimedia.org/wiki/Commons:SOSUMI\" class=\"mw-redirect\" title=\"Commons:SOSUMI\">non-copyright restrictions</a>.) I do not grant any warranty that the subsequent use of the photograph is legally possible concerning the object or person shown in the photograph. You are responsible to check and respect these rights in the publication in the respective medium or country.</div>\n<div style=\"margin-top:0.5em;\">The author is not responsible for the accuracy of the information contained herein (description, title, etc.). Likewise, the author assumes no liability for further use. Please note the <a href=\"//commons.wikimedia.org/wiki/Commons:General_disclaimer\" title=\"Commons:General disclaimer\">general disclaimer</a> and please read <a href=\"//commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia\" title=\"Commons:Reusing content outside Wikimedia\">reusing content outside Wikimedia</a> too.</div>\n<div style=\"margin-top:0.75em;\"><b>IV. Contact</b></div>\n<div style=\"margin-top:0.5em;\"><b><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:UserIconMail.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/UserIconMail.svg/40px-UserIconMail.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/UserIconMail.svg/60px-UserIconMail.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"700\" data-file-height=\"700\"></a></span> <a href=\"//commons.wikimedia.org/wiki/Special:EmailUser/XRay\" title=\"Special:EmailUser/XRay\">E-mail to the author</a></b> or the <a href=\"//commons.wikimedia.org/wiki/User_talk:XRay\" title=\"User talk:XRay\">author's talk page</a> <small>or the <a rel=\"nofollow\" class=\"external text\" href=\"http://www.rabich.de/\">author's website</a></small></div></div>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "<b><a href=\"//commons.wikimedia.org/wiki/User:XRay\" title=\"User:XRay\">Dietmar Rabich</a></b>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "84863311": {
+        "pageid": 84863311,
+        "ns": 6,
+        "title": "File:Melbourne (AU), Queen Victoria Market -- 2019 -- 1542.jpg",
+        "index": 6,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 20616408,
+            "width": 6720,
+            "height": 4480,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Melbourne_%28AU%29%2C_Queen_Victoria_Market_--_2019_--_1542.jpg/1280px-Melbourne_%28AU%29%2C_Queen_Victoria_Market_--_2019_--_1542.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1024,
+            "thumbheight": 683,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Melbourne_%28AU%29%2C_Queen_Victoria_Market_--_2019_--_1542.jpg/3840px-Melbourne_%28AU%29%2C_Queen_Victoria_Market_--_2019_--_1542.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Melbourne_%28AU%29%2C_Queen_Victoria_Market_--_2019_--_1542.jpg/1280px-Melbourne_%28AU%29%2C_Queen_Victoria_Market_--_2019_--_1542.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1024,
+              "height": 683,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Melbourne_%28AU%29%2C_Queen_Victoria_Market_--_2019_--_1542.jpg/3840px-Melbourne_%28AU%29%2C_Queen_Victoria_Market_--_2019_--_1542.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Melbourne_%28AU%29%2C_Queen_Victoria_Market_--_2019_--_1542.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Melbourne_(AU),_Queen_Victoria_Market_--_2019_--_1542.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=84863311",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2019-12-13 15:51:09",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Melbourne (AU), Queen Victoria Market -- 2019 -- 1542",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Granny Smith|Photographs by Dietmar Rabich/Quality images of Australia|Photographs with aspect ratio of 3:2|ISO speed rating 1600|Self-published work|Exposure time 1/40 sec|Photographs by Dietmar Rabich/Australia|Photographs by Dietmar Rabich/Quality images|Information field template with formatting|Apples displayed for sale|F-number f/8|Photographs by Dietmar Rabich/Quality images of trees|Photographs by Dietmar Rabich/Quality images of events|Buildings with addresses|Lens focal length 45 mm|Photographs by Dietmar Rabich/Quality images of food|Cultural heritage monuments in Australia with known IDs|Changes of XRay's photographs of the recent weeks|Images by XRay (flat list)|Apple textures|Uploaded with LrMediaWiki|Photographs by Dietmar Rabich/Quality images of signs|Photographs by Dietmar Rabich/Medium exposure|Spring in Victoria, Australia|Markets in 2019|October 2019 in Melbourne|Australia photographs taken on 2019-10-15|Spring 2019 in Australia|Photographs by Dietmar Rabich/Still-life photography|Apple trade in Australia|2019 photographs of Victoria, Australia|Green textures (plants)|Photographs by Dietmar Rabich/Quality images of patterns and textures|Taken with Canon EOS 5D Mark IV and Canon EF 24-105mm F4L IS II USM|Photographs by Dietmar Rabich/Year/2019|Photo art in Australia|Greengrocers in Australia|Signs on food|Produce at the Queen Victoria Market",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "quality",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "-37.807000",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "144.957000",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<a href=\"https://en.wikipedia.org/wiki/Apple\" class=\"extiw\" title=\"en:Apple\">Apples</a> at Queen <a href=\"https://en.wikipedia.org/wiki/Victoria_(Australia)\" class=\"extiw\" title=\"en:Victoria (Australia)\">Victoria</a> Market, <a href=\"https://en.wikipedia.org/wiki/Melbourne\" class=\"extiw\" title=\"en:Melbourne\">Melbourne</a>, Victoria, Australia",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "Taken on 15 October 2019, 10:42",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<bdi><a href=\"https://www.wikidata.org/wiki/Q34788025\" class=\"extiw\" title=\"d:Q34788025\"><span title=\"German photographer and mathematician\">Dietmar Rabich</span></a></bdi>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "<table class=\"layouttemplate navigation-not-searchable\" style=\"margin:.25em;padding:.25em .5em;background-color:var(--background-color-base,#ffffff);color:inherit;border:1px solid var(--background-color-disabled,#eeeeee)\" data-nosnippet=\"\">\n<tbody><tr>\n<td><span typeof=\"mw:File\"><span><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/40px-Flag_of_Germany.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"14\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/60px-Flag_of_Germany.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"1000\" data-file-height=\"600\"></span></span>\n</td>\n<td>Dieser Text und viele andere auch sind ebenso in deutscher Sprache verfügbar. Um diese sehen zu können, wähle bitte auf dieser Webseite die Spracheinstellung „Deutsch“.\n</td></tr></tbody></table><div style=\"clear:both;border:1px solid var(--background-color-disabled,#eeeeee);margin:.25em;padding:.25em .5em;background-color:var(--background-color-base,#ffffff);color:inherit;font-size:90%;\" class=\"searchaux\" data-nosnippet=\"\">\n<figure class=\"mw-halign-right\" typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:HSSection_sign.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/HSSection_sign.svg/120px-HSSection_sign.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/HSSection_sign.svg/250px-HSSection_sign.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"156\" data-file-height=\"156\"></a><figcaption></figcaption></figure><figure class=\"mw-halign-right\" typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Cc_by-sa_(1).svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Cc_by-sa_%281%29.svg/120px-Cc_by-sa_%281%29.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"100\" height=\"35\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Cc_by-sa_%281%29.svg/250px-Cc_by-sa_%281%29.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"120\" data-file-height=\"42\"></a><figcaption></figcaption></figure><div><b>I. Licence</b></div>\n<div style=\"margin-top:0.5em;\">This photograph is protected by copyright law. However, it may be used for free by anyone, provided it is used in accordance with the license <b>Creative Commons License <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/deed\">“Attribution-ShareAlike 4.0 International”</a></b> (CC BY-SA 4.0). These include, among other things, the naming of the author and the license, as well as the setting of a link to the license text or its complete imprint. The attribution should be done as follows:</div>\n<div style=\"margin-top:0.5em; text-align:center;\"><i><a href=\"//commons.wikimedia.org/wiki/User:XRay\" title=\"User:XRay\">Dietmar Rabich</a> / <a href=\"//commons.wikimedia.org/wiki/Main_Page\" title=\"Main Page\">Wikimedia Commons</a> / <span class=\"plainlinks noprint\"><a class=\"external text\" data-mw-original-href=\"//commons.wikimedia.org/wiki/File:Melbourne_(AU),_Queen_Victoria_Market_--_2019_--_1542.jpg\" href=\"https://commons.wikimedia.org/wiki/File:Melbourne_(AU),_Queen_Victoria_Market_--_2019_--_1542.jpg\">“Melbourne (AU), Queen Victoria Market -- 2019 -- 1542”</a></span> / <span class=\"plainlinks noprint\"><a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a></span></i></div>\n<div style=\"margin-top:0.5em;\">Please read the text of the license carefully before using the photograph. If you do not agree with the conditions of the license or if you do not understand these conditions, please refrain from using the photo. If you have any questions regarding the license or the reuse of the image, please contact me before using it. If you do not comply with the terms of the license, you do not acquire any right to use the image. If you need another license to use, please contact the author <b>before</b> using.</div>\n<div style=\"margin-top:0.5em;\">For informations about the licence see section <a class=\"mw-selflink-fragment\" href=\"#ImgLic\">Licensing</a> or as <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">human-readable summary</a> or as <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/legalcode\">full licence text</a> at Creative Commons. In addition to the above, a link to the source - so this page with the descriptions and license terms - is appreciated. More information or examples of use can be found at <a href=\"//commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia\" title=\"Commons:Reusing content outside Wikimedia\">re-use (with example file)</a>. The <a rel=\"nofollow\" class=\"external text\" href=\"https://lizenzhinweisgenerator.de/?lang=en&amp;url=https://commons.wikimedia.org/wiki/File:Melbourne_(AU),_Queen_Victoria_Market_--_2019_--_1542.jpg\">Attribution Generator</a> is helpful in licensing matters.</div>\n<div style=\"margin:0.5em auto 1em;text-align:center;\" class=\"plainlinks\"><span class=\"plainlinks\"><a rel=\"nofollow\" class=\"external text\" href=\"https://lizenzhinweisgenerator.de/?lang=en&amp;url=https://commons.wikimedia.org/wiki/File:Melbourne_(AU),_Queen_Victoria_Market_--_2019_--_1542.jpg\"><span class=\"submit ui-button ui-widget ui-state-default ui-corner-all ui-button-text-icon-secondary ui-button-blue\" role=\"button\"><span class=\"ui-button-text\">Generate License <b>Attribution</b></span><span class=\"ui-button-icon-secondary ui-icon ui-icon-extlink\"> </span></span></a></span></div>\n<div style=\"margin-top:0.5em;\">As an alternative to the Creative Commons License <i>CC BY-SA 4.0</i>, the <i><a href=\"https://en.wikipedia.org/wiki/Free_Art_License\" class=\"extiw\" title=\"en:Free Art License\">Free Art License</a></i> (<a rel=\"nofollow\" class=\"external text\" href=\"http://artlibre.org/licence/lal/en/\">from version 1.3</a>) may also be used.</div>\n<div style=\"margin-top:0.75em;\"><b>II. Fairness</b></div>\n<div style=\"margin-top:0.5em;\">From printed materials and other tangible products that use that work, the user is asked to send a copy to the author as thank you. However, this is not a condition for the use of the photo, but a voluntary service. The mailing address can be requested via the contact options.</div>\n<div style=\"margin-top:0.5em;\">Please note that the author had quite considerable effort to draw up this file. Thus, it is only fair to comply with the conditions of <a href=\"https://en.wikipedia.org/wiki/Free_license\" class=\"extiw\" title=\"en:Free license\">free licenses</a> listed here. In the case of violation of the license conditions, the rights granted hereunder will expire automatically.</div>\n<div style=\"margin-top:0.75em; clear: both;\"><b>III. Disclaimer</b></div>\n<div style=\"margin-top:0.5em;\">Please note that the rights granted under the license apply exclusively to the photograph itself, but not to the rights of third parties — such as copyrights or property rights in the object depicted or the personal rights of any individuals who may be depicted. (See <a href=\"//commons.wikimedia.org/wiki/Commons:L\" class=\"mw-redirect\" title=\"Commons:L\">licences</a> and <a href=\"//commons.wikimedia.org/wiki/Commons:SOSUMI\" class=\"mw-redirect\" title=\"Commons:SOSUMI\">non-copyright restrictions</a>.) I do not grant any warranty that the subsequent use of the photograph is legally possible concerning the object or person shown in the photograph. You are responsible to check and respect these rights in the publication in the respective medium or country.</div>\n<div style=\"margin-top:0.5em;\">The author is not responsible for the accuracy of the information contained herein (description, title, etc.). Likewise, the author assumes no liability for further use. Please note the <a href=\"//commons.wikimedia.org/wiki/Commons:General_disclaimer\" title=\"Commons:General disclaimer\">general disclaimer</a> and please read <a href=\"//commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia\" title=\"Commons:Reusing content outside Wikimedia\">reusing content outside Wikimedia</a> too.</div>\n<div style=\"margin-top:0.75em;\"><b>IV. Contact</b></div>\n<div style=\"margin-top:0.5em;\"><b><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:UserIconMail.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/UserIconMail.svg/40px-UserIconMail.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/UserIconMail.svg/60px-UserIconMail.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"700\" data-file-height=\"700\"></a></span> <a href=\"//commons.wikimedia.org/wiki/Special:EmailUser/XRay\" title=\"Special:EmailUser/XRay\">E-mail to the author</a></b> or the <a href=\"//commons.wikimedia.org/wiki/User_talk:XRay\" title=\"User talk:XRay\">author's talk page</a> <small>or the <a rel=\"nofollow\" class=\"external text\" href=\"http://www.rabich.de/\">author's website</a></small></div></div>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "<b><a href=\"//commons.wikimedia.org/wiki/User:XRay\" title=\"User:XRay\">Dietmar Rabich</a></b>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "84863315": {
+        "pageid": 84863315,
+        "ns": 6,
+        "title": "File:Melbourne (AU), Queen Victoria Market -- 2019 -- 1544.jpg",
+        "index": 8,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 24966679,
+            "width": 6720,
+            "height": 4480,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Melbourne_%28AU%29%2C_Queen_Victoria_Market_--_2019_--_1544.jpg/1280px-Melbourne_%28AU%29%2C_Queen_Victoria_Market_--_2019_--_1544.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1024,
+            "thumbheight": 683,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Melbourne_%28AU%29%2C_Queen_Victoria_Market_--_2019_--_1544.jpg/3840px-Melbourne_%28AU%29%2C_Queen_Victoria_Market_--_2019_--_1544.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Melbourne_%28AU%29%2C_Queen_Victoria_Market_--_2019_--_1544.jpg/1280px-Melbourne_%28AU%29%2C_Queen_Victoria_Market_--_2019_--_1544.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1024,
+              "height": 683,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Melbourne_%28AU%29%2C_Queen_Victoria_Market_--_2019_--_1544.jpg/3840px-Melbourne_%28AU%29%2C_Queen_Victoria_Market_--_2019_--_1544.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Melbourne_%28AU%29%2C_Queen_Victoria_Market_--_2019_--_1544.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Melbourne_(AU),_Queen_Victoria_Market_--_2019_--_1544.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=84863315",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2019-12-13 15:51:25",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Melbourne (AU), Queen Victoria Market -- 2019 -- 1544",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Photographs by Dietmar Rabich/Quality images of Australia|Photographs with aspect ratio of 3:2|Self-published work|Exposure time 1/60 sec|Photographs by Dietmar Rabich/Australia|Photographs by Dietmar Rabich/Quality images|Fruit displayed for sale|Information field template with formatting|Photographs by Dietmar Rabich/Quality images of plants|F-number f/8|Photographs by Dietmar Rabich/Quality images of events|Buildings with addresses|ISO speed rating 2000|Photographs by Dietmar Rabich/Quality images of food|Cultural heritage monuments in Australia with known IDs|Changes of XRay's photographs of the recent weeks|Images by XRay (flat list)|Uploaded with LrMediaWiki|Photographs by Dietmar Rabich/Medium exposure|Markets in 2019|Lens focal length 70 mm|October 2019 in Melbourne|Australia photographs taken on 2019-10-15|Photographs by Dietmar Rabich/Still-life photography|2019 photographs of Victoria, Australia|Photographs by Dietmar Rabich/Quality images of patterns and textures|Taken with Canon EOS 5D Mark IV and Canon EF 24-105mm F4L IS II USM|Photographs by Dietmar Rabich/Year/2019|Photo art in Australia|Greengrocers in Australia|Produce at the Queen Victoria Market|Mandarin orange textures",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "quality",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "-37.807000",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "144.957000",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Mandarins at Queen <a href=\"https://en.wikipedia.org/wiki/Victoria_(Australia)\" class=\"extiw\" title=\"en:Victoria (Australia)\">Victoria</a> Market, <a href=\"https://en.wikipedia.org/wiki/Melbourne\" class=\"extiw\" title=\"en:Melbourne\">Melbourne</a>, Victoria, Australia",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "Taken on 15 October 2019, 10:42",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<bdi><a href=\"https://www.wikidata.org/wiki/Q34788025\" class=\"extiw\" title=\"d:Q34788025\"><span title=\"German photographer and mathematician\">Dietmar Rabich</span></a></bdi>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "<table class=\"layouttemplate navigation-not-searchable\" style=\"margin:.25em;padding:.25em .5em;background-color:var(--background-color-base,#ffffff);color:inherit;border:1px solid var(--background-color-disabled,#eeeeee)\" data-nosnippet=\"\">\n<tbody><tr>\n<td><span typeof=\"mw:File\"><span><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/40px-Flag_of_Germany.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"14\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/60px-Flag_of_Germany.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"1000\" data-file-height=\"600\"></span></span>\n</td>\n<td>Dieser Text und viele andere auch sind ebenso in deutscher Sprache verfügbar. Um diese sehen zu können, wähle bitte auf dieser Webseite die Spracheinstellung „Deutsch“.\n</td></tr></tbody></table><div style=\"clear:both;border:1px solid var(--background-color-disabled,#eeeeee);margin:.25em;padding:.25em .5em;background-color:var(--background-color-base,#ffffff);color:inherit;font-size:90%;\" class=\"searchaux\" data-nosnippet=\"\">\n<figure class=\"mw-halign-right\" typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:HSSection_sign.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/HSSection_sign.svg/120px-HSSection_sign.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/HSSection_sign.svg/250px-HSSection_sign.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"156\" data-file-height=\"156\"></a><figcaption></figcaption></figure><figure class=\"mw-halign-right\" typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Cc_by-sa_(1).svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Cc_by-sa_%281%29.svg/120px-Cc_by-sa_%281%29.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"100\" height=\"35\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Cc_by-sa_%281%29.svg/250px-Cc_by-sa_%281%29.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"120\" data-file-height=\"42\"></a><figcaption></figcaption></figure><div><b>I. Licence</b></div>\n<div style=\"margin-top:0.5em;\">This photograph is protected by copyright law. However, it may be used for free by anyone, provided it is used in accordance with the license <b>Creative Commons License <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/deed\">“Attribution-ShareAlike 4.0 International”</a></b> (CC BY-SA 4.0). These include, among other things, the naming of the author and the license, as well as the setting of a link to the license text or its complete imprint. The attribution should be done as follows:</div>\n<div style=\"margin-top:0.5em; text-align:center;\"><i><a href=\"//commons.wikimedia.org/wiki/User:XRay\" title=\"User:XRay\">Dietmar Rabich</a> / <a href=\"//commons.wikimedia.org/wiki/Main_Page\" title=\"Main Page\">Wikimedia Commons</a> / <span class=\"plainlinks noprint\"><a class=\"external text\" data-mw-original-href=\"//commons.wikimedia.org/wiki/File:Melbourne_(AU),_Queen_Victoria_Market_--_2019_--_1544.jpg\" href=\"https://commons.wikimedia.org/wiki/File:Melbourne_(AU),_Queen_Victoria_Market_--_2019_--_1544.jpg\">“Melbourne (AU), Queen Victoria Market -- 2019 -- 1544”</a></span> / <span class=\"plainlinks noprint\"><a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a></span></i></div>\n<div style=\"margin-top:0.5em;\">Please read the text of the license carefully before using the photograph. If you do not agree with the conditions of the license or if you do not understand these conditions, please refrain from using the photo. If you have any questions regarding the license or the reuse of the image, please contact me before using it. If you do not comply with the terms of the license, you do not acquire any right to use the image. If you need another license to use, please contact the author <b>before</b> using.</div>\n<div style=\"margin-top:0.5em;\">For informations about the licence see section <a class=\"mw-selflink-fragment\" href=\"#ImgLic\">Licensing</a> or as <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">human-readable summary</a> or as <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/legalcode\">full licence text</a> at Creative Commons. In addition to the above, a link to the source - so this page with the descriptions and license terms - is appreciated. More information or examples of use can be found at <a href=\"//commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia\" title=\"Commons:Reusing content outside Wikimedia\">re-use (with example file)</a>. The <a rel=\"nofollow\" class=\"external text\" href=\"https://lizenzhinweisgenerator.de/?lang=en&amp;url=https://commons.wikimedia.org/wiki/File:Melbourne_(AU),_Queen_Victoria_Market_--_2019_--_1544.jpg\">Attribution Generator</a> is helpful in licensing matters.</div>\n<div style=\"margin:0.5em auto 1em;text-align:center;\" class=\"plainlinks\"><span class=\"plainlinks\"><a rel=\"nofollow\" class=\"external text\" href=\"https://lizenzhinweisgenerator.de/?lang=en&amp;url=https://commons.wikimedia.org/wiki/File:Melbourne_(AU),_Queen_Victoria_Market_--_2019_--_1544.jpg\"><span class=\"submit ui-button ui-widget ui-state-default ui-corner-all ui-button-text-icon-secondary ui-button-blue\" role=\"button\"><span class=\"ui-button-text\">Generate License <b>Attribution</b></span><span class=\"ui-button-icon-secondary ui-icon ui-icon-extlink\"> </span></span></a></span></div>\n<div style=\"margin-top:0.5em;\">As an alternative to the Creative Commons License <i>CC BY-SA 4.0</i>, the <i><a href=\"https://en.wikipedia.org/wiki/Free_Art_License\" class=\"extiw\" title=\"en:Free Art License\">Free Art License</a></i> (<a rel=\"nofollow\" class=\"external text\" href=\"http://artlibre.org/licence/lal/en/\">from version 1.3</a>) may also be used.</div>\n<div style=\"margin-top:0.75em;\"><b>II. Fairness</b></div>\n<div style=\"margin-top:0.5em;\">From printed materials and other tangible products that use that work, the user is asked to send a copy to the author as thank you. However, this is not a condition for the use of the photo, but a voluntary service. The mailing address can be requested via the contact options.</div>\n<div style=\"margin-top:0.5em;\">Please note that the author had quite considerable effort to draw up this file. Thus, it is only fair to comply with the conditions of <a href=\"https://en.wikipedia.org/wiki/Free_license\" class=\"extiw\" title=\"en:Free license\">free licenses</a> listed here. In the case of violation of the license conditions, the rights granted hereunder will expire automatically.</div>\n<div style=\"margin-top:0.75em; clear: both;\"><b>III. Disclaimer</b></div>\n<div style=\"margin-top:0.5em;\">Please note that the rights granted under the license apply exclusively to the photograph itself, but not to the rights of third parties — such as copyrights or property rights in the object depicted or the personal rights of any individuals who may be depicted. (See <a href=\"//commons.wikimedia.org/wiki/Commons:L\" class=\"mw-redirect\" title=\"Commons:L\">licences</a> and <a href=\"//commons.wikimedia.org/wiki/Commons:SOSUMI\" class=\"mw-redirect\" title=\"Commons:SOSUMI\">non-copyright restrictions</a>.) I do not grant any warranty that the subsequent use of the photograph is legally possible concerning the object or person shown in the photograph. You are responsible to check and respect these rights in the publication in the respective medium or country.</div>\n<div style=\"margin-top:0.5em;\">The author is not responsible for the accuracy of the information contained herein (description, title, etc.). Likewise, the author assumes no liability for further use. Please note the <a href=\"//commons.wikimedia.org/wiki/Commons:General_disclaimer\" title=\"Commons:General disclaimer\">general disclaimer</a> and please read <a href=\"//commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia\" title=\"Commons:Reusing content outside Wikimedia\">reusing content outside Wikimedia</a> too.</div>\n<div style=\"margin-top:0.75em;\"><b>IV. Contact</b></div>\n<div style=\"margin-top:0.5em;\"><b><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:UserIconMail.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/UserIconMail.svg/40px-UserIconMail.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/UserIconMail.svg/60px-UserIconMail.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"700\" data-file-height=\"700\"></a></span> <a href=\"//commons.wikimedia.org/wiki/Special:EmailUser/XRay\" title=\"Special:EmailUser/XRay\">E-mail to the author</a></b> or the <a href=\"//commons.wikimedia.org/wiki/User_talk:XRay\" title=\"User talk:XRay\">author's talk page</a> <small>or the <a rel=\"nofollow\" class=\"external text\" href=\"http://www.rabich.de/\">author's website</a></small></div></div>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "<b><a href=\"//commons.wikimedia.org/wiki/User:XRay\" title=\"User:XRay\">Dietmar Rabich</a></b>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "84863316": {
+        "pageid": 84863316,
+        "ns": 6,
+        "title": "File:Melbourne (AU), Queen Victoria Market -- 2019 -- 1545.jpg",
+        "index": 7,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 20192817,
+            "width": 6720,
+            "height": 4480,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Melbourne_%28AU%29%2C_Queen_Victoria_Market_--_2019_--_1545.jpg/1280px-Melbourne_%28AU%29%2C_Queen_Victoria_Market_--_2019_--_1545.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1024,
+            "thumbheight": 683,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Melbourne_%28AU%29%2C_Queen_Victoria_Market_--_2019_--_1545.jpg/3840px-Melbourne_%28AU%29%2C_Queen_Victoria_Market_--_2019_--_1545.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Melbourne_%28AU%29%2C_Queen_Victoria_Market_--_2019_--_1545.jpg/1280px-Melbourne_%28AU%29%2C_Queen_Victoria_Market_--_2019_--_1545.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1024,
+              "height": 683,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Melbourne_%28AU%29%2C_Queen_Victoria_Market_--_2019_--_1545.jpg/3840px-Melbourne_%28AU%29%2C_Queen_Victoria_Market_--_2019_--_1545.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Melbourne_%28AU%29%2C_Queen_Victoria_Market_--_2019_--_1545.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Melbourne_(AU),_Queen_Victoria_Market_--_2019_--_1545.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=84863316",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2019-12-13 15:51:33",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Melbourne (AU), Queen Victoria Market -- 2019 -- 1545",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Photographs by Dietmar Rabich/Quality images of Australia|Photographs with aspect ratio of 3:2|ISO speed rating 3200|Self-published work|Exposure time 1/60 sec|Photographs by Dietmar Rabich/Australia|Photographs by Dietmar Rabich/Quality images|Information field template with formatting|Apples displayed for sale|Photographs by Dietmar Rabich/Quality images of plants|F-number f/8|Photographs by Dietmar Rabich/Quality images of events|Buildings with addresses|Photographs by Dietmar Rabich/Quality images of food|Cultural heritage monuments in Australia with known IDs|Changes of XRay's photographs of the recent weeks|Images by XRay (flat list)|Apple textures|Uploaded with LrMediaWiki|Photographs by Dietmar Rabich/Quality images of signs|Photographs by Dietmar Rabich/Medium exposure|Markets in 2019|Lens focal length 70 mm|October 2019 in Melbourne|Australia photographs taken on 2019-10-15|Photographs by Dietmar Rabich/Still-life photography|Apple trade in Australia|2019 photographs of Victoria, Australia|Photographs by Dietmar Rabich/Quality images of patterns and textures|Taken with Canon EOS 5D Mark IV and Canon EF 24-105mm F4L IS II USM|Photographs by Dietmar Rabich/Year/2019|Photo art in Australia|Greengrocers in Australia|Signs on food|Produce at the Queen Victoria Market",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "quality",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "-37.807000",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "144.957000",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<a href=\"https://en.wikipedia.org/wiki/Apple\" class=\"extiw\" title=\"en:Apple\">Apples</a> at Queen <a href=\"https://en.wikipedia.org/wiki/Victoria_(Australia)\" class=\"extiw\" title=\"en:Victoria (Australia)\">Victoria</a> Market, <a href=\"https://en.wikipedia.org/wiki/Melbourne\" class=\"extiw\" title=\"en:Melbourne\">Melbourne</a>, Victoria, Australia",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "Taken on 15 October 2019, 10:42",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<bdi><a href=\"https://www.wikidata.org/wiki/Q34788025\" class=\"extiw\" title=\"d:Q34788025\"><span title=\"German photographer and mathematician\">Dietmar Rabich</span></a></bdi>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "<table class=\"layouttemplate navigation-not-searchable\" style=\"margin:.25em;padding:.25em .5em;background-color:var(--background-color-base,#ffffff);color:inherit;border:1px solid var(--background-color-disabled,#eeeeee)\" data-nosnippet=\"\">\n<tbody><tr>\n<td><span typeof=\"mw:File\"><span><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/40px-Flag_of_Germany.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"14\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/60px-Flag_of_Germany.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"1000\" data-file-height=\"600\"></span></span>\n</td>\n<td>Dieser Text und viele andere auch sind ebenso in deutscher Sprache verfügbar. Um diese sehen zu können, wähle bitte auf dieser Webseite die Spracheinstellung „Deutsch“.\n</td></tr></tbody></table><div style=\"clear:both;border:1px solid var(--background-color-disabled,#eeeeee);margin:.25em;padding:.25em .5em;background-color:var(--background-color-base,#ffffff);color:inherit;font-size:90%;\" class=\"searchaux\" data-nosnippet=\"\">\n<figure class=\"mw-halign-right\" typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:HSSection_sign.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/HSSection_sign.svg/120px-HSSection_sign.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/HSSection_sign.svg/250px-HSSection_sign.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"156\" data-file-height=\"156\"></a><figcaption></figcaption></figure><figure class=\"mw-halign-right\" typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Cc_by-sa_(1).svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Cc_by-sa_%281%29.svg/120px-Cc_by-sa_%281%29.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"100\" height=\"35\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Cc_by-sa_%281%29.svg/250px-Cc_by-sa_%281%29.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"120\" data-file-height=\"42\"></a><figcaption></figcaption></figure><div><b>I. Licence</b></div>\n<div style=\"margin-top:0.5em;\">This photograph is protected by copyright law. However, it may be used for free by anyone, provided it is used in accordance with the license <b>Creative Commons License <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/deed\">“Attribution-ShareAlike 4.0 International”</a></b> (CC BY-SA 4.0). These include, among other things, the naming of the author and the license, as well as the setting of a link to the license text or its complete imprint. The attribution should be done as follows:</div>\n<div style=\"margin-top:0.5em; text-align:center;\"><i><a href=\"//commons.wikimedia.org/wiki/User:XRay\" title=\"User:XRay\">Dietmar Rabich</a> / <a href=\"//commons.wikimedia.org/wiki/Main_Page\" title=\"Main Page\">Wikimedia Commons</a> / <span class=\"plainlinks noprint\"><a class=\"external text\" data-mw-original-href=\"//commons.wikimedia.org/wiki/File:Melbourne_(AU),_Queen_Victoria_Market_--_2019_--_1545.jpg\" href=\"https://commons.wikimedia.org/wiki/File:Melbourne_(AU),_Queen_Victoria_Market_--_2019_--_1545.jpg\">“Melbourne (AU), Queen Victoria Market -- 2019 -- 1545”</a></span> / <span class=\"plainlinks noprint\"><a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a></span></i></div>\n<div style=\"margin-top:0.5em;\">Please read the text of the license carefully before using the photograph. If you do not agree with the conditions of the license or if you do not understand these conditions, please refrain from using the photo. If you have any questions regarding the license or the reuse of the image, please contact me before using it. If you do not comply with the terms of the license, you do not acquire any right to use the image. If you need another license to use, please contact the author <b>before</b> using.</div>\n<div style=\"margin-top:0.5em;\">For informations about the licence see section <a class=\"mw-selflink-fragment\" href=\"#ImgLic\">Licensing</a> or as <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">human-readable summary</a> or as <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/legalcode\">full licence text</a> at Creative Commons. In addition to the above, a link to the source - so this page with the descriptions and license terms - is appreciated. More information or examples of use can be found at <a href=\"//commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia\" title=\"Commons:Reusing content outside Wikimedia\">re-use (with example file)</a>. The <a rel=\"nofollow\" class=\"external text\" href=\"https://lizenzhinweisgenerator.de/?lang=en&amp;url=https://commons.wikimedia.org/wiki/File:Melbourne_(AU),_Queen_Victoria_Market_--_2019_--_1545.jpg\">Attribution Generator</a> is helpful in licensing matters.</div>\n<div style=\"margin:0.5em auto 1em;text-align:center;\" class=\"plainlinks\"><span class=\"plainlinks\"><a rel=\"nofollow\" class=\"external text\" href=\"https://lizenzhinweisgenerator.de/?lang=en&amp;url=https://commons.wikimedia.org/wiki/File:Melbourne_(AU),_Queen_Victoria_Market_--_2019_--_1545.jpg\"><span class=\"submit ui-button ui-widget ui-state-default ui-corner-all ui-button-text-icon-secondary ui-button-blue\" role=\"button\"><span class=\"ui-button-text\">Generate License <b>Attribution</b></span><span class=\"ui-button-icon-secondary ui-icon ui-icon-extlink\"> </span></span></a></span></div>\n<div style=\"margin-top:0.5em;\">As an alternative to the Creative Commons License <i>CC BY-SA 4.0</i>, the <i><a href=\"https://en.wikipedia.org/wiki/Free_Art_License\" class=\"extiw\" title=\"en:Free Art License\">Free Art License</a></i> (<a rel=\"nofollow\" class=\"external text\" href=\"http://artlibre.org/licence/lal/en/\">from version 1.3</a>) may also be used.</div>\n<div style=\"margin-top:0.75em;\"><b>II. Fairness</b></div>\n<div style=\"margin-top:0.5em;\">From printed materials and other tangible products that use that work, the user is asked to send a copy to the author as thank you. However, this is not a condition for the use of the photo, but a voluntary service. The mailing address can be requested via the contact options.</div>\n<div style=\"margin-top:0.5em;\">Please note that the author had quite considerable effort to draw up this file. Thus, it is only fair to comply with the conditions of <a href=\"https://en.wikipedia.org/wiki/Free_license\" class=\"extiw\" title=\"en:Free license\">free licenses</a> listed here. In the case of violation of the license conditions, the rights granted hereunder will expire automatically.</div>\n<div style=\"margin-top:0.75em; clear: both;\"><b>III. Disclaimer</b></div>\n<div style=\"margin-top:0.5em;\">Please note that the rights granted under the license apply exclusively to the photograph itself, but not to the rights of third parties — such as copyrights or property rights in the object depicted or the personal rights of any individuals who may be depicted. (See <a href=\"//commons.wikimedia.org/wiki/Commons:L\" class=\"mw-redirect\" title=\"Commons:L\">licences</a> and <a href=\"//commons.wikimedia.org/wiki/Commons:SOSUMI\" class=\"mw-redirect\" title=\"Commons:SOSUMI\">non-copyright restrictions</a>.) I do not grant any warranty that the subsequent use of the photograph is legally possible concerning the object or person shown in the photograph. You are responsible to check and respect these rights in the publication in the respective medium or country.</div>\n<div style=\"margin-top:0.5em;\">The author is not responsible for the accuracy of the information contained herein (description, title, etc.). Likewise, the author assumes no liability for further use. Please note the <a href=\"//commons.wikimedia.org/wiki/Commons:General_disclaimer\" title=\"Commons:General disclaimer\">general disclaimer</a> and please read <a href=\"//commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia\" title=\"Commons:Reusing content outside Wikimedia\">reusing content outside Wikimedia</a> too.</div>\n<div style=\"margin-top:0.75em;\"><b>IV. Contact</b></div>\n<div style=\"margin-top:0.5em;\"><b><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:UserIconMail.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/UserIconMail.svg/40px-UserIconMail.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/UserIconMail.svg/60px-UserIconMail.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"700\" data-file-height=\"700\"></a></span> <a href=\"//commons.wikimedia.org/wiki/Special:EmailUser/XRay\" title=\"Special:EmailUser/XRay\">E-mail to the author</a></b> or the <a href=\"//commons.wikimedia.org/wiki/User_talk:XRay\" title=\"User talk:XRay\">author's talk page</a> <small>or the <a rel=\"nofollow\" class=\"external text\" href=\"http://www.rabich.de/\">author's website</a></small></div></div>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "<b><a href=\"//commons.wikimedia.org/wiki/User:XRay\" title=\"User:XRay\">Dietmar Rabich</a></b>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "30293618": {
+        "pageid": 30293618,
+        "ns": 6,
+        "title": "File:Động Tam Thanh.JPG",
+        "index": 1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 831924,
+            "width": 1920,
+            "height": 1280,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/%C4%90%E1%BB%99ng_Tam_Thanh.JPG/1280px-%C4%90%E1%BB%99ng_Tam_Thanh.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1024,
+            "thumbheight": 683,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/f/fe/%C4%90%E1%BB%99ng_Tam_Thanh.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/%C4%90%E1%BB%99ng_Tam_Thanh.JPG/1280px-%C4%90%E1%BB%99ng_Tam_Thanh.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1024,
+              "height": 683,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/f/fe/%C4%90%E1%BB%99ng_Tam_Thanh.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/%C4%90%E1%BB%99ng_Tam_Thanh.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:%C4%90%E1%BB%99ng_Tam_Thanh.JPG",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=30293618",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2013-12-22 19:54:34",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Động Tam Thanh",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Caves in Vietnam|Taken with Canon EOS-1D X|Lạng Sơn City|Taken with Canon EF 16-35mm F2.8L USM II|Self-published work|QI by Shansov.net|Taken by Shansov.net|Files with coordinates missing SDC location of creation|Nature of Lang Son",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "quality",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "21.855805",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "106.746357",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Động Tam Thanh cave in Lạng Sơn city, Vietnam",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2013-10-29 14:14:11",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "[Tycho]",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

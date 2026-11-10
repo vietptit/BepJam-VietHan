@@ -1,0 +1,25 @@
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+*.csproj
+*.sln
+*.user
+*.pidb
+*.apk
+*.aab
+.vs/
+.vscode/
+.idea/
+# heavy working folders
+/Tools/gemini/
+/Tools/qa/
+/Tools/backup_*/
+/Tools/photos/raw/
+/.utmp/
+__pycache__/
+/Assets/_Recovery/

@@ -1,0 +1,79 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "geosearch": [
+      {
+        "pageid": 59984916,
+        "ns": 6,
+        "title": "File:Vùng nuôi tôm trên cát xã Tam Tiến - Núi Thành - Quảng Nam - panoramio.jpg",
+        "lat": 15.574422,
+        "lon": 108.564577,
+        "dist": 3119.8,
+        "primary": ""
+      },
+      {
+        "pageid": 59984906,
+        "ns": 6,
+        "title": "File:Vùng nuôi tôm trên cát xã Tam Tiến-Núi Thành-Quảng Nam (Ảnh chụp tháng 11-2015) - panoramio.jpg",
+        "lat": 15.560103,
+        "lon": 108.570317,
+        "dist": 3806.7,
+        "primary": ""
+      },
+      {
+        "pageid": 116374270,
+        "ns": 6,
+        "title": "File:Cay Tuong Vi Bonsai Nguoc.jpg",
+        "lat": 15.560744444444,
+        "lon": 108.48761111111,
+        "dist": 5263.9,
+        "primary": ""
+      },
+      {
+        "pageid": 69584516,
+        "ns": 6,
+        "title": "File:Tam Ky railway station of Vietnam railway (Feb 21, 2018).jpg",
+        "lat": 15.557205,
+        "lon": 108.483551,
+        "dist": 5769.3,
+        "primary": ""
+      },
+      {
+        "pageid": 101777221,
+        "ns": 6,
+        "title": "File:ISS043-E-274070 - View of Earth.jpg",
+        "lat": 15.5,
+        "lon": 108.5,
+        "dist": 8587.3,
+        "primary": ""
+      },
+      {
+        "pageid": 13280046,
+        "ns": 6,
+        "title": "File:Ga Tam Ky.JPG",
+        "lat": 15.599,
+        "lon": 108.46083333333,
+        "dist": 8714.6,
+        "primary": ""
+      },
+      {
+        "pageid": 46753163,
+        "ns": 6,
+        "title": "File:Victoria Resort, Hoi An - panoramio.jpg",
+        "lat": 15.520183,
+        "lon": 108.613243,
+        "dist": 9896.4,
+        "primary": ""
+      },
+      {
+        "pageid": 46753169,
+        "ns": 6,
+        "title": "File:Hoi An - panoramio.jpg",
+        "lat": 15.514228,
+        "lon": 108.609638,
+        "dist": 9966.2,
+        "primary": ""
+      }
+    ]
+  }
+}

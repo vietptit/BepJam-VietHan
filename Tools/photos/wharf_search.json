@@ -1,0 +1,1175 @@
+{
+  "batchcomplete": "",
+  "continue": {
+    "gsroffset": 10,
+    "continue": "gsroffset||"
+  },
+  "query": {
+    "pages": {
+      "50251187": {
+        "pageid": 50251187,
+        "ns": 6,
+        "title": "File:Bassac River - a closer view by Ninh Kieu Park.jpg",
+        "index": 3,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4208026,
+            "width": 4160,
+            "height": 3120,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Bassac_River_-_a_closer_view_by_Ninh_Kieu_Park.jpg/1280px-Bassac_River_-_a_closer_view_by_Ninh_Kieu_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1024,
+            "thumbheight": 768,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Bassac_River_-_a_closer_view_by_Ninh_Kieu_Park.jpg/3840px-Bassac_River_-_a_closer_view_by_Ninh_Kieu_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Bassac_River_-_a_closer_view_by_Ninh_Kieu_Park.jpg/1280px-Bassac_River_-_a_closer_view_by_Ninh_Kieu_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1024,
+              "height": 768,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Bassac_River_-_a_closer_view_by_Ninh_Kieu_Park.jpg/3840px-Bassac_River_-_a_closer_view_by_Ninh_Kieu_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Bassac_River_-_a_closer_view_by_Ninh_Kieu_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Bassac_River_-_a_closer_view_by_Ninh_Kieu_Park.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=50251187",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2016-07-20 02:14:44",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Bassac River - a closer view by Ninh Kieu Park",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Huawei Y6 Pro|Bassac River|Self-published work|Boats in Vietnam|Files with coordinates missing SDC location of creation",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "10.034860",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "105.789345",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "This image is taken from Ninh Kieu Quay park, Can Tho City, Vietnam. It is one part of Basacc River (a branch of Mekong). Local people call it Song Hau. The contrast of a big fancy boat and a small one indicates the real situation in our society (Big corporation vs. small business). They both offer services to tourists.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2016-07-07 16:19:32",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Hong_Phuc_Dang&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Hong Phuc Dang (page does not exist)\">Hong Phuc Dang</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "84268889": {
+        "pageid": 84268889,
+        "ns": 6,
+        "title": "File:Chợ Ninh Kiều nhìn từ sông Hậu.jpg",
+        "index": 9,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1204080,
+            "width": 3648,
+            "height": 2736,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Ch%E1%BB%A3_Ninh_Ki%E1%BB%81u_nh%C3%ACn_t%E1%BB%AB_s%C3%B4ng_H%E1%BA%ADu.jpg/1280px-Ch%E1%BB%A3_Ninh_Ki%E1%BB%81u_nh%C3%ACn_t%E1%BB%AB_s%C3%B4ng_H%E1%BA%ADu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1024,
+            "thumbheight": 768,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/0/01/Ch%E1%BB%A3_Ninh_Ki%E1%BB%81u_nh%C3%ACn_t%E1%BB%AB_s%C3%B4ng_H%E1%BA%ADu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Ch%E1%BB%A3_Ninh_Ki%E1%BB%81u_nh%C3%ACn_t%E1%BB%AB_s%C3%B4ng_H%E1%BA%ADu.jpg/1280px-Ch%E1%BB%A3_Ninh_Ki%E1%BB%81u_nh%C3%ACn_t%E1%BB%AB_s%C3%B4ng_H%E1%BA%ADu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1024,
+              "height": 768,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/0/01/Ch%E1%BB%A3_Ninh_Ki%E1%BB%81u_nh%C3%ACn_t%E1%BB%AB_s%C3%B4ng_H%E1%BA%ADu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Ch%E1%BB%A3_Ninh_Ki%E1%BB%81u_nh%C3%ACn_t%E1%BB%AB_s%C3%B4ng_H%E1%BA%ADu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ch%E1%BB%A3_Ninh_Ki%E1%BB%81u_nh%C3%ACn_t%E1%BB%AB_s%C3%B4ng_H%E1%BA%ADu.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=84268889",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2008-11-27 10:33:37",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Chợ Ninh Kiều nhìn từ sông Hậu",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Rivers of Vietnam|Self-published work|Markets in Can Tho",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Ninh Kiều Market",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2008-11-11",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Liftold&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Liftold (page does not exist)\">Liftold</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "27745659": {
+        "pageid": 27745659,
+        "ns": 6,
+        "title": "File:Chợ Ninh Kiều nhìn từ sông Hậu voyage.jpg",
+        "index": 10,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 147348,
+            "width": 2100,
+            "height": 300,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Ch%E1%BB%A3_Ninh_Ki%E1%BB%81u_nh%C3%ACn_t%E1%BB%AB_s%C3%B4ng_H%E1%BA%ADu_voyage.jpg/1280px-Ch%E1%BB%A3_Ninh_Ki%E1%BB%81u_nh%C3%ACn_t%E1%BB%AB_s%C3%B4ng_H%E1%BA%ADu_voyage.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1024,
+            "thumbheight": 146,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Ch%E1%BB%A3_Ninh_Ki%E1%BB%81u_nh%C3%ACn_t%E1%BB%AB_s%C3%B4ng_H%E1%BA%ADu_voyage.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Ch%E1%BB%A3_Ninh_Ki%E1%BB%81u_nh%C3%ACn_t%E1%BB%AB_s%C3%B4ng_H%E1%BA%ADu_voyage.jpg/1280px-Ch%E1%BB%A3_Ninh_Ki%E1%BB%81u_nh%C3%ACn_t%E1%BB%AB_s%C3%B4ng_H%E1%BA%ADu_voyage.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1024,
+              "height": 146,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Ch%E1%BB%A3_Ninh_Ki%E1%BB%81u_nh%C3%ACn_t%E1%BB%AB_s%C3%B4ng_H%E1%BA%ADu_voyage.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Ch%E1%BB%A3_Ninh_Ki%E1%BB%81u_nh%C3%ACn_t%E1%BB%AB_s%C3%B4ng_H%E1%BA%ADu_voyage.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ch%E1%BB%A3_Ninh_Ki%E1%BB%81u_nh%C3%ACn_t%E1%BB%AB_s%C3%B4ng_H%E1%BA%ADu_voyage.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=27745659",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2013-08-17 04:04:55",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Chợ Ninh Kiều nhìn từ sông Hậu voyage",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Rivers of Vietnam|Wikivoyage banners of Vietnam|Markets in Can Tho",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Chợ Ninh Kiều nhìn thừ sông Hậu",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2013-08-17 11:03:02",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a class=\"external free\" data-mw-original-href=\"http://vi.wikipedia.org/wiki/T%E1%BA%ADp_tin:Ch%E1%BB%A3_Ninh_Ki%E1%BB%81u_nh%C3%ACn_t%E1%BB%AB_s%C3%B4ng_H%E1%BA%ADu.jpg\" href=\"https://vi.wikipedia.org/wiki/T%E1%BA%ADp_tin:Ch%E1%BB%A3_Ninh_Ki%E1%BB%81u_nh%C3%ACn_t%E1%BB%AB_s%C3%B4ng_H%E1%BA%ADu.jpg\">http://vi.wikipedia.org/wiki/T%E1%BA%ADp_tin:Ch%E1%BB%A3_Ninh_Ki%E1%BB%81u_nh%C3%ACn_t%E1%BB%AB_s%C3%B4ng_H%E1%BA%ADu.jpg</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Liftold",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "160759658": {
+        "pageid": 160759658,
+        "ns": 6,
+        "title": "File:Mekong Delta River.jpg",
+        "index": 4,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4341005,
+            "width": 4032,
+            "height": 2268,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Mekong_Delta_River.jpg/1280px-Mekong_Delta_River.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1024,
+            "thumbheight": 576,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Mekong_Delta_River.jpg/3840px-Mekong_Delta_River.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Mekong_Delta_River.jpg/1280px-Mekong_Delta_River.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1024,
+              "height": 576,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Mekong_Delta_River.jpg/3840px-Mekong_Delta_River.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Mekong_Delta_River.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Mekong_Delta_River.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=160759658",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2025-02-27 15:36:19",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Mekong Delta River",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Vietnam|Bassac River|Self-published work|Uploaded with Mobile/Android|Boats on the Mekong Delta|Files with coordinates missing SDC location of creation|Vietnam photographs taken on 2025-02-27",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "10.037500",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "105.791944",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Mekong Delta River Ninh Kieu lichtjes",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "Taken on 27 February 2025, 19:44",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Andre_Hospers&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Andre Hospers (page does not exist)\">Andre Hospers</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "160759695": {
+        "pageid": 160759695,
+        "ns": 6,
+        "title": "File:Mekong Delta River 2.jpg",
+        "index": 1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3385345,
+            "width": 4032,
+            "height": 2268,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Mekong_Delta_River_2.jpg/1280px-Mekong_Delta_River_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1024,
+            "thumbheight": 576,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Mekong_Delta_River_2.jpg/3840px-Mekong_Delta_River_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Mekong_Delta_River_2.jpg/1280px-Mekong_Delta_River_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1024,
+              "height": 576,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Mekong_Delta_River_2.jpg/3840px-Mekong_Delta_River_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Mekong_Delta_River_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Mekong_Delta_River_2.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=160759695",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2025-02-27 15:36:46",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Mekong Delta River 2",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Vietnam|Bassac River|Self-published work|Uploaded with Mobile/Android|Boats on the Mekong Delta|Files with coordinates missing SDC location of creation|Photographs taken on 2025-02-27",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "10.036389",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "105.790000",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Mekong Delta River Ninh Kieu lichtjes",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "27 February 2025 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Andre_Hospers&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Andre Hospers (page does not exist)\">Andre Hospers</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "160759755": {
+        "pageid": 160759755,
+        "ns": 6,
+        "title": "File:Mekong Delta River 3.jpg",
+        "index": 2,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3600516,
+            "width": 4032,
+            "height": 2268,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Mekong_Delta_River_3.jpg/1280px-Mekong_Delta_River_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1024,
+            "thumbheight": 576,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Mekong_Delta_River_3.jpg/3840px-Mekong_Delta_River_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Mekong_Delta_River_3.jpg/1280px-Mekong_Delta_River_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1024,
+              "height": 576,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Mekong_Delta_River_3.jpg/3840px-Mekong_Delta_River_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Mekong_Delta_River_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Mekong_Delta_River_3.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=160759755",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2025-02-27 15:37:20",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Mekong Delta River 3",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Vietnam|Bassac River|Self-published work|Uploaded with Mobile/Android|Boats on the Mekong Delta|Files with coordinates missing SDC location of creation|Photographs taken on 2025-02-27",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "10.036111",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "105.790278",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Mekong Delta River Ninh Kieu lichtjes",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "27 February 2025 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Andre_Hospers&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Andre Hospers (page does not exist)\">Andre Hospers</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "160775153": {
+        "pageid": 160775153,
+        "ns": 6,
+        "title": "File:Victoria Can Tho Resort.jpg",
+        "index": 7,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3510575,
+            "width": 4032,
+            "height": 2268,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Victoria_Can_Tho_Resort.jpg/1280px-Victoria_Can_Tho_Resort.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1024,
+            "thumbheight": 576,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Victoria_Can_Tho_Resort.jpg/3840px-Victoria_Can_Tho_Resort.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Victoria_Can_Tho_Resort.jpg/1280px-Victoria_Can_Tho_Resort.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1024,
+              "height": 576,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Victoria_Can_Tho_Resort.jpg/3840px-Victoria_Can_Tho_Resort.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Victoria_Can_Tho_Resort.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Victoria_Can_Tho_Resort.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=160775153",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2025-02-27 19:54:19",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Victoria Can Tho Resort",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Can Tho|Bassac River|Ninh Kieu Quay|Self-published work|Uploaded with Mobile/Android|Files with coordinates missing SDC location of creation|Photographs taken on 2025-02-27|Can Tho River",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "10.039167",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "105.793333",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Victoria Can Tho Resort",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "27 February 2025 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Andre_Hospers&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Andre Hospers (page does not exist)\">Andre Hospers</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "160775200": {
+        "pageid": 160775200,
+        "ns": 6,
+        "title": "File:Victoria Can Tho Resort (14045).jpg",
+        "index": 5,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3083077,
+            "width": 4032,
+            "height": 2268,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Victoria_Can_Tho_Resort_%2814045%29.jpg/1280px-Victoria_Can_Tho_Resort_%2814045%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1024,
+            "thumbheight": 576,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Victoria_Can_Tho_Resort_%2814045%29.jpg/3840px-Victoria_Can_Tho_Resort_%2814045%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Victoria_Can_Tho_Resort_%2814045%29.jpg/1280px-Victoria_Can_Tho_Resort_%2814045%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1024,
+              "height": 576,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Victoria_Can_Tho_Resort_%2814045%29.jpg/3840px-Victoria_Can_Tho_Resort_%2814045%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Victoria_Can_Tho_Resort_%2814045%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Victoria_Can_Tho_Resort_(14045).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=160775200",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2025-02-27 19:55:06",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Victoria Can Tho Resort (14045)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Can Tho|Bassac River|Ninh Kieu Quay|Self-published work|Uploaded with Mobile/Android|Files with coordinates missing SDC location of creation|Photographs taken on 2025-02-27|Can Tho River",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "10.039167",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "105.793333",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Victoria Can Tho Resort",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "27 February 2025 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Andre_Hospers&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Andre Hospers (page does not exist)\">Andre Hospers</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "160775179": {
+        "pageid": 160775179,
+        "ns": 6,
+        "title": "File:Victoria Can Tho Resort (35060).jpg",
+        "index": 8,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2912623,
+            "width": 4032,
+            "height": 2268,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Victoria_Can_Tho_Resort_%2835060%29.jpg/1280px-Victoria_Can_Tho_Resort_%2835060%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1024,
+            "thumbheight": 576,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Victoria_Can_Tho_Resort_%2835060%29.jpg/3840px-Victoria_Can_Tho_Resort_%2835060%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Victoria_Can_Tho_Resort_%2835060%29.jpg/1280px-Victoria_Can_Tho_Resort_%2835060%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1024,
+              "height": 576,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Victoria_Can_Tho_Resort_%2835060%29.jpg/3840px-Victoria_Can_Tho_Resort_%2835060%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Victoria_Can_Tho_Resort_%2835060%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Victoria_Can_Tho_Resort_(35060).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=160775179",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2025-02-27 19:54:42",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Victoria Can Tho Resort (35060)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Can Tho|Bassac River|Ninh Kieu Quay|Self-published work|Uploaded with Mobile/Android|Files with coordinates missing SDC location of creation|Photographs taken on 2025-02-27|Can Tho River",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "10.039167",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "105.793333",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Victoria Can Tho Resort",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "27 February 2025 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Andre_Hospers&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Andre Hospers (page does not exist)\">Andre Hospers</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "160775222": {
+        "pageid": 160775222,
+        "ns": 6,
+        "title": "File:Victoria Can Tho Resort (95986).jpg",
+        "index": 6,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2953718,
+            "width": 4032,
+            "height": 2268,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Victoria_Can_Tho_Resort_%2895986%29.jpg/1280px-Victoria_Can_Tho_Resort_%2895986%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1024,
+            "thumbheight": 576,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Victoria_Can_Tho_Resort_%2895986%29.jpg/3840px-Victoria_Can_Tho_Resort_%2895986%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Victoria_Can_Tho_Resort_%2895986%29.jpg/1280px-Victoria_Can_Tho_Resort_%2895986%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1024,
+              "height": 576,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Victoria_Can_Tho_Resort_%2895986%29.jpg/3840px-Victoria_Can_Tho_Resort_%2895986%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Victoria_Can_Tho_Resort_%2895986%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Victoria_Can_Tho_Resort_(95986).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=160775222",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2025-02-27 19:55:30",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Victoria Can Tho Resort (95986)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Can Tho|Bassac River|Ninh Kieu Quay|Self-published work|Uploaded with Mobile/Android|Files with coordinates missing SDC location of creation|Photographs taken on 2025-02-27|Can Tho River",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "10.039167",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "105.793333",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Kolonial Victoria Can Tho Resort",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "27 February 2025 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Andre_Hospers&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Andre Hospers (page does not exist)\">Andre Hospers</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

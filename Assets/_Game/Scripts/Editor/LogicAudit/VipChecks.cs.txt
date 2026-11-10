@@ -1,0 +1,145 @@
+using System;
+using System.Linq;
+using System.Reflection;
+using BepJam;
+
+static class VipChecks
+{
+    static int checks;
+    static void Check(bool ok, string message)
+    { checks++; if (!ok) throw new Exception(message); }
+    static void Tick(Kitchen k, float seconds)
+    { for (float t = 0; t < seconds && !k.ended; t += 0.005f) k.Update(0.005f); }
+    static Kitchen Open(string[][] orders, bool[] vip, params string[] stock)
+    {
+        var columns = Enumerable.Range(0, 4).Select(_ => new Column()).ToArray();
+        for (int i = 0; i < stock.Length; i++) columns[i % 4].visible.Add(new Crate { id = i, ing = stock[i], count = 1 });
+        if (stock.Length == 0) columns[0].visible.Add(new Crate { id = 99, ing = "nuoc", count = 10 });
+        var level = new LevelDef { number = 11, customers = orders, vip = vip, vipPatience = 100, cookTime = 0.1f };
+        var k = new Kitchen(level, new LevelLayout { columns = columns });
+        k.Start(); Tick(k, 1.3f); k.events.Clear(); return k;
+    }
+    static void Fill(Kitchen k, params string[] parts)
+    {
+        for (int i = 0; i < parts.Length; i++)
+        { var s = k.slots[i]; s.state = SlotState.Ingredient; s.key = parts[i]; s.items.Add(parts[i]); }
+    }
+    static void Dish(Kitchen k, int slot, Order order, SlotState state, float timer)
+    {
+        order.reserved = true;
+        var s = k.slots[slot]; s.state = state; s.order = order; s.key = order.dish; s.timer = timer;
+    }
+    static void Gather()
+    {
+        var orders = new[] { new[] { "bibimbap" }, new[] { "com_kimchi" } };
+        var k = Open(orders, new[] { false, true });
+        Fill(k, "com", "kimchi", "rau_cu", "trung", "gochujang"); k.Update(0.01f);
+        Check(k.events.Single(e => e.type == EvType.Gather).order.customer.id == 1, "Shared ingredients belong to VIP before normal larger recipe");
+        Check(k.slots[2].state == SlotState.Ingredient && !k.customers[0].orders[0].reserved, "Normal recipe leaves shared ingredients to VIP");
+        k = Open(orders, null); Fill(k, "com", "kimchi", "rau_cu", "trung", "gochujang"); k.Update(0.01f);
+        Check(k.events.Single(e => e.type == EvType.Gather).order.customer.id == 0, "No VIP keeps normal customer-id priority");
+        k = Open(new[] { new[] { "com_kimchi" }, new[] { "bibimbap" } }, new[] { false, true });
+        Fill(k, "com", "kimchi"); k.Update(0.01f);
+        Check(k.events.Single(e => e.type == EvType.Gather).order.customer.id == 0, "Incomplete VIP recipe falls back to normal");
+        k = Open(new[] { new[] { "com_kimchi", "bibimbap" } }, new[] { false });
+        Fill(k, "com", "kimchi", "rau_cu", "trung", "gochujang"); k.Update(0.01f);
+        Check(k.events.Single(e => e.type == EvType.Gather).key == "bibimbap", "Same normal customer still picks larger recipe");
+        k = Open(new[] { new[] { "com_kimchi" }, new[] { "com_kimchi" }, new[] { "com_kimchi" } }, new[] { false, true, true });
+        k.customers[1].patience = 40; k.customers[2].patience = 10;
+        Fill(k, "com", "kimchi", "com", "kimchi", "com", "kimchi"); k.Update(0.01f);
+        Check(k.events.Where(e => e.type == EvType.Gather).Select(e => e.order.customer.id).SequenceEqual(new[] { 2, 1, 0 }), "Multiple sets choose impatient VIP, next VIP, normal");
+        k = Open(new[] { new[] { "com_kimchi" }, new[] { "com_kimchi" }, new[] { "com_kimchi" }, new[] { "com_kimchi" } }, new[] { false, false, false, true });
+        Fill(k, "com", "kimchi"); k.Update(0.01f);
+        Check(k.events.Single(e => e.type == EvType.Gather).order.customer.id == 0, "Future VIP cannot claim seated guests' set");
+    }
+    static void Deliveries()
+    {
+        var k = Open(new[] { new[] { "com_kimchi", "ca_phe_sua" }, new[] { "com_kimchi" }, new[] { "com_kimchi" } }, new[] { false, true, true });
+        var normal = k.customers[0].orders[0]; var vip1 = k.customers[1].orders[0]; var vip2 = k.customers[2].orders[0];
+        k.customers[1].patience = 40; k.customers[2].patience = 10;
+        Dish(k, 0, normal, SlotState.Merging, 0.001f); k.Update(0.01f);
+        Check(k.events.Single(e => e.type == EvType.Deliver).order == vip2, "Finished raw dish reroutes to most impatient VIP");
+        Check(k.slots[0].order == vip2 && vip2.reserved && !normal.reserved, "Reroute updates source ownership and releases normal reservation");
+        k.events.Clear(); Dish(k, 1, normal, SlotState.Merging, 0.001f); k.Update(0.01f);
+        Check(k.events.Single(e => e.type == EvType.Deliver).order == vip1, "Dish already delivering is excluded from later routing");
+        Tick(k, 0.7f);
+        Check(vip1.done && vip2.done && !normal.done && k.slots[0].state == SlotState.Empty && k.slots[1].state == SlotState.Empty, "Rerouted deliveries finish exactly once and clear source plates");
+        k = Open(new[] { new[] { "xoi_dau_xanh", "ca_phe_sua" }, new[] { "xoi_dau_xanh" } }, new[] { false, true });
+        normal = k.customers[0].orders[0]; vip1 = k.customers[1].orders[0];
+        Dish(k, 0, normal, SlotState.Outgoing, 0.4f); Dish(k, 1, vip1, SlotState.Dish, 0);
+        var stove = k.stations[StationType.Stove]; stove.state = StationState.Cooking; stove.dish = normal.dish; stove.order = normal; stove.timer = 0.001f;
+        k.Update(0.01f);
+        Check(k.events.Single(e => e.type == EvType.Deliver).order == vip1, "Cooked normal dish serves reserved VIP before normal");
+        Check(stove.order == vip1 && k.slots[0].order == vip1 && k.slots[1].order == normal && normal.reserved, "Matching reserved dish swaps every plate/station alias");
+        Tick(k, 3);
+        Check(normal.done && vip1.done && stove.state == StationState.Idle && k.slots.All(s => s.state == SlotState.Empty), "Swapped cooked dishes retain both deliveries and cleanup");
+        k = Open(new[] { new[] { "com_kimchi" }, new[] { "com_kimchi", "ca_phe_sua" }, new[] { "tra_yuja" } }, new[] { false, false, true });
+        normal = k.customers[1].orders[0]; Dish(k, 0, normal, SlotState.Merging, 0.001f); k.Update(0.01f);
+        Check(k.events.Single(e => e.type == EvType.Deliver).order == normal, "Unrelated VIP keeps original normal delivery target");
+    }
+    static void StationsAndHints()
+    {
+        foreach (bool merging in new[] { false, true })
+        {
+            var k = Open(new[] { new[] { "xoi_dau_xanh" }, new[] { "tteokbokki" } }, new[] { false, true });
+            Dish(k, 0, k.customers[0].orders[0], merging ? SlotState.Merging : SlotState.Dish, merging ? 0.001f : 0);
+            Dish(k, 4, k.customers[1].orders[0], merging ? SlotState.Merging : SlotState.Dish, merging ? 0.001f : 0);
+            k.Update(0.01f);
+            Check(k.stations[StationType.Stove].dish == "tteokbokki", "VIP wins stove contention, including simultaneous merge completion: " + merging);
+        }
+        var hint = Open(new[] { new[] { "ca_phe_sua" }, new[] { "gimbap" } }, new[] { false, true }, "sua_dac", "com", "rong_bien", "cu_cai");
+        Fill(hint, "ca_phe");
+        Check(hint.Hint(false) == 1, "Autopilot hint prefers available VIP recipe over normal completion");
+        hint.columns[3].hidden.Add(hint.columns[3].visible[0]); hint.columns[3].visible.Clear();
+        Check(hint.Hint(false) == 0, "Unavailable VIP recipe keeps original normal hint scoring");
+        hint.customers[1].finished = true;
+        Check(hint.Hint(false) == 0, "Finished VIP does not affect hints");
+    }
+    static void MixedStationQueue()
+    {
+        var k = Open(new[] { new[] { "xoi_dau_xanh" }, new[] { "tteokbokki" } }, new[] { false, true });
+        Dish(k, 0, k.customers[0].orders[0], SlotState.Merging, 0.001f);
+        Dish(k, 4, k.customers[1].orders[0], SlotState.Dish, 0);
+        k.Update(0.01f);
+        Check(k.stations[StationType.Stove].dish == "tteokbokki", "Waiting VIP beats newly completed normal merge");
+        k = Open(new[] { new[] { "xoi_dau_xanh" }, new[] { "tteokbokki" } }, null);
+        Dish(k, 0, k.customers[0].orders[0], SlotState.Dish, 0);
+        Dish(k, 4, k.customers[1].orders[0], SlotState.Merging, 0.001f);
+        k.Update(0.01f);
+        Check(k.stations[StationType.Stove].dish == "tteokbokki", "Without VIP, immediate ready-dish routing remains unchanged");
+    }
+    static void SolverPriority()
+    {
+        var k = Open(new[] { new[] { "bibimbap" }, new[] { "com_kimchi" } }, new[] { false, true }, "kimchi");
+        Type t = typeof(LevelGen).GetNestedType("Solver", BindingFlags.NonPublic);
+        var solver = Activator.CreateInstance(t, BindingFlags.Instance | BindingFlags.Public | BindingFlags.NonPublic, null, new object[] { k.level, k.columns, null }, null);
+        var held = (int[])t.GetField("held", BindingFlags.Instance | BindingFlags.NonPublic).GetValue(solver);
+        var index = GameData.Ingredients.Keys.Select((id, i) => (id, i)).ToDictionary(x => x.id, x => x.i);
+        foreach (string p in new[] { "com", "rau_cu", "trung", "gochujang" }) held[index[p]]++;
+        t.GetField("used", BindingFlags.Instance | BindingFlags.NonPublic).SetValue(solver, 4);
+        t.GetMethod("Apply", BindingFlags.Instance | BindingFlags.NonPublic).Invoke(solver, new object[] { 0 });
+        var remaining = (int[])t.GetField("remaining", BindingFlags.Instance | BindingFlags.NonPublic).GetValue(solver);
+        Check(remaining[0] == 1 && remaining[1] == 0, "DFS/careless shared transition consumes VIP recipe before normal recipe");
+        Check(held[index["com"]] == 0 && held[index["gochujang"]] == 1, "Solver assigns shared ingredient to VIP");
+    }
+    static void Levels()
+    {
+        foreach (var level in GameData.Levels)
+        {
+            var layout = LevelGen.Build(level);
+            Check(LevelGen.ReplayPlan(level, layout, out _), "Real Kitchen witness replay day " + level.number + ": " + layout.replayFailure);
+            var demand = level.customers.SelectMany(c => c).SelectMany(d => GameData.Dishes[d].parts).GroupBy(p => p).ToDictionary(g => g.Key, g => g.Count());
+            var stock = layout.columns.SelectMany(c => c.visible.Concat(c.hidden)).GroupBy(c => c.ing).ToDictionary(g => g.Key, g => g.Sum(c => c.count));
+            Check(demand.Count == stock.Count && demand.All(p => stock[p.Key] == p.Value), "Exact stock day " + level.number);
+        }
+    }
+    public static void Regressions()
+    {
+        Gather(); Deliveries(); StationsAndHints(); MixedStationQueue(); SolverPriority();
+    }
+    static void Main()
+    {
+        Regressions(); Levels();
+        Console.WriteLine("PASS: " + checks + " VIP priority, reservation, normal fallback, solver and 50-level replay checks.");
+    }
+}

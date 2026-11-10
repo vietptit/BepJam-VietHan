@@ -1,0 +1,191 @@
+using System;
+using System.Collections.Generic;
+using System.IO;
+using System.Linq;
+using BepJam;
+
+static class LegacyChecks
+{
+    static void Require(bool condition, string message)
+    { if (!condition) throw new Exception(message); }
+
+    public static void CheckPantry(LevelDef level, LevelLayout layout)
+    {
+        var cols = layout.columns;
+        Require(cols.Length == 4, "Pantry must have four columns");
+        var crates = cols.SelectMany(c => c.visible.Concat(c.hidden)).ToArray();
+        var lengths = cols.Select(c => c.visible.Count + c.hidden.Count).ToArray();
+        int demand = level.customers.Sum(c => c.Sum(d => GameData.Dishes[d].parts.Length));
+        Require(crates.Length == demand && crates.All(c => c.count == 1), "One crate per required portion");
+        Require(crates.Select(c => c.id).Distinct().Count() == crates.Length, "Duplicate crate IDs");
+        Require(cols.Sum(c => c.visible.Count) == Math.Min(16, crates.Length), "Sparse visible grid on day " + level.number);
+        Require(cols.All(c => c.visible.Count <= 4 && (c.hidden.Count == 0 || c.visible.Count == 4)), "Hidden stock left a visible hole");
+        Require(lengths.Max() - lengths.Min() <= 2, "Unbalanced column lengths");
+        Require(cols.Max(c => c.hidden.Count) - cols.Min(c => c.hidden.Count) <= 2, "Unbalanced hidden stock");
+        Require(cols.Max(c => c.hidden.Count) <= level.hiddenRows + 1, "Hidden depth exceeded menu budget");
+        Require(cols.Min(c => c.hidden.Count) >= Math.Max(0, level.hiddenRows - 1), "Hidden depth fell below menu budget");
+        // The generator's work deadline is 150ms; allow 10ms for scheduler jitter.
+        Require(layout.generationMilliseconds <= 160, "Generation exceeded ~150ms on day " + level.number);
+        if (level.number <= 3 && GameData.Levels.Contains(level))
+            Require(layout.seedUsed == -1 && cols.Select((c, i) => c.hidden.Count == 0 && c.visible.All(cr => cr.id % 4 == i)).All(ok => ok),
+                "Tutorial pantry changed");
+    }
+    static Kitchen SingleDish(string dish, float dt, bool extraPantry = false, bool extraPlate = false, bool returnFirst = false)
+    {
+        var level = new LevelDef { number = 1, customers = new[] { new[] { dish } }, plates = 6 };
+        var cols = Enumerable.Range(0, 4).Select(_ => new Column()).ToArray();
+        int id = 0;
+        if (extraPantry || extraPlate) cols[1].visible.Add(new Crate { id = 99, ing = "duong", count = 1 });
+        foreach (string part in GameData.Dishes[dish].parts) cols[0].visible.Add(new Crate { id = id++, ing = part, count = 1 });
+        var kitchen = new Kitchen(level, new LevelLayout { columns = cols });
+        kitchen.Start();
+        while (kitchen.time < 1.2f) kitchen.Update(dt);
+        if (extraPlate) kitchen.Tap(99);
+        if (returnFirst)
+        {
+            kitchen.Tap(0);
+            for (float t = 0; t < 0.6f; t += dt) kitchen.Update(dt);
+            Require(kitchen.ReturnPlate(), "Return failed");
+            for (float t = 0; t < 0.6f; t += dt) kitchen.Update(dt);
+            Require(kitchen.VisibleCrates.Sum(c => c.count) == GameData.Dishes[dish].parts.Length, "Return changed stock");
+        }
+        foreach (var crate in kitchen.VisibleCrates.Where(c => c.id != 99).ToArray()) kitchen.Tap(crate.id);
+        while (!kitchen.ended && kitchen.time < 30)
+        {
+            kitchen.events.Clear();
+            kitchen.Update(dt);
+            bool delivered = kitchen.events.Any(e => e.type == EvType.Delivered);
+            if (delivered) Require(kitchen.won && kitchen.events.Count(e => e.type == EvType.Win) == 1, "Win delayed after last delivery");
+        }
+        Require(kitchen.won && kitchen.slots.All(s => s.state == SlotState.Empty) &&
+            !kitchen.VisibleCrates.Any() && kitchen.columns.All(c => c.hidden.Count == 0), "Leftovers at win");
+        return kitchen;
+    }
+
+    public static void RegressionChecks()
+    {
+        TimerFreeLossChecks();
+        PantryBoundaryChecks();
+        foreach (float dt in new[] { 1f / 120, 1f / 60, 0.05f, 0.1f })
+        {
+            SingleDish("com_kimchi", dt);
+            SingleDish("xoi_dau_xanh", dt);
+        }
+        var clean = SingleDish("com_kimchi", 0.05f);
+        Require(clean.Stars() == 3, "Clean win must earn three stars");
+        clean.hintsLeft--;
+        Require(clean.Stars() == 2, "One assist must earn two stars");
+        clean.returnsLeft -= 2;
+        Require(clean.Stars() == 1, "Three assists must earn one star");
+        Require(SingleDish("com_kimchi", 0.05f, returnFirst: true).Stars() == 2, "Return must count toward stars");
+        foreach (bool onPlate in new[] { false, true })
+        {
+            bool rejected = false;
+            try { SingleDish("com_kimchi", 0.05f, extraPantry: !onPlate, extraPlate: onPlate); }
+            catch (InvalidOperationException e) { rejected = e.Message.Contains("Exact-stock invariant"); }
+            Require(rejected, "Leftover bug was silently accepted");
+        }
+        var repeated = new DishDef("harness_repeat", "Repeated", Country.VN, new[] { "tra", "tra", "duong" }, "", StationType.None, "");
+        GameData.Dishes.Add(repeated.id, repeated);
+        try
+        {
+            Require(!GameData.TryGather(repeated, new[] { "tra", "duong", (string)null }, out _), "Gather reused a plate");
+            Require(GameData.TryGather(repeated, new[] { "tra", "duong", "tra" }, out var match) && match.Distinct().Count() == 3, "Repeated-part gather failed");
+            var level = new LevelDef { number = 1, customers = new[] { new[] { repeated.id } }, plates = 6 };
+            var layout = LevelGen.Build(level);
+            Require(layout.solution.Length == 3 && LevelGen.ReplayPlan(level, layout, out _), "Repeated-part solver mismatch");
+        }
+        finally { GameData.Dishes.Remove(repeated.id); }
+        Console.WriteLine("Immediate wins, leftover guards, returns and repeated-part gathers passed.");
+    }
+
+    static void TimerFreeLossChecks()
+    {
+        var level = new LevelDef { number = 1, customers = new[] { new[] { "com_kimchi" } }, plates = 6 };
+        var layout = LevelGen.Build(level);
+        var kitchen = new Kitchen(level, new LevelLayout { columns = LevelGen.Clone(layout.columns) });
+        kitchen.Start();
+        for (int i = 0; i < 6000; i++) kitchen.Update(0.1f);
+        Require(!kitchen.ended && kitchen.time >= 599, "Idle non-VIP game must survive ten minutes");
+        foreach (var crate in kitchen.VisibleCrates.ToArray()) kitchen.Tap(crate.id);
+        for (int i = 0; i < 100 && !kitchen.ended; i++) kitchen.Update(0.05f);
+        Require(kitchen.won && kitchen.Stars() == 3, "Long idle must not reduce clean-win stars");
+
+        level.vip = new[] { true }; level.vipPatience = 1f;
+        kitchen = new Kitchen(level, new LevelLayout { columns = LevelGen.Clone(layout.columns) });
+        kitchen.Start();
+        for (int i = 0; i < 40 && !kitchen.ended; i++) kitchen.Update(0.05f);
+        Require(kitchen.ended && !kitchen.won && kitchen.loseKind == "vip", "VIP patience must still cause loss");
+
+        level = new LevelDef { number = 1, plates = 6, customers = new[] {
+            new[] { "com_kimchi" }, new[] { "com_kimchi" }, new[] { "com_kimchi" },
+            new[] { "ca_phe_sua" }, new[] { "ca_phe_sua" }, new[] { "ca_phe_sua" } } };
+        layout = LevelGen.Build(level);
+        kitchen = new Kitchen(level, new LevelLayout { columns = LevelGen.Clone(layout.columns) });
+        kitchen.Start();
+        for (int i = 0; i < 24; i++) kitchen.Update(0.05f);
+        var wrong = kitchen.VisibleCrates.Where(c => c.ing == "ca_phe" || c.ing == "sua_dac").ToArray();
+        Require(wrong.Length == 6 && wrong.All(c => kitchen.Tap(c.id)), "Stuck fixture taps failed");
+        kitchen.Update(0.1f);
+        Require(!kitchen.ended, "In-flight full plates must not lose prematurely");
+        for (int i = 0; i < 20 && !kitchen.ended; i++) kitchen.Update(0.05f);
+        Require(kitchen.loseKind == "stuck" && kitchen.CanRevive && kitchen.Revive(), "Full stuck plates must lose and allow return revival");
+        Require(kitchen.returnsLeft == 2 && !kitchen.ended, "Revival must consume one return");
+
+        var empty = Enumerable.Range(0, 4).Select(_ => new Column()).ToArray();
+        kitchen = new Kitchen(level, new LevelLayout { columns = empty }); kitchen.Start();
+        for (int i = 0; i < 40 && !kitchen.ended; i++) kitchen.Update(0.05f);
+        Require(kitchen.loseKind == "empty", "Empty stock must cause ingredient loss");
+        Console.WriteLine("Timer-free idle/clean stars, assists, VIP, in-flight protection, stuck/revival and empty-stock checks passed.");
+    }
+
+    static void PantryBoundaryChecks()
+    {
+        // Include both sides of 16 and row boundaries, plus uneven totals: these
+        // catch hiding stock in partially filled grids and dumping it into one lane.
+        foreach (int stock in new[] { 2, 3, 4, 6, 15, 16, 17, 18, 19, 20, 31, 32, 33 })
+        {
+            var customers = new List<string[]>();
+            int left = stock;
+            if (left % 2 != 0) { customers.Add(new[] { "goi_cuon" }); left -= 3; }
+            while (left > 0) { customers.Add(new[] { "com_kimchi" }); left -= 2; }
+            var level = new LevelDef { number = 1, seed = stock, plates = 6, customers = customers.ToArray(),
+                hiddenRows = Math.Max(0, (stock + 3) / 4 - 4) };
+            var layout = LevelGen.Build(level);
+            CheckPantry(level, layout);
+            Require(LevelGen.ReplayPlan(level, layout, out _), "Pantry boundary replay failed at stock " + stock);
+        }
+        Console.WriteLine("Pantry fill, balance and refill/replay boundary checks passed (stock 2-33).");
+    }
+
+    public static void CheckCarelessKitchen(LevelDef level, LevelLayout layout)
+    {
+        int lost = 0, stuck = 0;
+        for (int run = 0; run < 40; run++)
+        {
+            var rng = new Random(level.seed + run);
+            var kitchen = new Kitchen(level, new LevelLayout { columns = LevelGen.Clone(layout.columns) });
+            kitchen.Start();
+            float nextTap = 1.2f;
+            float watchdog = LevelGen.SimulationWatchdogSeconds(level);
+            while (!kitchen.ended && kitchen.time < watchdog)
+            {
+                if (kitchen.time >= nextTap)
+                {
+                    var moves = kitchen.VisibleCrates.Where(c => kitchen.CanPlace(c.ing)).ToArray();
+                    if (moves.Length > 0) kitchen.Tap(moves[rng.Next(moves.Length)].id);
+                    nextTap = kitchen.time + LevelGen.TapSeconds;
+                }
+                kitchen.Update(0.05f); kitchen.events.Clear();
+            }
+            Require(kitchen.ended, "Careless replay hit its test watchdog on day " + level.number);
+            Require(kitchen.won || kitchen.loseKind == "stuck" || kitchen.loseKind == "vip" || kitchen.loseKind == "empty",
+                "Unexpected loss kind " + kitchen.loseKind);
+            if (!kitchen.won) lost++;
+            if (kitchen.loseKind == "stuck") stuck++;
+        }
+        Require(stuck > 0, "Careless player never got stuck on day " + level.number);
+        Console.WriteLine("Real rapid-tap Kitchen day " + level.number + ": " + lost + "/40 losses, " + stuck + " stuck.");
+    }
+
+}

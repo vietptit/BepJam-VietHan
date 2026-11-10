@@ -1,0 +1,182 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Reflection;
+using BepJam;
+using UnityEngine;
+
+static class LogicAudit
+{
+    static int runs;
+    static void Require(bool ok, string why)
+    { if (!ok) throw new InvalidOperationException(why); }
+
+    static void Main()
+    {
+        try { Run(); }
+        catch (Exception e) { Console.Error.WriteLine(e); Environment.ExitCode = 1; }
+    }
+
+    static void Run()
+    {
+        LegacyChecks.RegressionChecks();
+        VipChecks.Regressions();
+        ChapterChecks();
+        FailureChecks();
+        // Build is time-bounded, so independent generations may select different candidates.
+        foreach (var level in GameData.Levels)
+        {
+            float slowest = 0;
+            for (int generation = 0; generation < 2; generation++)
+            {
+                var layout = LevelGen.Build(level);
+                Require(LevelGen.ReplayPlan(level, layout, out _), "Plan: " + layout.replayFailure);
+                LegacyChecks.CheckPantry(level, layout);
+                var demand = level.customers.SelectMany(c => c).SelectMany(d => GameData.Dishes[d].parts)
+                    .GroupBy(p => p).ToDictionary(g => g.Key, g => g.Count());
+                var stock = layout.columns.SelectMany(c => c.visible.Concat(c.hidden)).GroupBy(c => c.ing)
+                    .ToDictionary(g => g.Key, g => g.Sum(c => c.count));
+                Require(demand.Count == stock.Count && demand.All(p => stock.TryGetValue(p.Key, out int n) && n == p.Value), "Exact stock L" + level.number);
+                Require(layout.solution.Length == demand.Values.Sum(), "Minimal witness L" + level.number);
+                foreach (float dt in new[] { 1f / 120, 1f / 60, 1f / 30, 0.1f })
+                {
+                    Replay(level, layout, dt, false, generation == 1);
+                    slowest = Math.Max(slowest, Replay(level, layout, dt, true, generation == 1));
+                }
+                if (generation == 0 && new[] { 8, 20, 35, 50 }.Contains(level.number))
+                    LegacyChecks.CheckCarelessKitchen(level, layout);
+            }
+            Console.WriteLine("PASS L" + level.number.ToString("00") + ": 8 plan + 8 AutoPilot replays; slowest AutoPilot=" + slowest.ToString("F1") + "s");
+        }
+        Console.WriteLine("PASS: " + runs + " real-Kitchen replays across all 50 levels; one Win, immediate final delivery, zero leftovers, no exceptions; VIP/fallback, loss/stall and chapter regressions passed.");
+    }
+
+    static float Replay(LevelDef level, LevelLayout layout, float dt, bool autopilot, bool jitter)
+    {
+        var k = new Kitchen(level, new LevelLayout { columns = LevelGen.Clone(layout.columns) });
+        k.Start();
+        var policy = new AutoPlayPolicy(k, 0);
+        float next = autopilot ? 2.4f : 1.2f;
+        int step = 0, wins = 0, frames = 0;
+        var sent = new HashSet<Order>();
+        var delivered = new HashSet<Order>();
+        float watchdog = LevelGen.SimulationWatchdogSeconds(level);
+        string context = "L" + level.number + " seed=" + layout.seedUsed + " " + (autopilot ? "AutoPilot" : "plan") + " dt=" + dt + " jitter=" + jitter;
+        try
+        {
+            while (!k.ended && k.time < watchdog)
+            {
+                if (k.time >= next)
+                {
+                    if (autopilot) { policy.Step(); next = k.time + AutoPlayPolicy.TapInterval; }
+                    else if (step < layout.solution.Length)
+                    {
+                        var crate = k.VisibleCrates.FirstOrDefault(c => c.id == layout.solution[step]);
+                        if (crate != null && k.stations[StationType.Board].state == StationState.Idle && k.CanPlace(crate.ing) && k.Tap(crate.id))
+                        { step++; next = k.time + LevelGen.TapSeconds; }
+                    }
+                }
+                // Include long frames and screenshot/file-write delays, with the same policy still running.
+                k.Update(jitter && ++frames % 97 == 0 ? 0.2f : dt);
+                foreach (var ev in k.events)
+                {
+                    if (ev.type == EvType.Deliver) Require(sent.Add(ev.order), "duplicate delivery");
+                    if (ev.type == EvType.Delivered) Require(delivered.Add(ev.order), "duplicate completion");
+                    if (ev.type == EvType.Win) { wins++; Cleared(k); }
+                }
+                if (delivered.Count == level.customers.Sum(c => c.Length)) Require(k.won && wins == 1, "Win must fire on final delivery");
+                k.events.Clear();
+                if (autopilot) Require(policy.Failure(k.time) == null, policy.Failure(k.time));
+            }
+            Require(k.won && wins == 1, "did not win");
+            Require(sent.Count == level.customers.Sum(c => c.Length) && delivered.SetEquals(sent), "missing delivery");
+            Require(k.customers.All(c => c.finished && c.orders.All(o => o.done)) && k.served == k.TotalServedTarget, "unfinished guests");
+            Require(autopilot || step == layout.solution.Length, "incomplete witness");
+            Cleared(k);
+            k.Update(100);
+            Require(k.events.Count == 0, "ended model emitted more events");
+            runs++;
+            return k.time;
+        }
+        catch (Exception e) { throw new Exception(context + " step=" + step + " | " + AutoPlayPolicy.Describe(k), e); }
+    }
+
+    static void Cleared(Kitchen k)
+    {
+        Require(k.slots.All(s => s.state == SlotState.Empty && s.key == null && s.order == null && s.items.Count == 0 && !s.uncut), "plate leftovers");
+        Require(k.stations.Values.All(s => s.state == StationState.Idle && s.dish == null && s.order == null), "station leftovers");
+        Require(k.columns.All(c => c.visible.Count == 0 && c.hidden.Count == 0), "pantry leftovers");
+    }
+
+    static void FailureChecks()
+    {
+        var level = new LevelDef { number = 37, customers = new[] { new[] { "com_kimchi" } }, vip = new[] { true }, vipPatience = 1 };
+        var k = new Kitchen(level, new LevelLayout { columns = Enumerable.Range(0, 4).Select(_ => new Column()).ToArray() });
+        k.columns[0].visible.Add(new Crate { id = 0, ing = "com", count = 1 });
+        k.Start();
+        var policy = new AutoPlayPolicy(k, 0);
+        Require(policy.Failure(0) == null, "premature stall");
+        k.paused = true;
+        Require(policy.Failure(13).Contains("stalled"), "paused-game stall must be detected using wall time");
+        k.paused = false;
+        k.Update(0.3f); k.Update(1.1f);
+        Require(policy.Failure(14).Contains("vip") && AutoPlayPolicy.Describe(k).Contains("L37"), "VIP loss diagnostics");
+        Require(!policy.Step(), "policy moved after loss");
+        level.vip = new[] { false };
+        k = new Kitchen(level, new LevelLayout { columns = Enumerable.Range(0, 4).Select(_ => new Column()).ToArray() });
+        k.Start(); policy = new AutoPlayPolicy(k, 0);
+        for (int n = 0; n < 40 && !k.ended; n++) k.Update(0.1f);
+        Require(policy.Failure(4).Contains("empty"), "empty-stock diagnostics");
+        Console.WriteLine("PASS loss/stall diagnostics");
+    }
+
+    static void ChapterChecks()
+    {
+        for (int level = 1; level <= 50; level++)
+        {
+            var chapter = Chapters.ForLevel(level);
+            Require(chapter.index == (level - 1) / 5 + 1, "chapter mapping " + level);
+            Require(Chapters.BackgroundPath(GameData.Levels[level - 1]) == chapter.DayBackground + (Chapters.IsNight(GameData.Levels[level - 1]) ? "_night" : ""), "background path");
+        }
+        foreach (int level in new[] { 9, 37 }) Require(Chapters.IsNight(GameData.Levels[level - 1]), "missing night " + level);
+        Require(Chapters.ForLevel(6).placeId == "sindang", "p05 next destination");
+        foreach (var chapter in Chapters.Entries)
+        {
+            var photo = Album.ForLevel(chapter.LastLevel);
+            Require(photo.id == chapter.AlbumId && photo.title == chapter.Title && photo.country == chapter.CountryCode && photo.dish == chapter.dish, "photo must depict the completed chapter");
+        }
+        foreach (int level in new[] { 6, 11, 16, 21, 26, 31, 36, 41, 46, 9, 37 })
+        {
+            var def = GameData.Levels[level - 1]; var chapter = Chapters.ForLevel(level);
+            Resources.Assets.Clear(); ClearArt();
+            Require(Chapters.WindowBackground(def) == null, "missing backgrounds must keep original shop scene");
+            var day = new Sprite(); Resources.Assets[chapter.DayBackground] = day; ClearArt();
+            Require(Chapters.WindowBackground(def) == day, "missing night must fall back to chapter day");
+            if (Chapters.IsNight(def))
+            {
+                var night = new Sprite(); Resources.Assets[chapter.NightBackground] = night; ClearArt();
+                Require(Chapters.WindowBackground(def) == night, "night must beat day art");
+            }
+        }
+        Resources.Assets.Clear(); ClearArt();
+        Require(Chapters.WindowBackground(null) == null, "null background");
+        foreach (int invalid in new[] { 0, 51 })
+        {
+            bool rejected = false;
+            try { Chapters.ForLevel(invalid); } catch (ArgumentOutOfRangeException) { rejected = true; }
+            Require(rejected, "invalid chapter level");
+        }
+        int writes = PlayerPrefs.Writes;
+        using (Album.QaPreview(5, 10))
+        {
+            Require(Album.UnlockedCount == 2 && Album.IsUnlocked(Album.ForLevel(5)), "album preview unlocks");
+            using (Album.QaPreview(50)) Require(Album.UnlockedCount == 1 && Album.IsUnlocked(Album.ForLevel(50)), "nested preview");
+            Require(Album.UnlockedCount == 2, "preview restoration");
+            Album.Collect(5); Album.MarkSeen(Album.ForLevel(5)); Album.Reset();
+        }
+        Require(Album.UnlockedCount == 0 && PlayerPrefs.Writes == writes, "QA preview modified save or leaked unlocks");
+        Console.WriteLine("PASS chapter ranges, completed-chapter photos, night/day/legacy fallback, album QA restoration/no save writes");
+    }
+
+    static void ClearArt() => ((Dictionary<string, Sprite>)typeof(Art).GetField("cache", BindingFlags.NonPublic | BindingFlags.Static).GetValue(null)).Clear();
+}

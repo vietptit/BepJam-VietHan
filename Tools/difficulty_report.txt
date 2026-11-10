@@ -1,0 +1,56 @@
+BepJam difficulty: 200 uniform random stable-state playouts per candidate; no boosters.
+No level time limit. Careless-fail measures plate/stuck planning; VIP patience is checked by real Kitchen replay.
+Every selected layout has a six-plate DFS proof and a booster-free Kitchen replay including VIPs.
+Pantry: four columns, min(16, stock) visible crates; balanced column lengths (difference <= 2).
+Days 5-9 may be up to 10 percentage points below their unchanged target band; shortfalls are reported.
+day 01: dishes=1, parts=2, visible=2, hidden=0, hiddenPerColumn max=0, careless-fail=0.0%, target=0-5%, seed=-1, gen=0.2ms
+day 02: dishes=2, parts=4, visible=4, hidden=0, hiddenPerColumn max=0, careless-fail=0.0%, target=0-5%, seed=-1, gen=0.1ms
+day 03: dishes=3, parts=6, visible=6, hidden=0, hiddenPerColumn max=0, careless-fail=0.0%, target=0-5%, seed=-1, gen=0.1ms
+day 04: dishes=3, parts=6, visible=6, hidden=0, hiddenPerColumn max=0, careless-fail=0.0%, target=0-5%, seed=-1, gen=0.1ms
+day 05: dishes=5, parts=10, visible=10, hidden=0, hiddenPerColumn max=0, careless-fail=14.0% (below target by 1.0pp; allowed early shortfall), target=15-35%, seed=-1, gen=0.2ms
+day 06: dishes=5, parts=10, visible=10, hidden=0, hiddenPerColumn max=0, careless-fail=12.5% (below target by 2.5pp; allowed early shortfall), target=15-35%, seed=-1, gen=0.3ms
+day 07: dishes=6, parts=12, visible=12, hidden=0, hiddenPerColumn max=0, careless-fail=31.0%, target=15-35%, seed=-1, gen=0.3ms
+day 08: dishes=6, parts=12, visible=12, hidden=0, hiddenPerColumn max=0, careless-fail=23.0%, target=15-35%, seed=-1, gen=0.3ms
+day 09: dishes=6, parts=12, visible=12, hidden=0, hiddenPerColumn max=0, careless-fail=25.5%, target=15-35%, seed=-1, gen=0.3ms
+day 10: dishes=7, parts=21, visible=16, hidden=5, hiddenPerColumn max=2, careless-fail=42.5%, target=40-70%, seed=317051, gen=24.3ms
+day 11: dishes=7, parts=21, visible=16, hidden=5, hiddenPerColumn max=2, careless-fail=44.5%, target=40-70%, seed=348013, gen=6.5ms
+day 12: dishes=8, parts=22, visible=16, hidden=6, hiddenPerColumn max=2, careless-fail=45.5%, target=40-70%, seed=379003, gen=2.5ms
+day 13: dishes=8, parts=22, visible=16, hidden=6, hiddenPerColumn max=2, careless-fail=46.5%, target=40-70%, seed=410002, gen=2.1ms
+day 14: dishes=7, parts=21, visible=16, hidden=5, hiddenPerColumn max=2, careless-fail=48.0%, target=40-70%, seed=441001, gen=1.7ms
+day 15: dishes=7, parts=21, visible=16, hidden=5, hiddenPerColumn max=2, careless-fail=51.5%, target=40-70%, seed=472002, gen=2.3ms
+day 16: dishes=7, parts=21, visible=16, hidden=5, hiddenPerColumn max=2, careless-fail=52.0%, target=40-70%, seed=503015, gen=7.5ms
+day 17: dishes=7, parts=21, visible=16, hidden=5, hiddenPerColumn max=2, careless-fail=54.0%, target=40-70%, seed=534008, gen=4.5ms
+day 18: dishes=8, parts=24, visible=16, hidden=8, hiddenPerColumn max=2, careless-fail=56.5%, target=40-70%, seed=565005, gen=4.4ms
+day 19: dishes=8, parts=24, visible=16, hidden=8, hiddenPerColumn max=2, careless-fail=57.5%, target=40-70%, seed=596001, gen=1.8ms
+day 20 BOSS: dishes=10, parts=30, visible=16, hidden=14, hiddenPerColumn max=4, careless-fail=90.5%, target=85-100%, seed=627147, gen=68.1ms
+day 21: dishes=8, parts=24, visible=16, hidden=8, hiddenPerColumn max=2, careless-fail=60.5%, target=40-70%, seed=-1, gen=0.6ms
+day 22: dishes=8, parts=24, visible=16, hidden=8, hiddenPerColumn max=2, careless-fail=62.0%, target=40-70%, seed=689009, gen=6.6ms
+day 23: dishes=8, parts=24, visible=16, hidden=8, hiddenPerColumn max=2, careless-fail=64.0%, target=40-70%, seed=720012, gen=8.5ms
+day 24: dishes=10, parts=24, visible=16, hidden=8, hiddenPerColumn max=2, careless-fail=52.0%, target=40-70%, seed=751126, gen=138.0ms
+day 25: dishes=10, parts=24, visible=16, hidden=8, hiddenPerColumn max=2, careless-fail=53.5%, target=40-70%, seed=782122, gen=138.8ms
+day 26: dishes=8, parts=24, visible=16, hidden=8, hiddenPerColumn max=2, careless-fail=81.0%, target=70-90%, seed=813111, gen=138.1ms
+day 27: dishes=8, parts=24, visible=16, hidden=8, hiddenPerColumn max=2, careless-fail=84.5%, target=70-90%, seed=844145, gen=138.3ms
+day 28: dishes=7, parts=24, visible=16, hidden=8, hiddenPerColumn max=2, careless-fail=76.0%, target=70-90%, seed=875042, gen=127.3ms
+day 29: dishes=7, parts=24, visible=16, hidden=8, hiddenPerColumn max=2, careless-fail=77.0%, target=70-90%, seed=906084, gen=114.1ms
+day 30 BOSS: dishes=8, parts=28, visible=16, hidden=12, hiddenPerColumn max=3, careless-fail=90.0%, target=85-100%, seed=-1, gen=0.5ms
+day 31: dishes=7, parts=24, visible=16, hidden=8, hiddenPerColumn max=2, careless-fail=77.0%, target=70-90%, seed=968118, gen=60.7ms
+day 32: dishes=6, parts=20, visible=16, hidden=4, hiddenPerColumn max=1, careless-fail=78.0%, target=70-90%, seed=999207, gen=84.9ms
+day 33: dishes=6, parts=20, visible=16, hidden=4, hiddenPerColumn max=1, careless-fail=78.5%, target=70-90%, seed=1030013, gen=7.1ms
+day 34: dishes=6, parts=20, visible=16, hidden=4, hiddenPerColumn max=1, careless-fail=79.5%, target=70-90%, seed=1061003, gen=2.6ms
+day 35: dishes=6, parts=20, visible=16, hidden=4, hiddenPerColumn max=1, careless-fail=80.5%, target=70-90%, seed=1092001, gen=1.5ms
+day 36: dishes=8, parts=24, visible=16, hidden=8, hiddenPerColumn max=2, careless-fail=81.0%, target=70-90%, seed=-1, gen=0.5ms
+day 37: dishes=8, parts=24, visible=16, hidden=8, hiddenPerColumn max=2, careless-fail=81.0%, target=70-90%, seed=1154000, gen=1.0ms
+day 38: dishes=6, parts=20, visible=16, hidden=4, hiddenPerColumn max=1, careless-fail=83.0%, target=70-90%, seed=1185008, gen=4.9ms
+day 39: dishes=6, parts=20, visible=16, hidden=4, hiddenPerColumn max=1, careless-fail=83.0%, target=70-90%, seed=1216003, gen=2.5ms
+day 40 BOSS: dishes=10, parts=34, visible=16, hidden=18, hiddenPerColumn max=5, careless-fail=97.0%, target=85-100%, seed=1247109, gen=138.1ms
+day 41: dishes=7, parts=23, visible=16, hidden=7, hiddenPerColumn max=2, careless-fail=84.5%, target=70-90%, seed=1278010, gen=6.5ms
+day 42: dishes=10, parts=28, visible=16, hidden=12, hiddenPerColumn max=3, careless-fail=85.5%, target=70-90%, seed=1309006, gen=3.8ms
+day 43: dishes=10, parts=28, visible=16, hidden=12, hiddenPerColumn max=3, careless-fail=87.0%, target=70-90%, seed=1340000, gen=1.1ms
+day 44: dishes=7, parts=23, visible=16, hidden=7, hiddenPerColumn max=2, careless-fail=88.0%, target=70-90%, seed=1371003, gen=2.7ms
+day 45: dishes=7, parts=23, visible=16, hidden=7, hiddenPerColumn max=2, careless-fail=87.5%, target=70-90%, seed=1402000, gen=1.0ms
+day 46: dishes=10, parts=28, visible=16, hidden=12, hiddenPerColumn max=3, careless-fail=87.0%, target=70-90%, seed=1433000, gen=1.2ms
+day 47: dishes=10, parts=28, visible=16, hidden=12, hiddenPerColumn max=3, careless-fail=89.0%, target=70-90%, seed=-1, gen=0.6ms
+day 48: dishes=10, parts=28, visible=16, hidden=12, hiddenPerColumn max=3, careless-fail=87.5%, target=70-90%, seed=1495004, gen=4.4ms
+day 49: dishes=10, parts=28, visible=16, hidden=12, hiddenPerColumn max=3, careless-fail=88.5%, target=70-90%, seed=1526002, gen=2.2ms
+day 50 BOSS: dishes=11, parts=32, visible=16, hidden=16, hiddenPerColumn max=4, careless-fail=90.0%, target=85-100%, seed=1557003, gen=3.6ms
+Summary: 50 proven levels; 48 in target band; 2 allowed early shortfalls; 0 outside allowance; max generation=138.8ms.

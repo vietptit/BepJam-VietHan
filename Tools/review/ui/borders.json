@@ -1,0 +1,244 @@
+{
+  "border_order": [
+    "L",
+    "B",
+    "R",
+    "T"
+  ],
+  "units": "final PNG pixels; bottom-left sprite convention",
+  "seed": 271828,
+  "drawing_scale": 3,
+  "notes": [
+    "Nine-slice centres are opaque flat colour; texture is in the border zones.",
+    "Uniform assets use zero slice borders; preserve their aspect ratio.",
+    "Round buttons have safe 88px slice borders; prefer uniform scaling to preserve circles.",
+    "Overlap each downward speech pointer's top by 3px with its matching box.",
+    "Lanczos filtering has a 3px support radius next to a border boundary.",
+    "Sprites contain no text; ui_preview.png is a labelled contact sheet."
+  ],
+  "sprites": {
+    "paper_panel.png": {
+      "size": [
+        512,
+        512
+      ],
+      "border": [
+        90,
+        90,
+        90,
+        90
+      ],
+      "scale_mode": "nine_slice"
+    },
+    "paper_tag.png": {
+      "size": [
+        512,
+        160
+      ],
+      "border": [
+        90,
+        50,
+        90,
+        50
+      ],
+      "scale_mode": "nine_slice"
+    },
+    "hud_bar.png": {
+      "size": [
+        512,
+        128
+      ],
+      "border": [
+        70,
+        34,
+        70,
+        34
+      ],
+      "scale_mode": "nine_slice"
+    },
+    "btn_red.png": {
+      "size": [
+        384,
+        144
+      ],
+      "border": [
+        56,
+        56,
+        56,
+        56
+      ],
+      "scale_mode": "nine_slice"
+    },
+    "btn_teal.png": {
+      "size": [
+        384,
+        144
+      ],
+      "border": [
+        56,
+        56,
+        56,
+        56
+      ],
+      "scale_mode": "nine_slice"
+    },
+    "btn_mustard.png": {
+      "size": [
+        384,
+        144
+      ],
+      "border": [
+        56,
+        56,
+        56,
+        56
+      ],
+      "scale_mode": "nine_slice"
+    },
+    "btn_plum.png": {
+      "size": [
+        384,
+        144
+      ],
+      "border": [
+        56,
+        56,
+        56,
+        56
+      ],
+      "scale_mode": "nine_slice"
+    },
+    "btn_round_cream.png": {
+      "size": [
+        192,
+        192
+      ],
+      "border": [
+        88,
+        88,
+        88,
+        88
+      ],
+      "scale_mode": "nine_slice",
+      "preferred_scale_mode": "uniform"
+    },
+    "btn_round_red.png": {
+      "size": [
+        192,
+        192
+      ],
+      "border": [
+        88,
+        88,
+        88,
+        88
+      ],
+      "scale_mode": "nine_slice",
+      "preferred_scale_mode": "uniform"
+    },
+    "speech_pink.png": {
+      "size": [
+        384,
+        192
+      ],
+      "border": [
+        48,
+        48,
+        48,
+        48
+      ],
+      "scale_mode": "nine_slice"
+    },
+    "speech_pointer_pink.png": {
+      "size": [
+        64,
+        48
+      ],
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "scale_mode": "uniform"
+    },
+    "speech_cream.png": {
+      "size": [
+        384,
+        192
+      ],
+      "border": [
+        48,
+        48,
+        48,
+        48
+      ],
+      "scale_mode": "nine_slice"
+    },
+    "speech_pointer_cream.png": {
+      "size": [
+        64,
+        48
+      ],
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "scale_mode": "uniform"
+    },
+    "badge_red.png": {
+      "size": [
+        96,
+        96
+      ],
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "scale_mode": "uniform"
+    },
+    "level_card.png": {
+      "size": [
+        256,
+        256
+      ],
+      "border": [
+        60,
+        60,
+        60,
+        60
+      ],
+      "scale_mode": "nine_slice"
+    },
+    "level_card_locked.png": {
+      "size": [
+        256,
+        256
+      ],
+      "border": [
+        60,
+        60,
+        60,
+        60
+      ],
+      "scale_mode": "nine_slice"
+    },
+    "ribbon_stamp.png": {
+      "size": [
+        256,
+        256
+      ],
+      "border": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "scale_mode": "uniform"
+    }
+  }
+}

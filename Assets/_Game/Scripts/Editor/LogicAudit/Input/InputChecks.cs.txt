@@ -1,0 +1,44 @@
+using System;
+using System.Reflection;
+using BepJam;
+using UnityEngine;
+using UnityEngine.EventSystems;
+
+static class InputChecks
+{
+    static void Require(bool ok, string reason) { if (!ok) throw new Exception(reason); }
+    static void Main()
+    {
+        var button = new JuicyButton(); int clicks = 0;
+        button.onClick = () => clicks++;
+        var pointer = new PointerEventData(EventSystem.current);
+        // Reproduce the failed QA input exactly: no press, no eligibleForClick.
+        ExecuteEvents.Execute(button.transform.gameObject, pointer, ExecuteEvents.pointerClickHandler);
+        Require(clicks == 0, "Bare QA click should reproduce the ignored culture button");
+        button.OnPointerDown(pointer); button.OnPointerUp(pointer); button.OnPointerClick(pointer);
+        Require(clicks == 0, "Unity click eligibility must still be required");
+        var click = typeof(AutoPilot).GetMethod("Click", BindingFlags.Static | BindingFlags.NonPublic);
+        foreach (string name in new[] { "Tuyệt!", "Tiếp tục", "Album", "Công thức" })
+        {
+            int before = clicks;
+            click.Invoke(null, new object[] { button.transform, null });
+            Require(clicks == before + 1, "Real QA helper did not activate " + name);
+        }
+        pointer.eligibleForClick = true;
+        button.OnPointerClick(pointer);
+        Require(clicks == 4, "Duplicate click must not re-use an armed tap");
+        button.interactable = false;
+        click.Invoke(null, new object[] { button.transform, null });
+        Require(clicks == 4, "QA helper activated a disabled button");
+        button.interactable = true;
+        pointer.pointerId = 7; pointer.position = new Vector2(50, 60); pointer.eligibleForClick = false;
+        click.Invoke(null, new object[] { button.transform, pointer });
+        Require(clicks == 5, "Supplied raycast pointer was not armed");
+        pointer.position = new Vector2(0, 0);
+        button.OnPointerDown(pointer);
+        pointer.position = new Vector2(30, 0);
+        button.OnPointerUp(pointer); button.OnPointerClick(pointer);
+        Require(clicks == 5, "Dragged taps must remain cancelled");
+        Console.WriteLine("PASS actual JuicyButton + AutoPilot.Click: reproduced bare-click failure; culture/home/book presses, supplied pointer, duplicate/disabled/drag checks passed.");
+    }
+}

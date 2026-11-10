@@ -1,0 +1,113 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "pages": {
+      "48409565": {
+        "pageid": 48409565,
+        "ns": 6,
+        "title": "File:Trong động Tam Thanh.jpg",
+        "index": 1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 8254377,
+            "width": 3543,
+            "height": 2362,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Trong_%C4%91%E1%BB%99ng_Tam_Thanh.jpg/1280px-Trong_%C4%91%E1%BB%99ng_Tam_Thanh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1024,
+            "thumbheight": 683,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Trong_%C4%91%E1%BB%99ng_Tam_Thanh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Trong_%C4%91%E1%BB%99ng_Tam_Thanh.jpg/1280px-Trong_%C4%91%E1%BB%99ng_Tam_Thanh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1024,
+              "height": 683,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Trong_%C4%91%E1%BB%99ng_Tam_Thanh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Trong_%C4%91%E1%BB%99ng_Tam_Thanh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Trong_%C4%91%E1%BB%99ng_Tam_Thanh.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=48409565",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2016-04-27 20:55:17",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Trong động Tam Thanh",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Caves in Vietnam|Tourism in Vietnam|Lạng Sơn City|Self-published work|Pictures by Bùi Thụy Đào Nguyên 6",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Trong động Tam Thanh thuộc địa phận phường Tam Thanh Thành phố Lạng Sơn, tỉnh Lạng Sơn, Việt Nam.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2016-04-18 08:07:33",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:B%C3%B9i_Th%E1%BB%A5y_%C4%90%C3%A0o_Nguy%C3%AAn\" title=\"User:Bùi Thụy Đào Nguyên\">Bùi Thụy Đào Nguyên</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

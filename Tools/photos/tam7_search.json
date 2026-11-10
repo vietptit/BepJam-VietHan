@@ -1,0 +1,1032 @@
+{
+  "batchcomplete": "",
+  "continue": {
+    "gsroffset": 10,
+    "continue": "gsroffset||"
+  },
+  "query": {
+    "pages": {
+      "85896102": {
+        "pageid": 85896102,
+        "ns": 6,
+        "title": "File:Administration map of Tam Ky City, Quangnam Province.jpg",
+        "index": 1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4326303,
+            "width": 2481,
+            "height": 3509,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Administration_map_of_Tam_Ky_City%2C_Quangnam_Province.jpg/1280px-Administration_map_of_Tam_Ky_City%2C_Quangnam_Province.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1024,
+            "thumbheight": 1448,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/3/36/Administration_map_of_Tam_Ky_City%2C_Quangnam_Province.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Administration_map_of_Tam_Ky_City%2C_Quangnam_Province.jpg/1280px-Administration_map_of_Tam_Ky_City%2C_Quangnam_Province.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1024,
+              "height": 1448,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/3/36/Administration_map_of_Tam_Ky_City%2C_Quangnam_Province.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Administration_map_of_Tam_Ky_City%2C_Quangnam_Province.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Administration_map_of_Tam_Ky_City,_Quangnam_Province.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=85896102",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2020-01-14 14:20:13",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Administration map of Tam Ky City, Quangnam Province",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Tam Ky|Self-published work|Maps of Quang Nam",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Administration map of Tam Ky City",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2020-01-14",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Viet_Trinh_Quoc&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Viet Trinh Quoc (page does not exist)\">Viet Trinh Quoc</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "740300": {
+        "pageid": 740300,
+        "ns": 6,
+        "title": "File:Americal Division in Tam Ky - March 1968.jpg",
+        "index": 5,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 502224,
+            "width": 1244,
+            "height": 1124,
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Americal_Division_in_Tam_Ky_-_March_1968.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 1024,
+            "thumbheight": 925,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Americal_Division_in_Tam_Ky_-_March_1968.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1024,
+              "height": 925
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Americal_Division_in_Tam_Ky_-_March_1968.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Americal_Division_in_Tam_Ky_-_March_1968.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=740300",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2006-04-29 07:27:49",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Americal Division in Tam Ky - March 1968",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "PD US Army|Files with no machine-readable author|Files with no machine-readable source|Tam Ky|Media missing infobox template|Vietnam War in March 1968|Quảng Tín province|M113 armored personnel carriers in United States service|23rd Infantry Division (United States) in the Vietnam War",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "740352": {
+        "pageid": 740352,
+        "ns": 6,
+        "title": "File:Americal Division in Tam Ky - March 1968a.jpg",
+        "index": 7,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 382764,
+            "width": 1433,
+            "height": 937,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Americal_Division_in_Tam_Ky_-_March_1968a.jpg/1280px-Americal_Division_in_Tam_Ky_-_March_1968a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1024,
+            "thumbheight": 670,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Americal_Division_in_Tam_Ky_-_March_1968a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Americal_Division_in_Tam_Ky_-_March_1968a.jpg/1280px-Americal_Division_in_Tam_Ky_-_March_1968a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1024,
+              "height": 670,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Americal_Division_in_Tam_Ky_-_March_1968a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Americal_Division_in_Tam_Ky_-_March_1968a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Americal_Division_in_Tam_Ky_-_March_1968a.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=740352",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2006-04-29 07:36:31",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Americal Division in Tam Ky - March 1968a",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "PD US Army|Files with no machine-readable author|Files with no machine-readable source|Tam Ky|Media missing infobox template|Vietnam War in March 1968|M113 Armored Cavalry Assault Vehicle|23rd Infantry Division (United States) in the Vietnam War",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "13280046": {
+        "pageid": 13280046,
+        "ns": 6,
+        "title": "File:Ga Tam Ky.JPG",
+        "index": 9,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1077097,
+            "width": 2048,
+            "height": 1536,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Ga_Tam_Ky.JPG/1280px-Ga_Tam_Ky.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1024,
+            "thumbheight": 768,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Ga_Tam_Ky.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Ga_Tam_Ky.JPG/1280px-Ga_Tam_Ky.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1024,
+              "height": 768,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Ga_Tam_Ky.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Ga_Tam_Ky.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ga_Tam_Ky.JPG",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=13280046",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2011-02-12 14:23:33",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Ga Tam Ky",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with iPhone 3GS|Tam Ky Station|Self-published work|Photos of Vietnam by Dragfyre|Files with coordinates missing SDC location of creation",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "15.599000",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "108.460833",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Tam Ky Railway Station, Tam Ky, Quang Nam Province, Vietnam.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2011-02-12",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Dragfyre\" title=\"User:Dragfyre\">Dragfyre</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "152824904": {
+        "pageid": 152824904,
+        "ns": 6,
+        "title": "File:Luong-Tam-Ky, né en 1850, mort en 1924 (cropped).jpg",
+        "index": 8,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 714751,
+            "width": 1068,
+            "height": 1758,
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Luong-Tam-Ky%2C_n%C3%A9_en_1850%2C_mort_en_1924_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 1024,
+            "thumbheight": 1686,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Luong-Tam-Ky%2C_n%C3%A9_en_1850%2C_mort_en_1924_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1024,
+              "height": 1686
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Luong-Tam-Ky%2C_n%C3%A9_en_1850%2C_mort_en_1924_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Luong-Tam-Ky,_n%C3%A9_en_1850,_mort_en_1924_(cropped).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=152824904",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-09-18 17:29:51",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Luong-Tam-Ky, né en 1850, mort en 1924 (cropped)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Portraits of men of China|Extracted images|PD France|Files from Gallica|Portraits of men of Vietnam|Lương Tam Kỳ",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Luong-Tam-Ky, né en 1850, mort en 1924",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "Published in <a href=\"https://en.wikipedia.org/wiki/en:1934\" class=\"extiw\" title=\"w:en:1934\"><span title=\"year\">1934</span></a>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "This file comes from <a rel=\"nofollow\" class=\"external text\" href=\"https://gallica.bnf.fr/\">Gallica Digital Library</a> and is available under the digital ID <a rel=\"nofollow\" class=\"external text\" href=\"https://gallica.bnf.fr/ark:/12148/bpt6k5844315r/f88\">bpt6k5844315r/f88</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Gouvernement général de l'Indo-Chine",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "163761446": {
+        "pageid": 163761446,
+        "ns": 6,
+        "title": "File:Map by the US Army Map Service - Tam Ky - - vietnam - tam ky-6640-2.pdf",
+        "index": 3,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 7559204,
+            "width": 3418,
+            "height": 4406,
+            "pagecount": 1,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Map_by_the_US_Army_Map_Service_-_Tam_Ky_-_-_vietnam_-_tam_ky-6640-2.pdf/page1-1280px-Map_by_the_US_Army_Map_Service_-_Tam_Ky_-_-_vietnam_-_tam_ky-6640-2.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1024,
+            "thumbheight": 1320,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Map_by_the_US_Army_Map_Service_-_Tam_Ky_-_-_vietnam_-_tam_ky-6640-2.pdf/page1-1920px-Map_by_the_US_Army_Map_Service_-_Tam_Ky_-_-_vietnam_-_tam_ky-6640-2.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Map_by_the_US_Army_Map_Service_-_Tam_Ky_-_-_vietnam_-_tam_ky-6640-2.pdf/page1-1280px-Map_by_the_US_Army_Map_Service_-_Tam_Ky_-_-_vietnam_-_tam_ky-6640-2.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1024,
+              "height": 1320,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Map_by_the_US_Army_Map_Service_-_Tam_Ky_-_-_vietnam_-_tam_ky-6640-2.pdf/page1-1920px-Map_by_the_US_Army_Map_Service_-_Tam_Ky_-_-_vietnam_-_tam_ky-6640-2.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Map_by_the_US_Army_Map_Service_-_Tam_Ky_-_-_vietnam_-_tam_ky-6640-2.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Map_by_the_US_Army_Map_Service_-_Tam_Ky_-_-_vietnam_-_tam_ky-6640-2.pdf",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=163761446",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2025-04-18 16:22:50",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Map by the US Army Map Service - Tam Ky - - vietnam - tam ky-6640-2",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "PD US Military|Maps in the Perry-Castañeda Library|Uploaded with OpenRefine|Maps by the United States Army Map Service to review|Media needing category review as of 18 April 2025|Maps by the United States Army Map Service Series L7014",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Tam Ky - (topographic) Sheet 6640-2, 1:50,000 U.S. Army Map Service (7.2MB) [GeoPDF] - Vietnam, Series L7014, 1:50,000, U.S. Army Map Service",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://maps.lib.utexas.edu/maps/topo/vietnam/\">https://maps.lib.utexas.edu/maps/topo/vietnam/</a> <a rel=\"nofollow\" class=\"external autonumber\" href=\"https://maps.lib.utexas.edu/maps/topo/vietnam/tam_ky-6640-2.pdf\">[1]</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Army_Map_Service\" class=\"extiw\" title=\"w:en:Army Map Service\"><span title=\"cartographic service of US Army\">United States Army Map Service</span></a></bdi>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "163761450": {
+        "pageid": 163761450,
+        "ns": 6,
+        "title": "File:Map by the US Army Map Service - Tam Ky - - vietnam - tam ky-6740-3.pdf",
+        "index": 2,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 6794202,
+            "width": 3389,
+            "height": 4339,
+            "pagecount": 1,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Map_by_the_US_Army_Map_Service_-_Tam_Ky_-_-_vietnam_-_tam_ky-6740-3.pdf/page1-1280px-Map_by_the_US_Army_Map_Service_-_Tam_Ky_-_-_vietnam_-_tam_ky-6740-3.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1024,
+            "thumbheight": 1311,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Map_by_the_US_Army_Map_Service_-_Tam_Ky_-_-_vietnam_-_tam_ky-6740-3.pdf/page1-1920px-Map_by_the_US_Army_Map_Service_-_Tam_Ky_-_-_vietnam_-_tam_ky-6740-3.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Map_by_the_US_Army_Map_Service_-_Tam_Ky_-_-_vietnam_-_tam_ky-6740-3.pdf/page1-1280px-Map_by_the_US_Army_Map_Service_-_Tam_Ky_-_-_vietnam_-_tam_ky-6740-3.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1024,
+              "height": 1311,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Map_by_the_US_Army_Map_Service_-_Tam_Ky_-_-_vietnam_-_tam_ky-6740-3.pdf/page1-1920px-Map_by_the_US_Army_Map_Service_-_Tam_Ky_-_-_vietnam_-_tam_ky-6740-3.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Map_by_the_US_Army_Map_Service_-_Tam_Ky_-_-_vietnam_-_tam_ky-6740-3.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Map_by_the_US_Army_Map_Service_-_Tam_Ky_-_-_vietnam_-_tam_ky-6740-3.pdf",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=163761450",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2025-04-18 16:22:57",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Map by the US Army Map Service - Tam Ky - - vietnam - tam ky-6740-3",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "PD US Military|Maps in the Perry-Castañeda Library|Uploaded with OpenRefine|Maps by the United States Army Map Service to review|Media needing category review as of 18 April 2025|Maps by the United States Army Map Service Series L7014",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Tam Ky - (topographic) Sheet 6740-3, 1:50,000 U.S. Army Map Service (6.5MB) [GeoPDF] - Vietnam, Series L7014, 1:50,000, U.S. Army Map Service",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://maps.lib.utexas.edu/maps/topo/vietnam/\">https://maps.lib.utexas.edu/maps/topo/vietnam/</a> <a rel=\"nofollow\" class=\"external autonumber\" href=\"https://maps.lib.utexas.edu/maps/topo/vietnam/tam_ky-6740-3.pdf\">[1]</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Army_Map_Service\" class=\"extiw\" title=\"w:en:Army Map Service\"><span title=\"cartographic service of US Army\">United States Army Map Service</span></a></bdi>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "19260949": {
+        "pageid": 19260949,
+        "ns": 6,
+        "title": "File:Tam Ky.ogg",
+        "index": 4,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 24572,
+            "width": 0,
+            "height": 0,
+            "duration": 1.509297052154195,
+            "thumburl": "https://commons.wikimedia.org/w/resources/assets/file-type-icons/fileicon-ogg.png",
+            "thumbwidth": 1024,
+            "thumbheight": 1024,
+            "thumbattribs": [],
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Tam_Ky.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Tam_Ky.ogg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=19260949",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2012-04-29 18:31:50",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Tam Ky",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Vietnamese pronunciation|License migration completed|Tam Ky|GFDL-disclaimers|Self-published work",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "self audio",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2 August 2006 (original upload date)",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span><br>Transferred from <a class=\"external text\" data-mw-original-href=\"http://en.wikipedia.org\" href=\"https://en.wikipedia.org\">en.wikipedia</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"https://en.wikipedia.org/wiki/User:YellowMonkey\" class=\"extiw\" title=\"en:User:YellowMonkey\">YellowMonkey</a> at <a class=\"external text\" data-mw-original-href=\"http://en.wikipedia.org\" href=\"https://en.wikipedia.org\">en.wikipedia</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "<a href=\"https://en.wikipedia.org/wiki/User:YellowMonkey\" class=\"extiw\" title=\"en:User:YellowMonkey\">YellowMonkey</a> at <a class=\"external text\" data-mw-original-href=\"http://en.wikipedia.org\" href=\"https://en.wikipedia.org\">en.wikipedia</a>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/licenses/by-sa/3.0/",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "69584516": {
+        "pageid": 69584516,
+        "ns": 6,
+        "title": "File:Tam Ky railway station of Vietnam railway (Feb 21, 2018).jpg",
+        "index": 10,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3804968,
+            "width": 4409,
+            "height": 2274,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Tam_Ky_railway_station_of_Vietnam_railway_%28Feb_21%2C_2018%29.jpg/1280px-Tam_Ky_railway_station_of_Vietnam_railway_%28Feb_21%2C_2018%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1024,
+            "thumbheight": 528,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Tam_Ky_railway_station_of_Vietnam_railway_%28Feb_21%2C_2018%29.jpg/3840px-Tam_Ky_railway_station_of_Vietnam_railway_%28Feb_21%2C_2018%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Tam_Ky_railway_station_of_Vietnam_railway_%28Feb_21%2C_2018%29.jpg/1280px-Tam_Ky_railway_station_of_Vietnam_railway_%28Feb_21%2C_2018%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1024,
+              "height": 528,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Tam_Ky_railway_station_of_Vietnam_railway_%28Feb_21%2C_2018%29.jpg/3840px-Tam_Ky_railway_station_of_Vietnam_railway_%28Feb_21%2C_2018%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Tam_Ky_railway_station_of_Vietnam_railway_%28Feb_21%2C_2018%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Tam_Ky_railway_station_of_Vietnam_railway_(Feb_21,_2018).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=69584516",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2018-05-31 08:42:18",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Tam Ky railway station of Vietnam railway (Feb 21, 2018)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Huawei Honor V10|Tam Ky Station|Self-published work|Files with coordinates missing SDC location of creation|Train stations photographed in 2018|Vietnam photographs taken on 2018-02-21|Railway photographs taken on 2018-02-21",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "15.557205",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "108.483551",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "​越南铁路南北线三岐站。摄于2018年2月21日。",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "Taken on 21 February 2018, 11:40:18",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Yhxc57082&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Yhxc57082 (page does not exist)\">Yhxc57082</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "10858554": {
+        "pageid": 10858554,
+        "ns": 6,
+        "title": "File:Đường phố ở Tam Kỳ, Quảng Nam.JPG",
+        "index": 6,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2095893,
+            "width": 3264,
+            "height": 2448,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/%C4%90%C6%B0%E1%BB%9Dng_ph%E1%BB%91_%E1%BB%9F_Tam_K%E1%BB%B3%2C_Qu%E1%BA%A3ng_Nam.JPG/1280px-%C4%90%C6%B0%E1%BB%9Dng_ph%E1%BB%91_%E1%BB%9F_Tam_K%E1%BB%B3%2C_Qu%E1%BA%A3ng_Nam.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1024,
+            "thumbheight": 768,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/6/64/%C4%90%C6%B0%E1%BB%9Dng_ph%E1%BB%91_%E1%BB%9F_Tam_K%E1%BB%B3%2C_Qu%E1%BA%A3ng_Nam.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/%C4%90%C6%B0%E1%BB%9Dng_ph%E1%BB%91_%E1%BB%9F_Tam_K%E1%BB%B3%2C_Qu%E1%BA%A3ng_Nam.JPG/1280px-%C4%90%C6%B0%E1%BB%9Dng_ph%E1%BB%91_%E1%BB%9F_Tam_K%E1%BB%B3%2C_Qu%E1%BA%A3ng_Nam.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1024,
+              "height": 768,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/6/64/%C4%90%C6%B0%E1%BB%9Dng_ph%E1%BB%91_%E1%BB%9F_Tam_K%E1%BB%B3%2C_Qu%E1%BA%A3ng_Nam.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/%C4%90%C6%B0%E1%BB%9Dng_ph%E1%BB%91_%E1%BB%9F_Tam_K%E1%BB%B3%2C_Qu%E1%BA%A3ng_Nam.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:%C4%90%C6%B0%E1%BB%9Dng_ph%E1%BB%91_%E1%BB%9F_Tam_K%E1%BB%B3,_Qu%E1%BA%A3ng_Nam.JPG",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=10858554",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2010-07-11 09:36:59",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Đường phố ở Tam Kỳ, Quảng Nam",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "GFDL|Taken with Nikon Coolpix L19|CC-BY-SA-3.0,2.5,2.0,1.0|License migration redundant|Tam Ky|Self-published work|Images by Dongson.vmvn",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Tam Kỳ City, Quảng Nam Province",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "11 July 2010 (original upload date)",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<bdi lang=\"en\" dir=\"ltr\">Transferred from <span class=\"plainlinks\"><a class=\"external text\" data-mw-original-href=\"//vi.wikipedia.org\" href=\"https://vi.wikipedia.org\">vi.wikipedia</a></span> to Commons by <a href=\"//commons.wikimedia.org/wiki/User:Ph%C3%B3_Nh%C3%A1y\" title=\"User:Phó Nháy\">Phó Nháy</a> using <a href=\"https://iw.toolforge.org/commonshelper/\" class=\"extiw\" title=\"toollabs:commonshelper/\">CommonsHelper</a>.</bdi>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"https://en.wikipedia.org/wiki/vi:User:Nguy%E1%BB%85n_%C4%90%C3%B4ng_S%C6%A1n\" class=\"extiw\" title=\"w:vi:User:Nguyễn Đông Sơn\">Nguyễn Đông Sơn</a> at <a href=\"https://en.wikipedia.org/wiki/vi:\" class=\"extiw\" title=\"w:vi:\">Vietnamese Wikipedia</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "<a href=\"https://en.wikipedia.org/wiki/vi:User:Nguy%E1%BB%85n_%C4%90%C3%B4ng_S%C6%A1n\" class=\"extiw\" title=\"w:vi:User:Nguyễn Đông Sơn\">Nguyễn Đông Sơn</a> at <a href=\"https://en.wikipedia.org/wiki/vi:\" class=\"extiw\" title=\"w:vi:\">Vietnamese Wikipedia</a>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

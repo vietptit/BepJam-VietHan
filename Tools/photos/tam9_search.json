@@ -1,0 +1,1072 @@
+{
+  "batchcomplete": "",
+  "continue": {
+    "gsroffset": 10,
+    "continue": "gsroffset||"
+  },
+  "query": {
+    "pages": {
+      "17525313": {
+        "pageid": 17525313,
+        "ns": 6,
+        "title": "File:Cơm gà Tam Kỳ, Quảng Nam.JPG",
+        "index": 6,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2077367,
+            "width": 3264,
+            "height": 2448,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/C%C6%A1m_g%C3%A0_Tam_K%E1%BB%B3%2C_Qu%E1%BA%A3ng_Nam.JPG/1280px-C%C6%A1m_g%C3%A0_Tam_K%E1%BB%B3%2C_Qu%E1%BA%A3ng_Nam.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1024,
+            "thumbheight": 768,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/8/89/C%C6%A1m_g%C3%A0_Tam_K%E1%BB%B3%2C_Qu%E1%BA%A3ng_Nam.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/C%C6%A1m_g%C3%A0_Tam_K%E1%BB%B3%2C_Qu%E1%BA%A3ng_Nam.JPG/1280px-C%C6%A1m_g%C3%A0_Tam_K%E1%BB%B3%2C_Qu%E1%BA%A3ng_Nam.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1024,
+              "height": 768,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/8/89/C%C6%A1m_g%C3%A0_Tam_K%E1%BB%B3%2C_Qu%E1%BA%A3ng_Nam.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/C%C6%A1m_g%C3%A0_Tam_K%E1%BB%B3%2C_Qu%E1%BA%A3ng_Nam.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:C%C6%A1m_g%C3%A0_Tam_K%E1%BB%B3,_Qu%E1%BA%A3ng_Nam.JPG",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=17525313",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2011-11-29 22:12:10",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Cơm gà Tam Kỳ, Quảng Nam",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "GFDL|Taken with Nikon Coolpix L19|CC-BY-SA-3.0,2.5,2.0,1.0|License migration redundant|Tam Ky|Chicken dishes of Vietnam|Self-published work|Unknown date|Photographs taken on 2010-06-08|Rice-based dishes of Vietnam",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Chicken with rice dish in <a href=\"https://en.wikipedia.org/wiki/Tam_Ky\" class=\"extiw\" title=\"en:Tam Ky\">Tam Ky</a> (<a href=\"https://en.wikipedia.org/wiki/Quang_Nam_province\" class=\"extiw\" title=\"en:Quang Nam province\">Quang Nam province</a>)",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "Unknown date (8 June 2010 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data), 11 July 2010 (original upload date))",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "Transferred from <a class=\"external text\" data-mw-original-href=\"http://vi.wikipedia.org\" href=\"https://vi.wikipedia.org\">vi.wikipedia</a> to Commons.<br>Original source: \"Tôi sáng tạo ra toàn bộ tác phẩm\" → <span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"https://vi.wikipedia.org/wiki/Th%C3%A0nh_vi%C3%AAn:Nguy%E1%BB%85n_%C4%90%C3%B4ng_S%C6%A1n\" class=\"extiw\" title=\"vi:Thành viên:Nguyễn Đông Sơn\">Đông Sơn</a> (<a href=\"https://vi.wikipedia.org/wiki/Th%E1%BA%A3o_lu%E1%BA%ADn_Th%C3%A0nh_vi%C3%AAn:Nguy%E1%BB%85n_%C4%90%C3%B4ng_S%C6%A1n\" class=\"extiw\" title=\"vi:Thảo luận Thành viên:Nguyễn Đông Sơn\">thảo luận</a>)",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "125773681": {
+        "pageid": 125773681,
+        "ns": 6,
+        "title": "File:Sân vận động Tam Kỳ.jpg",
+        "index": 1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 64522,
+            "width": 660,
+            "height": 426,
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/f/f7/S%C3%A2n_v%E1%BA%ADn_%C4%91%E1%BB%99ng_Tam_K%E1%BB%B3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 1024,
+            "thumbheight": 661,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/f/f7/S%C3%A2n_v%E1%BA%ADn_%C4%91%E1%BB%99ng_Tam_K%E1%BB%B3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1024,
+              "height": 661
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/S%C3%A2n_v%E1%BA%ADn_%C4%91%E1%BB%99ng_Tam_K%E1%BB%B3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:S%C3%A2n_v%E1%BA%ADn_%C4%91%E1%BB%99ng_Tam_K%E1%BB%B3.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=125773681",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2022-11-21 15:24:51",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Sân vận động Tam Kỳ",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Self-published work|Stadiums in Vietnam",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Sân Tam Kỳ",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2018-03-03",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:ThoseDaysAreGone&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:ThoseDaysAreGone (page does not exist)\">ThoseDaysAreGone</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "10858490": {
+        "pageid": 10858490,
+        "ns": 6,
+        "title": "File:Sông Tam Kỳ, Quảng Nam.JPG",
+        "index": 7,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2015676,
+            "width": 3264,
+            "height": 2448,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/S%C3%B4ng_Tam_K%E1%BB%B3%2C_Qu%E1%BA%A3ng_Nam.JPG/1280px-S%C3%B4ng_Tam_K%E1%BB%B3%2C_Qu%E1%BA%A3ng_Nam.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1024,
+            "thumbheight": 768,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/f/f4/S%C3%B4ng_Tam_K%E1%BB%B3%2C_Qu%E1%BA%A3ng_Nam.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/S%C3%B4ng_Tam_K%E1%BB%B3%2C_Qu%E1%BA%A3ng_Nam.JPG/1280px-S%C3%B4ng_Tam_K%E1%BB%B3%2C_Qu%E1%BA%A3ng_Nam.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1024,
+              "height": 768,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/f/f4/S%C3%B4ng_Tam_K%E1%BB%B3%2C_Qu%E1%BA%A3ng_Nam.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/S%C3%B4ng_Tam_K%E1%BB%B3%2C_Qu%E1%BA%A3ng_Nam.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:S%C3%B4ng_Tam_K%E1%BB%B3,_Qu%E1%BA%A3ng_Nam.JPG",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=10858490",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2010-07-11 09:29:18",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Sông Tam Kỳ, Quảng Nam",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "GFDL|Taken with Nikon Coolpix L19|Rivers of Vietnam|CC-BY-SA-3.0,2.5,2.0,1.0|License migration redundant|Geography of Quang Nam|Tam Ky|Self-published work|Images by Dongson.vmvn",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Tam Kỳ river, Quảng Nam Province, Viet Nam",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "11 July 2010 (original upload date)",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<bdi lang=\"en\" dir=\"ltr\">Transferred from <span class=\"plainlinks\"><a class=\"external text\" data-mw-original-href=\"//vi.wikipedia.org\" href=\"https://vi.wikipedia.org\">vi.wikipedia</a></span> to Commons by <a href=\"//commons.wikimedia.org/wiki/User:Ph%C3%B3_Nh%C3%A1y\" title=\"User:Phó Nháy\">Phó Nháy</a> using <a href=\"https://iw.toolforge.org/commonshelper/\" class=\"extiw\" title=\"toollabs:commonshelper/\">CommonsHelper</a>.</bdi>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"https://en.wikipedia.org/wiki/vi:User:Nguy%E1%BB%85n_%C4%90%C3%B4ng_S%C6%A1n\" class=\"extiw\" title=\"w:vi:User:Nguyễn Đông Sơn\">Nguyễn Đông Sơn</a> at <a href=\"https://en.wikipedia.org/wiki/vi:\" class=\"extiw\" title=\"w:vi:\">Vietnamese Wikipedia</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "<a href=\"https://en.wikipedia.org/wiki/vi:User:Nguy%E1%BB%85n_%C4%90%C3%B4ng_S%C6%A1n\" class=\"extiw\" title=\"w:vi:User:Nguyễn Đông Sơn\">Nguyễn Đông Sơn</a> at <a href=\"https://en.wikipedia.org/wiki/vi:\" class=\"extiw\" title=\"w:vi:\">Vietnamese Wikipedia</a>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "122621858": {
+        "pageid": 122621858,
+        "ns": 6,
+        "title": "File:Tam kỳ phổ độ.png",
+        "index": 8,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 71693,
+            "width": 1714,
+            "height": 1548,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Tam_k%E1%BB%B3_ph%E1%BB%95_%C4%91%E1%BB%99.png/1280px-Tam_k%E1%BB%B3_ph%E1%BB%95_%C4%91%E1%BB%99.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1024,
+            "thumbheight": 925,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/0/00/Tam_k%E1%BB%B3_ph%E1%BB%95_%C4%91%E1%BB%99.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Tam_k%E1%BB%B3_ph%E1%BB%95_%C4%91%E1%BB%99.png/1280px-Tam_k%E1%BB%B3_ph%E1%BB%95_%C4%91%E1%BB%99.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1024,
+              "height": 925,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/0/00/Tam_k%E1%BB%B3_ph%E1%BB%95_%C4%91%E1%BB%99.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Tam_k%E1%BB%B3_ph%E1%BB%95_%C4%91%E1%BB%99.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Tam_k%E1%BB%B3_ph%E1%BB%95_%C4%91%E1%BB%99.png",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=122621858",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2022-09-04 03:19:23",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Tam kỳ phổ độ",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Diagrams|Self-published work",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "tôi vẽ",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2022-09-04",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Micluky&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Micluky (page does not exist)\">Micluky</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "148381030": {
+        "pageid": 148381030,
+        "ns": 6,
+        "title": "File:Đùi ga ta Tam Kỳ ở q.Tân Phú th11n2022 (1).jpg",
+        "index": 9,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3893986,
+            "width": 3024,
+            "height": 3791,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/%C4%90%C3%B9i_ga_ta_Tam_K%E1%BB%B3_%E1%BB%9F_q.T%C3%A2n_Ph%C3%BA_th11n2022_%281%29.jpg/1280px-%C4%90%C3%B9i_ga_ta_Tam_K%E1%BB%B3_%E1%BB%9F_q.T%C3%A2n_Ph%C3%BA_th11n2022_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1024,
+            "thumbheight": 1284,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/%C4%90%C3%B9i_ga_ta_Tam_K%E1%BB%B3_%E1%BB%9F_q.T%C3%A2n_Ph%C3%BA_th11n2022_%281%29.jpg/1920px-%C4%90%C3%B9i_ga_ta_Tam_K%E1%BB%B3_%E1%BB%9F_q.T%C3%A2n_Ph%C3%BA_th11n2022_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/%C4%90%C3%B9i_ga_ta_Tam_K%E1%BB%B3_%E1%BB%9F_q.T%C3%A2n_Ph%C3%BA_th11n2022_%281%29.jpg/1280px-%C4%90%C3%B9i_ga_ta_Tam_K%E1%BB%B3_%E1%BB%9F_q.T%C3%A2n_Ph%C3%BA_th11n2022_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1024,
+              "height": 1284,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/%C4%90%C3%B9i_ga_ta_Tam_K%E1%BB%B3_%E1%BB%9F_q.T%C3%A2n_Ph%C3%BA_th11n2022_%281%29.jpg/1920px-%C4%90%C3%B9i_ga_ta_Tam_K%E1%BB%B3_%E1%BB%9F_q.T%C3%A2n_Ph%C3%BA_th11n2022_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/%C4%90%C3%B9i_ga_ta_Tam_K%E1%BB%B3_%E1%BB%9F_q.T%C3%A2n_Ph%C3%BA_th11n2022_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:%C4%90%C3%B9i_ga_ta_Tam_K%E1%BB%B3_%E1%BB%9F_q.T%C3%A2n_Ph%C3%BA_th11n2022_(1).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=148381030",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-05-15 14:50:44",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Đùi ga ta Tam Kỳ ở q.Tân Phú th11n2022 (1)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "CC-Zero|Chicken dishes of Vietnam|Self-published work",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Chicken dishes of Vietnam",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2022-11-12 17:58:58",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Ph%C6%B0%C6%A1ng_Huy\" title=\"User:Phương Huy\">Phương Huy</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "148381029": {
+        "pageid": 148381029,
+        "ns": 6,
+        "title": "File:Đùi ga ta Tam Kỳ ở q.Tân Phú th11n2022 (2).jpg",
+        "index": 4,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4095246,
+            "width": 3024,
+            "height": 4032,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/%C4%90%C3%B9i_ga_ta_Tam_K%E1%BB%B3_%E1%BB%9F_q.T%C3%A2n_Ph%C3%BA_th11n2022_%282%29.jpg/1280px-%C4%90%C3%B9i_ga_ta_Tam_K%E1%BB%B3_%E1%BB%9F_q.T%C3%A2n_Ph%C3%BA_th11n2022_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1024,
+            "thumbheight": 1365,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/%C4%90%C3%B9i_ga_ta_Tam_K%E1%BB%B3_%E1%BB%9F_q.T%C3%A2n_Ph%C3%BA_th11n2022_%282%29.jpg/1920px-%C4%90%C3%B9i_ga_ta_Tam_K%E1%BB%B3_%E1%BB%9F_q.T%C3%A2n_Ph%C3%BA_th11n2022_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/%C4%90%C3%B9i_ga_ta_Tam_K%E1%BB%B3_%E1%BB%9F_q.T%C3%A2n_Ph%C3%BA_th11n2022_%282%29.jpg/1280px-%C4%90%C3%B9i_ga_ta_Tam_K%E1%BB%B3_%E1%BB%9F_q.T%C3%A2n_Ph%C3%BA_th11n2022_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1024,
+              "height": 1365,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/%C4%90%C3%B9i_ga_ta_Tam_K%E1%BB%B3_%E1%BB%9F_q.T%C3%A2n_Ph%C3%BA_th11n2022_%282%29.jpg/1920px-%C4%90%C3%B9i_ga_ta_Tam_K%E1%BB%B3_%E1%BB%9F_q.T%C3%A2n_Ph%C3%BA_th11n2022_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/%C4%90%C3%B9i_ga_ta_Tam_K%E1%BB%B3_%E1%BB%9F_q.T%C3%A2n_Ph%C3%BA_th11n2022_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:%C4%90%C3%B9i_ga_ta_Tam_K%E1%BB%B3_%E1%BB%9F_q.T%C3%A2n_Ph%C3%BA_th11n2022_(2).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=148381029",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-05-15 14:50:44",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Đùi ga ta Tam Kỳ ở q.Tân Phú th11n2022 (2)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "CC-Zero|Chicken dishes of Vietnam|Self-published work",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Chicken dishes of Vietnam",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2022-11-12 17:59:00",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Ph%C6%B0%C6%A1ng_Huy\" title=\"User:Phương Huy\">Phương Huy</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "148381031": {
+        "pageid": 148381031,
+        "ns": 6,
+        "title": "File:Đùi ga ta Tam Kỳ ở q.Tân Phú th11n2022 (3).jpg",
+        "index": 5,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3195677,
+            "width": 3024,
+            "height": 3169,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/%C4%90%C3%B9i_ga_ta_Tam_K%E1%BB%B3_%E1%BB%9F_q.T%C3%A2n_Ph%C3%BA_th11n2022_%283%29.jpg/1280px-%C4%90%C3%B9i_ga_ta_Tam_K%E1%BB%B3_%E1%BB%9F_q.T%C3%A2n_Ph%C3%BA_th11n2022_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1024,
+            "thumbheight": 1073,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/%C4%90%C3%B9i_ga_ta_Tam_K%E1%BB%B3_%E1%BB%9F_q.T%C3%A2n_Ph%C3%BA_th11n2022_%283%29.jpg/1920px-%C4%90%C3%B9i_ga_ta_Tam_K%E1%BB%B3_%E1%BB%9F_q.T%C3%A2n_Ph%C3%BA_th11n2022_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/%C4%90%C3%B9i_ga_ta_Tam_K%E1%BB%B3_%E1%BB%9F_q.T%C3%A2n_Ph%C3%BA_th11n2022_%283%29.jpg/1280px-%C4%90%C3%B9i_ga_ta_Tam_K%E1%BB%B3_%E1%BB%9F_q.T%C3%A2n_Ph%C3%BA_th11n2022_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1024,
+              "height": 1073,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/%C4%90%C3%B9i_ga_ta_Tam_K%E1%BB%B3_%E1%BB%9F_q.T%C3%A2n_Ph%C3%BA_th11n2022_%283%29.jpg/1920px-%C4%90%C3%B9i_ga_ta_Tam_K%E1%BB%B3_%E1%BB%9F_q.T%C3%A2n_Ph%C3%BA_th11n2022_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/%C4%90%C3%B9i_ga_ta_Tam_K%E1%BB%B3_%E1%BB%9F_q.T%C3%A2n_Ph%C3%BA_th11n2022_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:%C4%90%C3%B9i_ga_ta_Tam_K%E1%BB%B3_%E1%BB%9F_q.T%C3%A2n_Ph%C3%BA_th11n2022_(3).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=148381031",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-05-15 14:50:45",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Đùi ga ta Tam Kỳ ở q.Tân Phú th11n2022 (3)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "CC-Zero|Chicken dishes of Vietnam|Self-published work",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Chicken dishes of Vietnam",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2022-11-12 17:59:17",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Ph%C6%B0%C6%A1ng_Huy\" title=\"User:Phương Huy\">Phương Huy</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "148381033": {
+        "pageid": 148381033,
+        "ns": 6,
+        "title": "File:Đùi ga ta Tam Kỳ ở q.Tân Phú th11n2022 (4).jpg",
+        "index": 2,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2941733,
+            "width": 3024,
+            "height": 3844,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/%C4%90%C3%B9i_ga_ta_Tam_K%E1%BB%B3_%E1%BB%9F_q.T%C3%A2n_Ph%C3%BA_th11n2022_%284%29.jpg/1280px-%C4%90%C3%B9i_ga_ta_Tam_K%E1%BB%B3_%E1%BB%9F_q.T%C3%A2n_Ph%C3%BA_th11n2022_%284%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1024,
+            "thumbheight": 1302,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/e/e6/%C4%90%C3%B9i_ga_ta_Tam_K%E1%BB%B3_%E1%BB%9F_q.T%C3%A2n_Ph%C3%BA_th11n2022_%284%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/%C4%90%C3%B9i_ga_ta_Tam_K%E1%BB%B3_%E1%BB%9F_q.T%C3%A2n_Ph%C3%BA_th11n2022_%284%29.jpg/1280px-%C4%90%C3%B9i_ga_ta_Tam_K%E1%BB%B3_%E1%BB%9F_q.T%C3%A2n_Ph%C3%BA_th11n2022_%284%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1024,
+              "height": 1302,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/e/e6/%C4%90%C3%B9i_ga_ta_Tam_K%E1%BB%B3_%E1%BB%9F_q.T%C3%A2n_Ph%C3%BA_th11n2022_%284%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/%C4%90%C3%B9i_ga_ta_Tam_K%E1%BB%B3_%E1%BB%9F_q.T%C3%A2n_Ph%C3%BA_th11n2022_%284%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:%C4%90%C3%B9i_ga_ta_Tam_K%E1%BB%B3_%E1%BB%9F_q.T%C3%A2n_Ph%C3%BA_th11n2022_(4).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=148381033",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-05-15 14:50:48",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Đùi ga ta Tam Kỳ ở q.Tân Phú th11n2022 (4)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "CC-Zero|Chicken dishes of Vietnam|Self-published work",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Chicken dishes of Vietnam",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2022-11-12 17:59:09",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Ph%C6%B0%C6%A1ng_Huy\" title=\"User:Phương Huy\">Phương Huy</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "148381039": {
+        "pageid": 148381039,
+        "ns": 6,
+        "title": "File:Đùi ga ta Tam Kỳ ở q.Tân Phú th11n2022 (7).jpg",
+        "index": 3,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3543970,
+            "width": 3024,
+            "height": 4032,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/%C4%90%C3%B9i_ga_ta_Tam_K%E1%BB%B3_%E1%BB%9F_q.T%C3%A2n_Ph%C3%BA_th11n2022_%287%29.jpg/1280px-%C4%90%C3%B9i_ga_ta_Tam_K%E1%BB%B3_%E1%BB%9F_q.T%C3%A2n_Ph%C3%BA_th11n2022_%287%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1024,
+            "thumbheight": 1365,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/b/b2/%C4%90%C3%B9i_ga_ta_Tam_K%E1%BB%B3_%E1%BB%9F_q.T%C3%A2n_Ph%C3%BA_th11n2022_%287%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/%C4%90%C3%B9i_ga_ta_Tam_K%E1%BB%B3_%E1%BB%9F_q.T%C3%A2n_Ph%C3%BA_th11n2022_%287%29.jpg/1280px-%C4%90%C3%B9i_ga_ta_Tam_K%E1%BB%B3_%E1%BB%9F_q.T%C3%A2n_Ph%C3%BA_th11n2022_%287%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1024,
+              "height": 1365,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/b/b2/%C4%90%C3%B9i_ga_ta_Tam_K%E1%BB%B3_%E1%BB%9F_q.T%C3%A2n_Ph%C3%BA_th11n2022_%287%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/%C4%90%C3%B9i_ga_ta_Tam_K%E1%BB%B3_%E1%BB%9F_q.T%C3%A2n_Ph%C3%BA_th11n2022_%287%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:%C4%90%C3%B9i_ga_ta_Tam_K%E1%BB%B3_%E1%BB%9F_q.T%C3%A2n_Ph%C3%BA_th11n2022_(7).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=148381039",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-05-15 14:50:52",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Đùi ga ta Tam Kỳ ở q.Tân Phú th11n2022 (7)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "CC-Zero|Chicken dishes of Vietnam|Self-published work",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Chicken dishes of Vietnam",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2022-11-11 20:04:14",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Ph%C6%B0%C6%A1ng_Huy\" title=\"User:Phương Huy\">Phương Huy</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "148381041": {
+        "pageid": 148381041,
+        "ns": 6,
+        "title": "File:Đùi ga ta Tam Kỳ ở q.Tân Phú th11n2022 (9).jpg",
+        "index": 10,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4084873,
+            "width": 3024,
+            "height": 4032,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/%C4%90%C3%B9i_ga_ta_Tam_K%E1%BB%B3_%E1%BB%9F_q.T%C3%A2n_Ph%C3%BA_th11n2022_%289%29.jpg/1280px-%C4%90%C3%B9i_ga_ta_Tam_K%E1%BB%B3_%E1%BB%9F_q.T%C3%A2n_Ph%C3%BA_th11n2022_%289%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1024,
+            "thumbheight": 1365,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/1/18/%C4%90%C3%B9i_ga_ta_Tam_K%E1%BB%B3_%E1%BB%9F_q.T%C3%A2n_Ph%C3%BA_th11n2022_%289%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/%C4%90%C3%B9i_ga_ta_Tam_K%E1%BB%B3_%E1%BB%9F_q.T%C3%A2n_Ph%C3%BA_th11n2022_%289%29.jpg/1280px-%C4%90%C3%B9i_ga_ta_Tam_K%E1%BB%B3_%E1%BB%9F_q.T%C3%A2n_Ph%C3%BA_th11n2022_%289%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1024,
+              "height": 1365,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/1/18/%C4%90%C3%B9i_ga_ta_Tam_K%E1%BB%B3_%E1%BB%9F_q.T%C3%A2n_Ph%C3%BA_th11n2022_%289%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/%C4%90%C3%B9i_ga_ta_Tam_K%E1%BB%B3_%E1%BB%9F_q.T%C3%A2n_Ph%C3%BA_th11n2022_%289%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:%C4%90%C3%B9i_ga_ta_Tam_K%E1%BB%B3_%E1%BB%9F_q.T%C3%A2n_Ph%C3%BA_th11n2022_(9).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=148381041",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-05-15 14:50:52",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Đùi ga ta Tam Kỳ ở q.Tân Phú th11n2022 (9)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "CC-Zero|Chicken dishes of Vietnam|Self-published work",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Chicken dishes of Vietnam",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2022-11-11 20:03:58",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Ph%C6%B0%C6%A1ng_Huy\" title=\"User:Phương Huy\">Phương Huy</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

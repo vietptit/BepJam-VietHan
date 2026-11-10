@@ -1,0 +1,1128 @@
+{
+  "batchcomplete": "",
+  "continue": {
+    "gsroffset": 10,
+    "continue": "gsroffset||"
+  },
+  "query": {
+    "pages": {
+      "147557511": {
+        "pageid": 147557511,
+        "ns": 6,
+        "title": "File:Old Quarter market, Hanoi, 20240123 1811 3411.jpg",
+        "index": 3,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 22073575,
+            "width": 5417,
+            "height": 3616,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Old_Quarter_market%2C_Hanoi%2C_20240123_1811_3411.jpg/1280px-Old_Quarter_market%2C_Hanoi%2C_20240123_1811_3411.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1024,
+            "thumbheight": 684,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Old_Quarter_market%2C_Hanoi%2C_20240123_1811_3411.jpg/3840px-Old_Quarter_market%2C_Hanoi%2C_20240123_1811_3411.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Old_Quarter_market%2C_Hanoi%2C_20240123_1811_3411.jpg/1280px-Old_Quarter_market%2C_Hanoi%2C_20240123_1811_3411.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1024,
+              "height": 684,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Old_Quarter_market%2C_Hanoi%2C_20240123_1811_3411.jpg/3840px-Old_Quarter_market%2C_Hanoi%2C_20240123_1811_3411.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Old_Quarter_market%2C_Hanoi%2C_20240123_1811_3411.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Old_Quarter_market,_Hanoi,_20240123_1811_3411.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=147557511",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-04-20 12:40:12",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Old Quarter market, Hanoi, 20240123 1811 3411",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Hanoi's Old Quarter|Self-published work|Files by Jakub Hałun|Night in Hanoi|Files with coordinates missing SDC location of creation",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "21.038501",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "105.850420",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Old Quarter market at night, Hanoi",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2024-01-23 18:11:43",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Jakubhal\" title=\"User:Jakubhal\">Jakub Hałun</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "147776120": {
+        "pageid": 147776120,
+        "ns": 6,
+        "title": "File:Old Quarter market, Hanoi, Vietnam, 20240123 0841 3046.jpg",
+        "index": 5,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 11638909,
+            "width": 3053,
+            "height": 4572,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Old_Quarter_market%2C_Hanoi%2C_Vietnam%2C_20240123_0841_3046.jpg/1280px-Old_Quarter_market%2C_Hanoi%2C_Vietnam%2C_20240123_0841_3046.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1024,
+            "thumbheight": 1533,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/6/62/Old_Quarter_market%2C_Hanoi%2C_Vietnam%2C_20240123_0841_3046.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Old_Quarter_market%2C_Hanoi%2C_Vietnam%2C_20240123_0841_3046.jpg/1280px-Old_Quarter_market%2C_Hanoi%2C_Vietnam%2C_20240123_0841_3046.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1024,
+              "height": 1533,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/6/62/Old_Quarter_market%2C_Hanoi%2C_Vietnam%2C_20240123_0841_3046.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Old_Quarter_market%2C_Hanoi%2C_Vietnam%2C_20240123_0841_3046.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Old_Quarter_market,_Hanoi,_Vietnam,_20240123_0841_3046.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=147776120",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-04-27 08:37:02",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Old Quarter market, Hanoi, Vietnam, 20240123 0841 3046",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Hanoi's Old Quarter|Self-published work|Files by Jakub Hałun|Files with coordinates missing SDC location of creation",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "21.039038",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "105.850202",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Old Quarter market, Hanoi",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2024-01-23 08:41:53",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Jakubhal\" title=\"User:Jakubhal\">Jakub Hałun</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "147694489": {
+        "pageid": 147694489,
+        "ns": 6,
+        "title": "File:Old Quarter market, Hanoi, Vietnam, 20240204 1810 5887.jpg",
+        "index": 4,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 22122722,
+            "width": 5766,
+            "height": 3849,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Old_Quarter_market%2C_Hanoi%2C_Vietnam%2C_20240204_1810_5887.jpg/1280px-Old_Quarter_market%2C_Hanoi%2C_Vietnam%2C_20240204_1810_5887.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1024,
+            "thumbheight": 684,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Old_Quarter_market%2C_Hanoi%2C_Vietnam%2C_20240204_1810_5887.jpg/3840px-Old_Quarter_market%2C_Hanoi%2C_Vietnam%2C_20240204_1810_5887.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Old_Quarter_market%2C_Hanoi%2C_Vietnam%2C_20240204_1810_5887.jpg/1280px-Old_Quarter_market%2C_Hanoi%2C_Vietnam%2C_20240204_1810_5887.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1024,
+              "height": 684,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Old_Quarter_market%2C_Hanoi%2C_Vietnam%2C_20240204_1810_5887.jpg/3840px-Old_Quarter_market%2C_Hanoi%2C_Vietnam%2C_20240204_1810_5887.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Old_Quarter_market%2C_Hanoi%2C_Vietnam%2C_20240204_1810_5887.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Old_Quarter_market,_Hanoi,_Vietnam,_20240204_1810_5887.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=147694489",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-04-24 16:53:26",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Old Quarter market, Hanoi, Vietnam, 20240204 1810 5887",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Hanoi's Old Quarter|Self-published work|Files by Jakub Hałun|Night in Hanoi|Files with coordinates missing SDC location of creation",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "21.032333",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "105.852946",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Old Quarter market at night, Hanoi",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2024-02-04 18:10:32",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Jakubhal\" title=\"User:Jakubhal\">Jakub Hałun</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "64218531": {
+        "pageid": 64218531,
+        "ns": 6,
+        "title": "File:Old Quarter street scene, Hanoi (1) (38464672752).jpg",
+        "index": 2,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 10210501,
+            "width": 6000,
+            "height": 4000,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Old_Quarter_street_scene%2C_Hanoi_%281%29_%2838464672752%29.jpg/1280px-Old_Quarter_street_scene%2C_Hanoi_%281%29_%2838464672752%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1024,
+            "thumbheight": 683,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Old_Quarter_street_scene%2C_Hanoi_%281%29_%2838464672752%29.jpg/3840px-Old_Quarter_street_scene%2C_Hanoi_%281%29_%2838464672752%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Old_Quarter_street_scene%2C_Hanoi_%281%29_%2838464672752%29.jpg/1280px-Old_Quarter_street_scene%2C_Hanoi_%281%29_%2838464672752%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1024,
+              "height": 683,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Old_Quarter_street_scene%2C_Hanoi_%281%29_%2838464672752%29.jpg/3840px-Old_Quarter_street_scene%2C_Hanoi_%281%29_%2838464672752%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Old_Quarter_street_scene%2C_Hanoi_%281%29_%2838464672752%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Old_Quarter_street_scene,_Hanoi_(1)_(38464672752).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=64218531",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2017-11-20 22:08:21",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Old Quarter street scene, Hanoi (1) (38464672752)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Hanoi's Old Quarter|2017 in Hanoi|Flickr images reviewed by FlickreviewR 2|Vietnam photographs taken on 2017-11-06|Photographs by Richard Mortel",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Old Quarter street scene, Hanoi (1)",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "Taken on 6 November 2017, 10:41",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/prof_richard/38464672752/\">Old Quarter street scene, Hanoi (1)</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/43714545@N06\">Richard Mortel</a> from Riyadh, Saudi Arabia",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "64218515": {
+        "pageid": 64218515,
+        "ns": 6,
+        "title": "File:Old Quarter street scene, Hanoi (10) (37781458414).jpg",
+        "index": 9,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 12078528,
+            "width": 6000,
+            "height": 4000,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Old_Quarter_street_scene%2C_Hanoi_%2810%29_%2837781458414%29.jpg/1280px-Old_Quarter_street_scene%2C_Hanoi_%2810%29_%2837781458414%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1024,
+            "thumbheight": 683,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Old_Quarter_street_scene%2C_Hanoi_%2810%29_%2837781458414%29.jpg/3840px-Old_Quarter_street_scene%2C_Hanoi_%2810%29_%2837781458414%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Old_Quarter_street_scene%2C_Hanoi_%2810%29_%2837781458414%29.jpg/1280px-Old_Quarter_street_scene%2C_Hanoi_%2810%29_%2837781458414%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1024,
+              "height": 683,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Old_Quarter_street_scene%2C_Hanoi_%2810%29_%2837781458414%29.jpg/3840px-Old_Quarter_street_scene%2C_Hanoi_%2810%29_%2837781458414%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Old_Quarter_street_scene%2C_Hanoi_%2810%29_%2837781458414%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Old_Quarter_street_scene,_Hanoi_(10)_(37781458414).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=64218515",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2017-11-20 22:07:42",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Old Quarter street scene, Hanoi (10) (37781458414)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Hanoi's Old Quarter|2017 in Hanoi|Flickr images reviewed by FlickreviewR 2|Vietnam photographs taken on 2017-11-06|Photographs by Richard Mortel",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Old Quarter street scene, Hanoi (10)",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "Taken on 6 November 2017, 10:39",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/prof_richard/37781458414/\">Old Quarter street scene, Hanoi (10)</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/43714545@N06\">Richard Mortel</a> from Riyadh, Saudi Arabia",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "64218527": {
+        "pageid": 64218527,
+        "ns": 6,
+        "title": "File:Old Quarter street scene, Hanoi (12) (38441027296).jpg",
+        "index": 10,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 10932692,
+            "width": 6000,
+            "height": 4000,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Old_Quarter_street_scene%2C_Hanoi_%2812%29_%2838441027296%29.jpg/1280px-Old_Quarter_street_scene%2C_Hanoi_%2812%29_%2838441027296%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1024,
+            "thumbheight": 683,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Old_Quarter_street_scene%2C_Hanoi_%2812%29_%2838441027296%29.jpg/3840px-Old_Quarter_street_scene%2C_Hanoi_%2812%29_%2838441027296%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Old_Quarter_street_scene%2C_Hanoi_%2812%29_%2838441027296%29.jpg/1280px-Old_Quarter_street_scene%2C_Hanoi_%2812%29_%2838441027296%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1024,
+              "height": 683,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Old_Quarter_street_scene%2C_Hanoi_%2812%29_%2838441027296%29.jpg/3840px-Old_Quarter_street_scene%2C_Hanoi_%2812%29_%2838441027296%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Old_Quarter_street_scene%2C_Hanoi_%2812%29_%2838441027296%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Old_Quarter_street_scene,_Hanoi_(12)_(38441027296).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=64218527",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2017-11-20 22:08:06",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Old Quarter street scene, Hanoi (12) (38441027296)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Hanoi's Old Quarter|2017 in Hanoi|Flickr images reviewed by FlickreviewR 2|Vietnam photographs taken on 2017-11-06|Photographs by Richard Mortel",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Old Quarter street scene, Hanoi (12)",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "Taken on 6 November 2017, 10:40",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/prof_richard/38441027296/\">Old Quarter street scene, Hanoi (12)</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/43714545@N06\">Richard Mortel</a> from Riyadh, Saudi Arabia",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "64218502": {
+        "pageid": 64218502,
+        "ns": 6,
+        "title": "File:Old Quarter street scene, Hanoi (5) (26720959079).jpg",
+        "index": 8,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 13214062,
+            "width": 6000,
+            "height": 4000,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Old_Quarter_street_scene%2C_Hanoi_%285%29_%2826720959079%29.jpg/1280px-Old_Quarter_street_scene%2C_Hanoi_%285%29_%2826720959079%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1024,
+            "thumbheight": 683,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Old_Quarter_street_scene%2C_Hanoi_%285%29_%2826720959079%29.jpg/3840px-Old_Quarter_street_scene%2C_Hanoi_%285%29_%2826720959079%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Old_Quarter_street_scene%2C_Hanoi_%285%29_%2826720959079%29.jpg/1280px-Old_Quarter_street_scene%2C_Hanoi_%285%29_%2826720959079%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1024,
+              "height": 683,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Old_Quarter_street_scene%2C_Hanoi_%285%29_%2826720959079%29.jpg/3840px-Old_Quarter_street_scene%2C_Hanoi_%285%29_%2826720959079%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Old_Quarter_street_scene%2C_Hanoi_%285%29_%2826720959079%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Old_Quarter_street_scene,_Hanoi_(5)_(26720959079).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=64218502",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2017-11-20 22:07:22",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Old Quarter street scene, Hanoi (5) (26720959079)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Hanoi's Old Quarter|2017 in Hanoi|Flickr images reviewed by FlickreviewR 2|Vietnam photographs taken on 2017-11-06|Photographs by Richard Mortel",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Old Quarter street scene, Hanoi (5)",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "Taken on 6 November 2017, 10:37",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/prof_richard/26720959079/\">Old Quarter street scene, Hanoi (5)</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/43714545@N06\">Richard Mortel</a> from Riyadh, Saudi Arabia",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "64218510": {
+        "pageid": 64218510,
+        "ns": 6,
+        "title": "File:Old Quarter street scene, Hanoi (7) (24624495318).jpg",
+        "index": 7,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 12812657,
+            "width": 6000,
+            "height": 4000,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Old_Quarter_street_scene%2C_Hanoi_%287%29_%2824624495318%29.jpg/1280px-Old_Quarter_street_scene%2C_Hanoi_%287%29_%2824624495318%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1024,
+            "thumbheight": 683,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Old_Quarter_street_scene%2C_Hanoi_%287%29_%2824624495318%29.jpg/3840px-Old_Quarter_street_scene%2C_Hanoi_%287%29_%2824624495318%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Old_Quarter_street_scene%2C_Hanoi_%287%29_%2824624495318%29.jpg/1280px-Old_Quarter_street_scene%2C_Hanoi_%287%29_%2824624495318%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1024,
+              "height": 683,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Old_Quarter_street_scene%2C_Hanoi_%287%29_%2824624495318%29.jpg/3840px-Old_Quarter_street_scene%2C_Hanoi_%287%29_%2824624495318%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Old_Quarter_street_scene%2C_Hanoi_%287%29_%2824624495318%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Old_Quarter_street_scene,_Hanoi_(7)_(24624495318).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=64218510",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2017-11-20 22:07:32",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Old Quarter street scene, Hanoi (7) (24624495318)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Hanoi's Old Quarter|2017 in Hanoi|Flickr images reviewed by FlickreviewR 2|Vietnam photographs taken on 2017-11-06|Photographs by Richard Mortel",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Old Quarter street scene, Hanoi (7)",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "Taken on 6 November 2017, 10:38",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/prof_richard/24624495318/\">Old Quarter street scene, Hanoi (7)</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/43714545@N06\">Richard Mortel</a> from Riyadh, Saudi Arabia",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "147777397": {
+        "pageid": 147777397,
+        "ns": 6,
+        "title": "File:Street seller of fingered citrons in Old Town of Hanoi, 20240204 1335 5772.jpg",
+        "index": 1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 12310077,
+            "width": 4900,
+            "height": 3271,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Street_seller_of_fingered_citrons_in_Old_Town_of_Hanoi%2C_20240204_1335_5772.jpg/1280px-Street_seller_of_fingered_citrons_in_Old_Town_of_Hanoi%2C_20240204_1335_5772.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1024,
+            "thumbheight": 684,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Street_seller_of_fingered_citrons_in_Old_Town_of_Hanoi%2C_20240204_1335_5772.jpg/3840px-Street_seller_of_fingered_citrons_in_Old_Town_of_Hanoi%2C_20240204_1335_5772.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Street_seller_of_fingered_citrons_in_Old_Town_of_Hanoi%2C_20240204_1335_5772.jpg/1280px-Street_seller_of_fingered_citrons_in_Old_Town_of_Hanoi%2C_20240204_1335_5772.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1024,
+              "height": 684,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Street_seller_of_fingered_citrons_in_Old_Town_of_Hanoi%2C_20240204_1335_5772.jpg/3840px-Street_seller_of_fingered_citrons_in_Old_Town_of_Hanoi%2C_20240204_1335_5772.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Street_seller_of_fingered_citrons_in_Old_Town_of_Hanoi%2C_20240204_1335_5772.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Street_seller_of_fingered_citrons_in_Old_Town_of_Hanoi,_20240204_1335_5772.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=147777397",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-04-27 09:42:30",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Street seller of fingered citrons in Old Town of Hanoi, 20240204 1335 5772",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Buddha's hand|Personality rights warning|Hanoi's Old Quarter|Self-published work|Scooters in Vietnam|Files with coordinates missing SDC location of creation|Street vendors in Hanoi",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "quality",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "21.037066",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "105.849315",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Street seller of fingered citrons in Old Town of Hanoi",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2024-02-04 13:35:18",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Jakubhal\" title=\"User:Jakubhal\">Jakub Hałun</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "personality",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "17514690": {
+        "pageid": 17514690,
+        "ns": 6,
+        "title": "File:Street vendors in old quarter, Hanoi, Vietnam.jpg",
+        "index": 6,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 8425933,
+            "width": 3888,
+            "height": 2592,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Street_vendors_in_old_quarter%2C_Hanoi%2C_Vietnam.jpg/1280px-Street_vendors_in_old_quarter%2C_Hanoi%2C_Vietnam.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1024,
+            "thumbheight": 683,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Street_vendors_in_old_quarter%2C_Hanoi%2C_Vietnam.jpg/3840px-Street_vendors_in_old_quarter%2C_Hanoi%2C_Vietnam.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Street_vendors_in_old_quarter%2C_Hanoi%2C_Vietnam.jpg/1280px-Street_vendors_in_old_quarter%2C_Hanoi%2C_Vietnam.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1024,
+              "height": 683,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Street_vendors_in_old_quarter%2C_Hanoi%2C_Vietnam.jpg/3840px-Street_vendors_in_old_quarter%2C_Hanoi%2C_Vietnam.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Street_vendors_in_old_quarter%2C_Hanoi%2C_Vietnam.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Street_vendors_in_old_quarter,_Hanoi,_Vietnam.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=17514690",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2011-11-28 23:07:59",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Street vendors in old quarter, Hanoi, Vietnam",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Canon EOS 40D|Hats|Poverty in Vietnam|Hanoi's Old Quarter|Newspaper readers|Flickr images uploaded by Flickr upload bot|Bambooworks of Vietnam|People wearing conical straw hats in Vietnam|Street vendors in Hanoi",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Street vendors in Hanoi",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2010-11-23 11:21:09",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/Flickr\" class=\"mw-redirect\" title=\"Flickr\">Flickr</a>: <a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/46274125@N00/5246310340\">Old Quarter, Hanoi, Vietnam</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/46274125@N00\">yeowatzup</a>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "<table id=\"FlickrReview\" style=\"width:100%; margin:0.3em auto; text-align:start; background-color:var(--background-color-success-subtle,#d5fdf4); padding: 3px; border:1px solid var(--border-color-base,#a2a9b1); color:inherit;\" dir=\"ltr\" lang=\"en\">\n\n<tbody><tr>\n<td><span typeof=\"mw:File\"><span><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Checked_copyright_icon.svg/60px-Checked_copyright_icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"50\" height=\"48\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Checked_copyright_icon.svg/120px-Checked_copyright_icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"160\" data-file-height=\"153\"></span></span>\n</td>\n<td>This image, which was originally posted to <b><a href=\"https://en.wikipedia.org/wiki/Flickr\" class=\"extiw\" title=\"en:Flickr\">Flickr</a></b>, was uploaded to Commons using <b><a href=\"//commons.wikimedia.org/wiki/User:Flickr_upload_bot\" title=\"User:Flickr upload bot\">Flickr upload bot</a></b> on 28 November 2011, 23:06 by <span id=\"flickr_upload_bot_reviewer\"><b><a href=\"//commons.wikimedia.org/wiki/User:Paris_16\" title=\"User:Paris 16\">Paris 16</a></b></span>. On that date, it was confirmed to be licensed under the terms of the license indicated.\n</td>\n<td><span typeof=\"mw:File\"><span><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Flickr_dots.svg/60px-Flickr_dots.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Flickr_dots.svg/120px-Flickr_dots.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"512\" data-file-height=\"512\"></span></span>\n</td></tr></tbody></table>\n<div class=\"responsive-license-cc layouttemplate licensetpl\" dir=\"ltr\" lang=\"en\"><div class=\"rlicense-icons\"><span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"w:en:Creative Commons\"><img alt=\"w:en:Creative Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/120px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"90\" height=\"36\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/250px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"744\" data-file-height=\"300\"></span></span><br>\n<span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"attribution\"><img alt=\"attribution\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/40px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/60px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span></div><div class=\"rlicense-text\"><div class=\"rlicense-declaration\">This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a href=\"//creativecommons.org/licenses/by/2.0/deed.en\" class=\"extiw\" title=\"creativecommons:by/2.0/deed.en\">Attribution 2.0 Generic</a> license.</div><div class=\"rlicense-desc\" style=\"text-align:start;\" dir=\"ltr\" lang=\"en\">\n<dl><dd>You are free:\n<ul><li><b>to share</b> – to copy, distribute and transmit the work</li>\n<li><b>to remix</b> – to adapt the work</li></ul></dd>\n<dd>Under the following conditions:\n<ul><li><b>attribution</b> – You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.</li></ul></dd></dl>\n</div><span class=\"licensetpl_link\" style=\"display:none;\">https://creativecommons.org/licenses/by/2.0</span><span class=\"licensetpl_short\" style=\"display:none;\">CC BY 2.0 </span><span class=\"licensetpl_long\" style=\"display:none;\">Creative Commons Attribution 2.0 </span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></div></div>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

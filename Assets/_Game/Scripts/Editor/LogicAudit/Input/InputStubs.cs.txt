@@ -1,0 +1,87 @@
+// Graphics/tweens are inert here; the actual JuicyButton and AutoPilot.Click sources are compiled unchanged.
+using System;
+namespace UnityEngine
+{
+    public class Object { public static implicit operator bool(Object o) => o != null; }
+    public class GameObject : Object { public object handler; }
+    public class Transform : Object
+    {
+        public Vector3 localScale = Vector3.one, position;
+        public readonly GameObject gameObject = new GameObject();
+    }
+    public class MonoBehaviour : Object
+    {
+        public readonly Transform transform = new Transform();
+        protected MonoBehaviour() { transform.gameObject.handler = this; }
+    }
+    public struct Vector2
+    {
+        public float x, y;
+        public Vector2(float x, float y) { this.x = x; this.y = y; }
+        public float sqrMagnitude => x * x + y * y;
+        public static Vector2 operator -(Vector2 a, Vector2 b) => new Vector2(a.x - b.x, a.y - b.y);
+    }
+    public struct Vector3
+    {
+        public float x, y, z;
+        public Vector3(float x, float y, float z) { this.x = x; this.y = y; this.z = z; }
+        public static Vector3 zero => new Vector3();
+        public static Vector3 one => new Vector3(1, 1, 1);
+        public static Vector3 operator *(Vector3 a, float b) => new Vector3(a.x * b, a.y * b, a.z * b);
+    }
+    public static class Mathf { public static int Max(int a, int b) => Math.Max(a, b); }
+    public static class Canvas { public static void ForceUpdateCanvases() { } }
+    public static class RectTransformUtility { public static Vector2 WorldToScreenPoint(object cam, Vector3 p) => new Vector2(p.x, p.y); }
+}
+namespace UnityEngine.UI
+{
+    public class Image : UnityEngine.Object { }
+    public class Text : UnityEngine.Object { public string text; }
+}
+namespace UnityEngine.EventSystems
+{
+    public class EventSystem : UnityEngine.Object { public static readonly EventSystem current = new EventSystem(); public int pixelDragThreshold = 10; }
+    public class PointerEventData
+    {
+        public enum InputButton { Left, Right }
+        public InputButton button;
+        public int pointerId = -1;
+        public UnityEngine.Vector2 position;
+        public bool dragging, eligibleForClick;
+        public PointerEventData(EventSystem system) { }
+    }
+    public interface IPointerDownHandler { void OnPointerDown(PointerEventData e); }
+    public interface IPointerUpHandler { void OnPointerUp(PointerEventData e); }
+    public interface IPointerClickHandler { void OnPointerClick(PointerEventData e); }
+    public interface IPointerExitHandler { void OnPointerExit(PointerEventData e); }
+    public interface IPointerMoveHandler { void OnPointerMove(PointerEventData e); }
+    public static class ExecuteEvents
+    {
+        public static readonly Action<object, PointerEventData> pointerDownHandler = (h, e) => ((IPointerDownHandler)h).OnPointerDown(e);
+        public static readonly Action<object, PointerEventData> pointerUpHandler = (h, e) => ((IPointerUpHandler)h).OnPointerUp(e);
+        public static readonly Action<object, PointerEventData> pointerClickHandler = (h, e) => ((IPointerClickHandler)h).OnPointerClick(e);
+        public static void Execute(UnityEngine.GameObject go, PointerEventData e, Action<object, PointerEventData> handler) => handler(go.handler, e);
+    }
+}
+namespace BepJam
+{
+    public enum Ease { OutQuad, OutCubic, OutElastic }
+    public class TweenHandle
+    {
+        public void Kill() { }
+        public TweenHandle SetEase(Ease ease) => this;
+        public TweenHandle SetUnscaled() => this;
+    }
+    public static class Tween
+    {
+        public static void KillAll(object t) { }
+        public static TweenHandle Scale(object t, UnityEngine.Vector3 v, float d) => new TweenHandle();
+        public static TweenHandle PunchRotation(object t, float a, float b) => new TweenHandle();
+    }
+    public static class Sfx
+    {
+        public static void Play(string s, float v) { }
+        public static void PlayVaried(string s, float v, float p) { }
+    }
+    public class GameBoot { public static readonly GameBoot I = new GameBoot(); public object cam = null; }
+}
