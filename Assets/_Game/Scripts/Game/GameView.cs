@@ -767,14 +767,14 @@ namespace BepJam
                 case EvType.CrateTap:
                 {
                     var t = T(e.crateId);
-                    if (t) { t.Jelly(); t.RefreshCount(true); VFX.Sparkle(t.icon.rectTransform.position, 6, 0.8f); VFX.Ring(t.icon.rectTransform.position, Color.white, 190, 0.3f); t.Shine(); }
+                    if (t) { t.Jelly(); t.RefreshCount(true); VFX.Sparkle(t.IconWorld, 6, 0.8f); VFX.Ring(t.IconWorld, Color.white, 190, 0.3f); t.Shine(); }
                     Sfx.PlayVaried("pop", 1f, 0.12f);
                     break;
                 }
                 case EvType.Fly:
                 {
                     Vector3 from;
-                    if (e.src == Src.Crate) { var t = T(e.crateId); from = t ? t.icon.rectTransform.position : tilesLayer.position; }
+                    if (e.src == Src.Crate) { var t = T(e.crateId); from = t ? t.IconWorld : tilesLayer.position; }
                     else if (e.src == Src.Station)
                     {
                         stations[e.station].FlyCut(P(e.toSlot).ItemWorld);
@@ -806,7 +806,7 @@ namespace BepJam
                     {
                         var tile = T(e.crateId); var board = stations[e.station];
                         var sourcePlate = e.src == Src.Slot ? P(e.slot) : null;
-                        var source = sourcePlate != null ? sourcePlate.ItemWorld : tile ? tile.icon.rectTransform.position : tilesLayer.position;
+                        var source = sourcePlate != null ? sourcePlate.ItemWorld : tile ? tile.IconWorld : tilesLayer.position;
                         if (sourcePlate != null) sourcePlate.Clear();
                         VFX.FlyIcon(BepJam.Art.Food(e.key), source,
                             board.MouthWorld, Sz(110), Kitchen.FLY, null, Sz(120), true);
@@ -1045,7 +1045,7 @@ namespace BepJam
             p.Clear();
             Vector3 to;
             TileView existing = e.crateId >= 0 ? T(e.crateId) : null;
-            if (existing) to = existing.icon.rectTransform.position;
+            if (existing) to = existing.IconWorld;
             else if (e.row >= 0) to = tilesLayer.TransformPoint(CellPos(e.col, e.row));
             else to = stacks[e.col].chip.position;
             Sfx.Play("trash");

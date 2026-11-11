@@ -135,10 +135,11 @@ namespace BepJam
         void BuildPlay()
         {
             int next = Progress.NextLevel;
-            var play = UIKit.Button("Play", root, Art.FX("btn_red"), "CHƠI · NGÀY " + next, 60, () => GameBoot.I.PlayLevel(next), Art.FX("play"));
+            var play = UIKit.Button("Play", root, Art.FX("btn_red"), "CHƠI\nNGÀY " + next, 60, () => GameBoot.I.PlayLevel(next));
             var prt = Top((RectTransform)play.transform, 300, 1080, 440, 170);
-            play.icon.rectTransform.Anchor(new Vector2(0, 0.5f), new Vector2(70, 0), new Vector2(64, 64));
-            play.label.rectTransform.offsetMin = new Vector2(126, play.label.rectTransform.offsetMin.y);
+            UIKit.CtaIcon(play, Art.FX("play"), 150);
+            play.label.rectTransform.offsetMax = new Vector2(-26, play.label.rectTransform.offsetMax.y);
+            UIKit.FitLines(play.label, 56, 30, 2);
             prt.localScale = Vector3.zero;
             Tween.Scale(prt, Vector3.one, 0.5f).SetEase(Ease.OutBack).SetDelay(0.8f).OnComplete(() =>
             {
@@ -147,26 +148,38 @@ namespace BepJam
                 Tween.Scale(prt, Vector3.one * 1.05f, 0.8f).SetLoops(-1, true).SetEase(Ease.InOutSine);
             });
             BuildAlbumButton();
-            var notebook = UIKit.Button("Notebook", root, Art.FX("btn_yellow"), "Sổ tay\nẩm thực", 38,
-                () => Popups.Notebook(null), Art.FX("book"), Ink);
-            var nrt = Top((RectTransform)notebook.transform, 660, 1080, 200, 190);
-            notebook.icon.rectTransform.Anchor(new Vector2(0.5f, 1), new Vector2(0, -50), new Vector2(52, 52));
-            notebook.label.rectTransform.Anchor(new Vector2(0.5f, 0), new Vector2(0, 56), new Vector2(152, 64));
-            UIKit.Fit(notebook.label, 38, 24);
+            var notebook = TileCta("Notebook", "Sổ tay", Art.FX("book"), () => Popups.Notebook(null), 650);
+            var nrt = (RectTransform)notebook.transform;
             nrt.localScale = Vector3.zero;
             Tween.Scale(nrt, Vector3.one, 0.45f).SetDelay(0.95f).SetEase(Ease.OutBack);
         }
 
+        /// <summary>Secondary home CTA: a square paper tile with a large icon on a cream disc and a one-line label under it.
+        /// Same height as the play button; play + two tiles span the screen with equal 80 px side margins.</summary>
+        JuicyButton TileCta(string name, string text, Sprite icon, System.Action click, float centreX)
+        {
+            const float W = 220, H = 170, Disc = 92;
+            var b = UIKit.Button(name, root, Art.FX("btn_yellow"), text, 38, click, null, Ink);
+            var rt = Top((RectTransform)b.transform, centreX, 1080, W, H);
+            var disc = UIKit.Img("IconDisc", rt, Art.FX("btn_round_cream"));
+            disc.rectTransform.Anchor(new Vector2(0.5f, 1), new Vector2(0, -14), new Vector2(Disc, Disc), new Vector2(0.5f, 1));
+            if (icon != null)
+            {
+                b.icon = UIKit.Img("Icon", disc.transform, icon);
+                b.icon.preserveAspect = true;
+                b.icon.rectTransform.Stretch(Disc * 0.19f, Disc * 0.16f, Disc * 0.19f, Disc * 0.22f);
+            }
+            b.label.rectTransform.Anchor(new Vector2(0.5f, 0), new Vector2(0, 20), new Vector2(W - 48, 46), new Vector2(0.5f, 0));
+            UIKit.Fit(b.label, 38, 24);
+            return b;
+        }
+
         void BuildAlbumButton()
         {
-            var button = UIKit.Button("Album", root, Art.FX("btn_yellow"), "Album", 38,
-                OpenAlbum, Resources.Load<Sprite>("Album/album_icon") ?? Art.FX("book"), Ink);
-            var rt = Top((RectTransform)button.transform, 900, 1080, 220, 190);
-            if (button.icon) button.icon.rectTransform.Anchor(new Vector2(0.5f, 1), new Vector2(0, -50), new Vector2(52, 52));
-            button.label.rectTransform.Anchor(new Vector2(0.5f, 0), new Vector2(0, 44), new Vector2(152, 40));
-            UIKit.Fit(button.label, 38, 24);
+            var button = TileCta("Album", "Album", Resources.Load<Sprite>("Album/album_icon") ?? Art.FX("book"), OpenAlbum, 890);
+            var rt = (RectTransform)button.transform;
             var dot = UIKit.Img("UnseenPhoto", rt, Art.FX("circle"));
-            dot.rectTransform.Anchor(Vector2.one, new Vector2(-32, -32), new Vector2(22, 22));
+            dot.rectTransform.Anchor(Vector2.one, new Vector2(-26, -26), new Vector2(24, 24));
             dot.color = Red; albumDot = dot.gameObject;
             RefreshAlbumDot();
             rt.localScale = Vector3.zero;

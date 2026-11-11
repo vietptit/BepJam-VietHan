@@ -35,7 +35,7 @@ namespace BepJam
             t.shineRt = ((RectTransform)t.shine.transform).Anchor(new Vector2(0, 0.5f), new Vector2(-80, 0), new Vector2(70, size.y * 1.4f));
             t.shine.color = new Color(1, 1, 1, 0.8f);
             t.icon = UIKit.Img("Icon", t.visual, Art.Food(c.ing));
-            t.icon.rectTransform.Stretch(24, 24, 24, 24);
+            PlaceOnTray(t.icon, c.ing, size);
             t.nameText = UIKit.Label("Name", t.visual, GameData.Ingredients[c.ing].name, 34, Pal.TextBrown, TextAnchor.MiddleCenter);
             ((RectTransform)t.nameText.transform).Anchor(new Vector2(0.5f, 0), new Vector2(0, size.y * 0.19f), new Vector2(size.x - 16, 40));
             UIKit.Fit(t.nameText, 28, 18);
@@ -49,6 +49,34 @@ namespace BepJam
             t.RefreshCount(false);
             return t;
         }
+
+        /// <summary>Ingredients drawn as a vessel (bowl, cup, glass, jar, bottle, bag, can, pot): they stand on the tray,
+        /// so the bottom of the vessel sits on the tray's centre. Loose food (nori, herbs, meat, fruit) stays centred.</summary>
+        public static readonly HashSet<string> Standing = new HashSet<string>
+        {
+            "banh_gao", "bot_banh_ca", "bot_banh_xeo", "bot_hotteok", "bot_jeon", "bot_ngu_coc", "ca_phe", "com", "com_tam",
+            "dau_do", "dau_xanh", "do_chua", "duong", "duong_nau", "gao_nep", "gia_do", "gochujang", "hat", "kimchi",
+            "mach_nha", "mat_ong", "mut_yuja", "nuoc", "nuoc_dung", "nuoc_dung_pho", "nuoc_mam", "nuoc_nong", "nuoc_tuong",
+            "rau_cu", "sot_tteok", "sua_dac", "sua_tuoi", "tra",
+            // finished dishes served in a bowl, pot, cup or glass (sprite keys, "d_" + dish id)
+            "d_bibimbap", "d_ca_phe_sua", "d_com_kimchi", "d_kimchi_jjigae", "d_misugaru", "d_pho_bo", "d_sikhye",
+            "d_tra_dao", "d_tra_tac", "d_tra_yuja", "d_tteokbokki", "d_xoi_dau_xanh"
+        };
+        public const float FootPivot = 0.05f;   // the soft contact shadow under each vessel sprite
+
+        static void PlaceOnTray(Image icon, string ing, Vector2 tile)
+        {
+            var r = icon.rectTransform;
+            var sp = icon.sprite;
+            if (sp == null || !Standing.Contains(ing)) { r.Stretch(24, 24, 24, 24); return; }
+            float aspect = sp.rect.width / Mathf.Max(1f, sp.rect.height);
+            float maxW = tile.x * 0.72f, maxH = tile.y * 0.78f;
+            float h = Mathf.Min(maxH, maxW / aspect);
+            r.Anchor(new Vector2(0.5f, 0.5f), Vector2.zero, new Vector2(h * aspect, h), new Vector2(0.5f, FootPivot));
+        }
+
+        /// <summary>Visual centre of the ingredient (its pivot may sit at the vessel's foot).</summary>
+        public Vector3 IconWorld => icon.rectTransform.TransformPoint(icon.rectTransform.rect.center);
 
         public void RefreshCount(bool punch)
         {
@@ -111,7 +139,7 @@ namespace BepJam
         public RectTransform rt, plateRt, itemRt, waitBadge;
         public Image plate, item, waitIcon;
         RectTransform knifeBadge;
-        Vector2 itemHome;
+        Vector2 itemHome, faceCentre;
         public string key;
         internal RectTransform cookingStory;
 
@@ -124,8 +152,10 @@ namespace BepJam
             p.plateRt = (RectTransform)p.plate.transform; p.plateRt.Stretch();
             p.item = UIKit.Img("Item", rt, null);
             p.itemRt = (RectTransform)p.item.transform;
-            p.itemRt.Stretch(24, 24, 24, 24);
-            p.itemHome = p.itemRt.anchoredPosition;
+            // Centred on the plate's face: the plate art keeps its contact shadow below the rim, so the face sits a little high.
+            p.faceCentre = new Vector2(0, UIKit.S(PlateH) * FaceLift);
+            p.itemRt.Anchor(new Vector2(0.5f, 0.5f), p.faceCentre, Vector2.zero);
+            p.itemHome = p.faceCentre;
             p.item.enabled = false;
             var wb = UIKit.Img("Wait", rt, Art.FX("bubble"), false, false);
             p.waitBadge = (RectTransform)wb.transform;
@@ -142,10 +172,33 @@ namespace BepJam
 
         public Vector3 ItemWorld => itemRt.position;
 
+        // Plate art is 126 x 84 mock-up px (GameView.PlateW/H). Food spans the plate's width, centred on its face.
+        // Anything in a vessel (bowl, cup, jar, bottle, bag…) stands on the plate instead: the vessel's foot sits on the
+        // centre of the plate's face, a touch below it so the round base reads as resting in the middle.
+        const float PlateW = 126f, PlateH = 84f, FaceLift = 0.05f, FoodWidth = 0.9f, FoodMaxHeight = 1.45f;
+        const float StandWidth = 0.78f, StandMaxHeight = 1.3f, StandDrop = 0.1f;
+
+        void FitItem(string spriteKey)
+        {
+            var sp = item.sprite;
+            bool stands = sp != null && TileView.Standing.Contains(spriteKey);
+            float w = UIKit.S(PlateW) * (stands ? StandWidth : FoodWidth);
+            float maxH = UIKit.S(PlateH) * (stands ? StandMaxHeight : FoodMaxHeight);
+            itemHome = faceCentre;
+            if (sp == null) { itemRt.sizeDelta = new Vector2(w, w); return; }
+            float aspect = sp.rect.width / Mathf.Max(1f, sp.rect.height);
+            float h = Mathf.Min(maxH, w / aspect);
+            itemRt.sizeDelta = new Vector2(h * aspect, h);
+            // the pivot stays in the middle (fly targets and squash use it); lift the sprite so its foot is on the centre
+            if (stands) itemHome = faceCentre + new Vector2(0, h * (0.5f - TileView.FootPivot) - UIKit.S(PlateH) * StandDrop);
+        }
+
         public void Show(string k, bool dish, bool pop)
         {
             key = k;
-            item.sprite = dish ? Art.Food("d_" + k) : Art.Food(k);
+            string spriteKey = dish ? "d_" + k : k;
+            item.sprite = Art.Food(spriteKey);
+            FitItem(spriteKey);
             item.enabled = true; item.type = Image.Type.Simple; item.fillAmount = 1f;
             Tween.KillAll(itemRt);
             itemRt.anchoredPosition = itemHome;
@@ -212,7 +265,7 @@ namespace BepJam
         int cookCycle;
         Image[] flames; Image windowGlow;
         AudioSource loop;
-        Image cutIcon, knife, cutLine; Image[] halves; bool breadSplit;
+        Image cutIcon, knife, cutLine, restKnife; Image[] halves; bool breadSplit;
         RectTransform boardOverlay;
         float cutT, cutDuration; int chopCount; bool cutting;
 
@@ -291,6 +344,13 @@ namespace BepJam
 
         void BuildBoard()
         {
+            // A knife rests across the board while it is idle; the animated knife on the overlay takes over while cutting.
+            var restSprite = Art.FX("knife_rest") ?? Art.FX("knife");   // the cleaver that used to be painted under the board
+            restKnife = UIKit.Img("RestKnife", visual, restSprite);
+            float restAspect = restSprite ? restSprite.rect.width / Mathf.Max(1f, restSprite.rect.height) : 1f;
+            restKnife.rectTransform.Anchor(new Vector2(0.5f, 0.5f), new Vector2(UIKit.S(RestKnifeX), UIKit.S(RestKnifeY)),
+                                           new Vector2(UIKit.S(RestKnifeLength), UIKit.S(RestKnifeLength) / restAspect));
+            restKnife.rectTransform.localRotation = Quaternion.Euler(0, 0, RestKnifeAngle);
             boardOverlay = UIKit.Node("BoardOverlay", rt); boardOverlay.Stretch();
             cutIcon = UIKit.Img("Ingredient", boardOverlay, null);
             cutIcon.rectTransform.Anchor(new Vector2(0.5f, 0.5f), Vector2.zero, new Vector2(UIKit.S(86), UIKit.S(78)));
@@ -430,6 +490,17 @@ namespace BepJam
         }
 
         const float BreadAngle = 28f;   // the bánh mì sprite lies diagonally on the board
+        const float RestKnifeX = 0f, RestKnifeY = 0f, RestKnifeLength = 124f, RestKnifeAngle = 18f;   // mock-up px, degrees
+
+        bool BoardIdle
+        {
+            get
+            {
+                if (cutting || (cutIcon && cutIcon.enabled) || (knife && knife.enabled)) return false;
+                if (halves != null) foreach (var half in halves) if (half && half.enabled) return false;
+                return true;
+            }
+        }
         static Vector2 Rot(Vector2 v) { float r = BreadAngle * Mathf.Deg2Rad, c = Mathf.Cos(r), s = Mathf.Sin(r); return new Vector2(v.x * c - v.y * s, v.x * s + v.y * c); }
         Vector2 SplitPos(int i) => breadSplit
             ? Rot(new Vector2(UIKit.S(i == 0 ? -4 : 2), UIKit.S(i == 0 ? 26 : -12)))
@@ -539,6 +610,7 @@ namespace BepJam
             if (loop && loopPaused) { loop.UnPause(); loopPaused = false; }
             if (type == StationType.Board)
             {
+                if (restKnife) restKnife.enabled = BoardIdle;
                 var boardGame = GameBoot.I != null ? GameBoot.I.CurrentGame : null;
                 if (boardGame == null || (!boardGame.Paused && !boardGame.kitchen.ended)) TickCut(Time.deltaTime);
                 return;

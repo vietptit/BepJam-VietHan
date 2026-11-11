@@ -50,10 +50,10 @@ namespace BepJam
         }
 
         static JuicyButton AlbumButton(RectTransform parent, string text, string sprite, float bottom,
-            float width, float height, Action click, float delay = 0.4f)
+            float width, float height, Action click, float delay = 0.4f, string icon = "check")
         {
-            var b = PaperBtn(parent, text, sprite, bottom, width, height, click, null, delay);
-            b.label.rectTransform.Stretch(32, 24, 32, 24);
+            var b = PaperBtn(parent, text, sprite, bottom, width, height, click, icon, delay);
+            if (icon == null) b.label.rectTransform.Stretch(32, 24, 32, 24);
             UIKit.Fit(b.label, 44, 24);
             return b;
         }
@@ -301,7 +301,7 @@ namespace BepJam
                 h.Close(() => { if (viewAlbum) Album(onClose); else onClose?.Invoke(); });
             }
             AlbumButton(h.panel, "Cất vào Album", "btn_green", 240, 640, 128, () => Finish(false), 1.8f);
-            AlbumButton(h.panel, "Xem Album", "btn_yellow", 80, 640, 128, () => Finish(true), 1.9f);
+            AlbumButton(h.panel, "Xem Album", "btn_yellow", 80, 640, 128, () => Finish(true), 1.9f, "book");
             Sfx.Play("win", 0.5f);
         }
     }

@@ -117,6 +117,25 @@ namespace BepJam
             return jb;
         }
 
+        /// <summary>Wide CTA with a leading icon: the icon sits on a cream disc so it reads on every button colour
+        /// (a teal icon on a teal button disappears), and the label is centred in the space to the right of it.</summary>
+        public static Image CtaIcon(JuicyButton b, Sprite icon, float height)
+        {
+            if (icon == null) return null;
+            var rt = (RectTransform)b.transform;
+            float d = height * 0.66f, left = height * 0.2f;
+            var disc = Img("IconDisc", rt, Art.FX("btn_round_cream"));
+            disc.rectTransform.Anchor(new Vector2(0, 0.5f), new Vector2(left, height * 0.03f), new Vector2(d, d), new Vector2(0, 0.5f));
+            var ic = Img("Icon", disc.transform, icon);
+            ic.rectTransform.Stretch(d * 0.2f, d * 0.17f, d * 0.2f, d * 0.23f);
+            if (b.label)
+            {
+                var lr = b.label.rectTransform;
+                lr.Stretch(left + d + 16, 24, Mathf.Max(30, left + 10), 24);
+            }
+            return ic;
+        }
+
         /// <summary>Shrink-to-fit inside the label's (already padded) rect: never overflow, never wrap mid-word badly.</summary>
         public static Text Fit(Text t, int max, int min = 16)
         {

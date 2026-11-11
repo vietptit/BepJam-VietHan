@@ -79,12 +79,7 @@ namespace BepJam
         {
             var b = UIKit.Button(text, parent, BepJam.Art.FX(sprite), text, 50, click);
             var rt = ((RectTransform)b.transform).Anchor(new Vector2(0.5f, 0f), pos, size);
-            if (icon != null)
-            {
-                var ic = UIKit.Img("Icon", rt, BepJam.Art.FX(icon));
-                ((RectTransform)ic.transform).Anchor(new Vector2(0, 0.5f), new Vector2(62, 6), new Vector2(76, 76));
-                if (b.label) b.label.rectTransform.offsetMin = new Vector2(124, 24);
-            }
+            if (icon != null) UIKit.CtaIcon(b, BepJam.Art.FX(icon), size.y);
             if (b.label) UIKit.Fit(b.label, 50, 26);
             rt.localScale = Vector3.zero;
             Tween.Scale(rt, Vector3.one, 0.4f).SetEase(Ease.OutBack).SetDelay(delay).SetUnscaled();
@@ -177,10 +172,7 @@ namespace BepJam
             int dishesCount = 0; foreach (var c in def.customers) dishesCount += c.Length;
             Fact(facts, -205, "Khách", def.customers.Length + " khách · " + dishesCount + " món");
             Fact(facts, 205, "Khách VIP", (def.vip?.Count(v => v) ?? 0).ToString());
-            // A text-only CTA gives the label the exact centre of the button.
-            var start = Btn(h.panel, "Vào bếp!", "btn_green", new Vector2(70, 120), new Vector2(520, 150), () => h.Close(onStart), null, 0.7f);
-            start.label.rectTransform.Stretch(24, 24, 24, 24);
-            start.label.alignment = TextAnchor.MiddleCenter;
+            Btn(h.panel, "Vào bếp!", "btn_green", new Vector2(70, 120), new Vector2(520, 150), () => h.Close(onStart), "play", 0.7f);
             var home = Btn(h.panel, "", "btn_round", new Vector2(-300, 120), new Vector2(140, 140), () => h.Close(onHome), null, 0.8f);
             var hic = UIKit.Img("Home", home.transform, Art.FX("home")); hic.rectTransform.Stretch(28, 28, 28, 28);
         }
@@ -196,7 +188,7 @@ namespace BepJam
         // ---------------------------------------------------------------- pause
         public static void Pause(Action onResume, Action onRestart, Action onHome)
         {
-            var h = Open("Tạm dừng", 820, 1060);
+            var h = Open("Tạm dừng", 820, 960);
             var b = h.body;
             SoundToggles(b, -90);
             Btn(h.panel, "Tiếp tục", "btn_green", new Vector2(0, 530), new Vector2(560, 140), () => h.Close(onResume), "play", 0.25f);
@@ -231,7 +223,7 @@ namespace BepJam
             for (int i = 0; i < dishes.Count; i++)
                 RecipeRow(content, GameData.Dishes[dishes[i]], -12 - i * RecipeStride, 820, 94, true, 0.25f + Mathf.Min(i, 3) * 0.08f);
             content.sizeDelta = new Vector2(0, dishes.Count * RecipeStride + 24);
-            Btn(p.panel, "Đã hiểu", "btn_green", new Vector2(0, 100), new Vector2(460, 130), () => p.Close(onClose), null, 0.4f);
+            Btn(p.panel, "Đã hiểu", "btn_green", new Vector2(0, 100), new Vector2(460, 130), () => p.Close(onClose), "check", 0.4f);
         }
 
         // ---------------------------------------------------------------- win
@@ -351,9 +343,9 @@ namespace BepJam
             Pill(260, 300, "coin", $"+{k.coins}", Pal.Hex("C98A1A"));
             bool revive = k.CanRevive && onRevive != null;
             if (revive)
-                Btn(h.panel, $"Trả 1 đĩa & chơi tiếp ({k.returnsLeft})", "btn_green", new Vector2(0, 400), new Vector2(800, 136), () => Close(onRevive), null, 0.55f);
+                Btn(h.panel, $"Trả 1 đĩa & chơi tiếp ({k.returnsLeft})", "btn_green", new Vector2(0, 400), new Vector2(800, 136), () => Close(onRevive), "undo", 0.55f);
             Btn(h.panel, "Thử lại", revive ? "btn_yellow" : "btn_green", new Vector2(0, revive ? 240 : 320), new Vector2(800, 136), () => Close(onRetry), "retry", 0.65f);
-            var home = Btn(h.panel, "Về sảnh", "btn_yellow", new Vector2(0, revive ? 80 : 160), new Vector2(800, 136), () => Close(onHome), "home", 0.75f);
+            var home = Btn(h.panel, "Về sảnh", "btn_red", new Vector2(0, revive ? 80 : 160), new Vector2(800, 136), () => Close(onHome), "home", 0.75f);
             UIKit.Fit(home.label, 50, 26);
         }
     }

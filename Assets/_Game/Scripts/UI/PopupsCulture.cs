@@ -23,14 +23,7 @@ namespace BepJam
         {
             var b = UIKit.Button(text, parent, BepJam.Art.FX(sprite), text, 48, click);
             var rt = ((RectTransform)b.transform).Anchor(new Vector2(0.5f, 0f), new Vector2(0, yFromBottom + h / 2f), new Vector2(w, h));
-            if (icon != null)
-            {
-                var plate = UIKit.Img("IconPlate", rt, BepJam.Art.FX("btn_round_cream"));
-                ((RectTransform)plate.transform).Anchor(new Vector2(0, 0.5f), new Vector2(64, 6), new Vector2(h * 0.72f, h * 0.72f));
-                var ic = UIKit.Img("Icon", plate.transform, BepJam.Art.FX(icon));
-                ((RectTransform)ic.transform).Stretch(14, 12, 14, 18);
-                b.label.rectTransform.offsetMin = new Vector2(64 + h * 0.5f + 24, b.label.rectTransform.offsetMin.y);
-            }
+            if (icon != null) UIKit.CtaIcon(b, BepJam.Art.FX(icon), h);
             rt.localScale = Vector3.zero;
             Tween.Scale(rt, Vector3.one, 0.4f).SetEase(Ease.OutBack).SetDelay(delay).SetUnscaled();
             return b;
@@ -110,7 +103,7 @@ namespace BepJam
                 h.Close(onClose);
             }), "retry", 0.66f);
             Txt(p, "Bếp Jam: Việt – Hàn · v1.0", 30, CMute, new Vector2(0.5f, 0f), new Vector2(0, BottomPad + 130 + 40), new Vector2(700, 44));
-            PaperBtn(p, "Đóng", "btn_green", BottomPad, 380, 120, () => h.Close(onClose), null, 0.72f);
+            PaperBtn(p, "Đóng", "btn_green", BottomPad, 380, 120, () => h.Close(onClose), "check", 0.72f);
         }
 
         public static void Confirm(string title, string message, Action onYes)
@@ -118,9 +111,9 @@ namespace BepJam
             var h = Open("Xác nhận", 800, 720);
             Txt(h.panel, title, 46, CInk, new Vector2(0.5f, 1f), new Vector2(0, -200), new Vector2(680, 70));
             Txt(h.panel, message, 34, CMute, new Vector2(0.5f, 1f), new Vector2(0, -290), new Vector2(680, 110));
-            var no = PaperBtn(h.panel, "Không", "btn_green", BottomPad, 300, 116, () => h.Close(), null, 0.4f);
+            var no = PaperBtn(h.panel, "Không", "btn_green", BottomPad, 300, 116, () => h.Close(), "cross", 0.4f);
             ((RectTransform)no.transform).anchoredPosition += new Vector2(-170, 0);
-            var yes = PaperBtn(h.panel, "Xoá", "btn_red", BottomPad, 300, 116, () => h.Close(onYes), null, 0.45f);
+            var yes = PaperBtn(h.panel, "Xoá", "btn_red", BottomPad, 300, 116, () => h.Close(onYes), "retry", 0.45f);
             ((RectTransform)yes.transform).anchoredPosition += new Vector2(170, 0);
         }
 
@@ -197,7 +190,7 @@ namespace BepJam
             var body = Txt(p, "", 38, CInk, new Vector2(0.5f, 1f), new Vector2(0, -760), new Vector2(W - 170, 300));
             var tw = body.gameObject.AddComponent<Typewriter>(); tw.full = c.stories[idx]; tw.cps = 45; tw.sound = "type"; tw.Begin(1.0f);
             Txt(p, $"Chuyện {idx + 1} / {count}", 30, CMute, new Vector2(0.5f, 0f), new Vector2(0, BottomPad + 130 + 50), new Vector2(400, 44));
-            PaperBtn(p, "Tiếp tục", "btn_green", BottomPad, 420, 126, () => h.Close(onDone), null, 1.2f);
+            PaperBtn(p, "Tiếp tục", "btn_green", BottomPad, 420, 126, () => h.Close(onDone), "play", 1.2f);
             TapToFinish(h, tw);
         }
 
@@ -242,7 +235,7 @@ namespace BepJam
                 y += rowH;
             }
             content.sizeDelta = new Vector2(0, y);
-            PaperBtn(p, "Đóng", "btn_green", BottomPad, 380, 120, () => h.Close(onClose), null, 0.5f);
+            PaperBtn(p, "Đóng", "btn_green", BottomPad, 380, 120, () => h.Close(onClose), "check", 0.5f);
         }
     }
 
